@@ -1,6 +1,8 @@
 # Cyber-Bodega
 
-This is a Awesome 
+Welcome to my first Cybersecurity resources page.
+
+  NOTE: This is a living page
 
 # Virtual machines
 
