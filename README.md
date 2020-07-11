@@ -19,7 +19,7 @@
 - [Network Security Monitoring](#network-security-monitoring)
 - [Security Information and Event Management](#security-information-and-event-management)
 - [Open Source System Administrator Tools](#Open-Source-System-Administrator-Tools)
-
+- [Threat hunting](#Threat-hunting)
 
 ## Virtual machine Applications
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor
@@ -83,6 +83,10 @@
 
 See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
+## Open Source System Administrator Tools
+
+See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring)
+
 
 ## Websites Providing Cyber Training
 
@@ -138,8 +142,22 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - Single-server open source SIEM platform featuring asset discovery, asset inventorying, behavioral monitoring, and event correlation, driven by AlienVault Open Threat Exchange (OTX).
 - [Prelude SIEM OSS](https://www.prelude-siem.org/) - Open source, agentless SIEM with a long history and several commercial variants featuring security event collection, normalization, and alerting from arbitrary log input and numerous popular monitoring tools.
 
-## Open Source System Administrator Tools
 
-See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring)
+## Threat hunting
+
+(Also known as *hunt teaming* and *threat detection*.)
+
+See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
+
+- [CimSweep](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools enabling remote incident response and hunting operations across all versions of Windows.
+- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell module for hunt teaming via Windows Event logs.
+- [GRR Rapid Response](https://github.com/google/grr) - Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.
+- [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) - All-in-one Free Software threat hunting stack based on Elasticsearch, Logstash, Kafka, and Kibana with various built-in integrations for analytics including Jupyter Notebook.
+- [MozDef](https://github.com/mozilla/MozDef) - Automate the security incident handling process and facilitate the real-time activities of incident handlers.
+- [PSHunt](https://github.com/Infocyte/PSHunt) - PowerShell module designed to scan remote endpoints for indicators of compromise or survey them for more comprehensive information related to state of those systems.
+- [PSRecon](https://github.com/gfoss/PSRecon) - PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.
+- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
+- [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
+- [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 
 
