@@ -13,6 +13,7 @@
 - [Malware Databases](#malware-databases-and-cyber-news)
 - [Cyber Resources and News](#cyber-resources-and-news)
 - [Threat Intelligence](#threat-intelligence)
+- [Websites Providing Cyber Training](#websites-providing-cyber-training)
 
 ## Virtual machine Applications
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor
@@ -66,15 +67,24 @@
 - [CISO MAG](https://www.cisomag.com/) - Publication features news, comprehensive analysis, cutting-edge features & contributions from cybersecurity thought leaders
 - [OSINT](https://osintframework.com/) - Collection of tools to collect public information by category
 - [SANS Newsletter](https://www.sans.org/newsletters/) - Semiweekly high-level executive summary of the most important cyber news articles
-
+- [Pentestmonkey](http://pentestmonkey.net/) - Website dedicated to providing free custom pentesting scripts
+- [Gibson Research Corporation](https://www.grc.com/intro.htm) - Dude named Steve who just really likes to do cyber stuff
+- [National Security Agency](https://apps.nsa.gov/iaarchive/library/reports/#libraryMenu) -Hosts a library collection full of unique reports and tech tips
+- [FIRST](https://www.first.org/) - A global forum full of incident response, security techniques and write ups
+- [Lenny Seltzer](https://zeltser.com/automated-malware-analysis/) - Runs a website dedicated to providing resources to Digital forensics individuals
 
 ## Threat intelligence
 
 See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
 
+## Websites Prodiving Cyber Training
 
-
+- [FEDVTE](https://fedvte.usalearning.gov/) - A ton of free cyber security videos that can count towards CEU's
+- [Cybrary](https://www.cybrary.it/) - Videos on demand related to Cyber security
+- [Pluralsight](https://www.pluralsight.com/) - Very similar to Cybrary with videos on demand
+- [Udemy](https://www.udemy.com/) - Another video on demand website but you pay only for the classes you want
+- [SkillSoft](https://www.skillsoft.com/courses) - On demand courses you can pay for
 
 
 
