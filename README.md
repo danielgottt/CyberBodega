@@ -50,7 +50,13 @@
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - Italian GNU/Linux live distribution that pre-packages numerous digital forensics and evidence collection tools.
 - [Security Onion](https://securityonion.net/) - Free and open source GNU/Linux distribution for intrusion detection, enterprise security monitoring, and log management.
-
+- [Android Tamer](https://androidtamer.com/) - Based on Debian.
+- [BackBox](https://backbox.org/) - Based on Ubuntu.
+- [BlackArch Linux](https://blackarch.org/) - Based on Arch Linux.
+- [Fedora Security Lab](https://labs.fedoraproject.org/security/) - Based on Fedora.
+- [Pentoo](http://www.pentoo.ch/) - Based on Gentoo.
+- [URIX OS](http://urix.us/) - Based on openSUSE.
+- [Wifislax](http://www.wifislax.com/) - Based on Slackware.
 
 ## CTF Websites and Wargames
 - [HackTheBox](https://www.hackthebox.eu/login) - Popular CTF website
