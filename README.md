@@ -10,6 +10,9 @@
 - [Virtual Machine Resources](#virtual-machine-resources)
 - [CTF Websites and Wargames](#cft-websites-and-wargames)
 - [Simulation Training](#simulation-training)
+- [Malware Databases](#malware-databases-and-cyber-news)
+- [Cyber Resources and News](#cyber-resources-and-news)
+
 
 ## Virtual machine Applications
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor
@@ -50,11 +53,22 @@
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
 
 
+## Malware Databases
+- [National Vulnerability Database](https://nvd.nist.gov/)
+- [OWASP](https://owasp.org/projects/)
+- [Exploit Database](https://www.exploit-db.com/)
+
+
+## Cyber Resources and News
+- [Threatpost](https://threatpost.com/)
+- [CISO MAG](https://www.cisomag.com/)
+- [MITRE ATT&CK](https://attack.mitre.org/)
 
 
 
 
 
+- [OSINT](https://osintframework.com/)
 
 
 
