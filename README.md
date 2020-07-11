@@ -6,9 +6,10 @@
 
 ## Table Of Contents
 
-- [Virtual Machine Applications](#virtual-machine-applications)
-- [Virtual Machine Resources](#virtual-machine-resources)
-- [CTF Websites and Wargames](#cft-websites-and-wargames)
+- [Setup](#setup)
+  - [Virtual Machine Applications](#virtual-machine-applications)
+  - [Virtual Machine Resources](#virtual-machine-resources)
+  - [CTF Websites and Wargames](#cft-websites-and-wargames)
 - [Simulation Training](#simulation-training)
 - [Malware Databases](#malware-databases-and-cyber-news)
 - [Cyber Resources and News](#cyber-resources-and-news)
@@ -35,6 +36,8 @@
 - [Docker](https://www.docker.com/products/docker-desktop) - Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers 
 - [Kubernetes](https://kubernetes.io/) - An open-source system for automating deployment, scaling, and management of containerized applications
 
+
+# Setup
 ## Virtual Machine Resources
 - [Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v) - Pretty self explanatory
 - [Kali Linux](https://www.kali.org/downloads/) - If you want to be a l33t h@ck3r
