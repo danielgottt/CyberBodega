@@ -9,6 +9,7 @@
 - [Virtual Machine Applications](#virtual-machine-applications)
 - [Virtual Machine Resources](#virtual-machine-resources)
 - [CTF Websites and Wargames](#cft-websites-and-wargames)
+- [Simulation Training](#simulation-training)
 
 ## Virtual machine Applications
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor
@@ -39,6 +40,14 @@
 - [Forensic Puzzles](http://forensicscontest.com/puzzles)
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
 
+
+## Simulation Training
+- [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Toolset to make a system look as if it was the victim of an APT attack.
+- [Atomic Red Team](https://atomicredteam.io/) - Library of simple, automatable tests to execute for testing security controls.
+- [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
+- [Metta](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
+- [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
+- [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 
 
 
