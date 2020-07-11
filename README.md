@@ -27,6 +27,8 @@
 - [Cyber Security Books](#Cyber-Security-Books)
 - [Other Security Awesome Lists](#Other-Security-Awesome-Lists)
 
+# Setup
+>Tools used for creating CTF challenges
 
 ## Virtual machine Applications
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor
@@ -36,9 +38,6 @@
 - [Docker](https://www.docker.com/products/docker-desktop) - Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers 
 - [Kubernetes](https://kubernetes.io/) - An open-source system for automating deployment, scaling, and management of containerized applications
 
-
-# Setup
->Tools used for creating CTF challenges
 ## Virtual Machine Resources
 - [Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v) - Pretty self explanatory
 - [Kali Linux](https://www.kali.org/downloads/) - If you want to be a l33t h@ck3r
