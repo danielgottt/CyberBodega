@@ -8,7 +8,7 @@
 
 - [Virtual Machine Applications](#virtual-machine-applications)
 - [Virtual Machine Resources](#virtual-machine-resources)
-- [CTF Websites](#cft-websites)
+- [CTF Websites and Wargames](#cft-websites-and-wargames)
 
 ## Virtual machine Applications
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor
@@ -28,5 +28,29 @@
 - [VulnHub](https://www.vulnhub.com/) - A website dedicated to custom virtual machines to pwn
 
 
-## CTF Websites
+## CTF Websites and Wargames
+- [HackTheBox](https://www.hackthebox.eu/login)
+- [TryHackMe](https://tryhackme.com/login)
+- [OverTheWire](https://overthewire.org/wargames/)
+- [SANS Holiday Hack Challenges](https://www.holidayhackchallenge.com/past-challenges/index.html)
+- [CryptoPals](https://cryptopals.com/)
+- [Ethernaut](https://ethernaut.openzeppelin.com/)
+- [Netresec](https://www.netresec.com/?page=PcapFiles)
+- [Forensic Puzzles](http://forensicscontest.com/puzzles)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
