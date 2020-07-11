@@ -34,15 +34,15 @@
 
 
 ## CTF Websites and Wargames
-- [HackTheBox](https://www.hackthebox.eu/login)
-- [TryHackMe](https://tryhackme.com/login)
-- [OverTheWire](https://overthewire.org/wargames/)
-- [SANS Holiday Hack Challenges](https://www.holidayhackchallenge.com/past-challenges/index.html)
-- [CryptoPals](https://cryptopals.com/)
-- [Ethernaut](https://ethernaut.openzeppelin.com/)
-- [Netresec](https://www.netresec.com/?page=PcapFiles)
-- [Forensic Puzzles](http://forensicscontest.com/puzzles)
-- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
+- [HackTheBox](https://www.hackthebox.eu/login) - Popular CTF website
+- [TryHackMe](https://tryhackme.com/login) - Up and coming CTF website
+- [OverTheWire](https://overthewire.org/wargames/) - Wargame community that help you to learn and practice security concepts in the form of fun-filled games
+- [SANS Holiday Hack Challenges](https://www.holidayhackchallenge.com/past-challenges/index.html) - SANS annual CTF challenges for worthy opponents
+- [CryptoPals](https://cryptopals.com/) - A collection of 48 exercises that demonstrate attacks on real-world crypto
+- [Ethernaut](https://ethernaut.openzeppelin.com/) - Web3/Solidity based wargame inspired on overthewire
+- [Netresec](https://www.netresec.com/?page=PcapFiles) - Network analysis pcap challenges
+- [Forensic Puzzles](http://forensicscontest.com/puzzles) - Networking forensic challenges
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/) - Website dedicated to network analysis pcap traffic
 
 
 ## Simulation Training
@@ -54,9 +54,9 @@
 
 
 ## Malware Databases
-- [National Vulnerability Database](https://nvd.nist.gov/) -
-- [OWASP](https://owasp.org/projects/) -
-- [Exploit Database](https://www.exploit-db.com/) -
+- [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data
+- [OWASP](https://owasp.org/projects/) - Open Source Foundation for Application Security
+- [Exploit Database](https://www.exploit-db.com/) - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more
 - [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
 
 ## Cyber Resources and News
