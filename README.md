@@ -16,6 +16,10 @@
 ## Virtual machine Applications
  - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor
  - [VMware Workstation 15](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - VMware Workstation is a hosted hypervisor that runs on x64 versions of Windows and Linux operating systems
-  - [VMware Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html)
+  - [VMware Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html) - VMware Fusion is a software hypervisor developed by VMware for Macintosh computers.
+  - [VMWare ESXi](https://www.vmware.com/products/esxi-and-esx.html) - VMware ESXi is an enterprise-class, type-1 hypervisor developed by VMware for deploying and serving virtual computers.
+  
+  
+  
  - [Windows 10 .ISO](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 
