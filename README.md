@@ -6,14 +6,14 @@
 
 ## Contents
 
-- [Virtual_machines](#virtual_machines)
+- [Virtual machine Applications](#virtual-machine-applications)
 
 
 
 
 
 
-## Virtual_machines
+## Virtual machine Applications
  - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor
  - [VMware Workstation 15](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - VMware Workstation is a hosted hypervisor that runs on x64 versions of Windows and Linux operating systems
   - [VMware Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html)
