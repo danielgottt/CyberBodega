@@ -37,7 +37,7 @@
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Netresec](https://www.netresec.com/?page=PcapFiles)
 - [Forensic Puzzles](http://forensicscontest.com/puzzles)
-
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
 
 
 
