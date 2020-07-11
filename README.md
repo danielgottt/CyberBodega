@@ -12,7 +12,7 @@
 - [Simulation Training](#simulation-training)
 - [Malware Databases](#malware-databases-and-cyber-news)
 - [Cyber Resources and News](#cyber-resources-and-news)
-
+- [Threat Intelligence](#threat-intelligence)
 
 ## Virtual machine Applications
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor
@@ -66,6 +66,12 @@
 - [CISO MAG](https://www.cisomag.com/) - Publication features news, comprehensive analysis, cutting-edge features & contributions from cybersecurity thought leaders
 - [OSINT](https://osintframework.com/) - Collection of tools to collect public information by category
 - [SANS Newsletter](https://www.sans.org/newsletters/) - Semiweekly high-level executive summary of the most important cyber news articles
+
+
+## Threat intelligence
+
+See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
+
 
 
 
