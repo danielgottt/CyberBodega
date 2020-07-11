@@ -18,7 +18,7 @@
 - [Windows-based Defense](#windows-based-defense)
 - [Network Security Monitoring](#network-security-monitoring)
 - [Security Information and Event Management](#security-information-and-event-management)
-
+- [Open Source System Administrator Tools](#Open-Source-System-Administrator-Tools)
 
 
 ## Virtual machine Applications
@@ -138,6 +138,8 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - Single-server open source SIEM platform featuring asset discovery, asset inventorying, behavioral monitoring, and event correlation, driven by AlienVault Open Threat Exchange (OTX).
 - [Prelude SIEM OSS](https://www.prelude-siem.org/) - Open source, agentless SIEM with a long history and several commercial variants featuring security event collection, normalization, and alerting from arbitrary log input and numerous popular monitoring tools.
 
+## Open Source System Administrator Tools
 
+See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring)
 
 
