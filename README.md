@@ -8,10 +8,7 @@
 
 - [Virtual Machine Applications](#virtual-machine-applications)
 - [Virtual Machine Resources](#virtual-machine-resources)
-
-
-
-
+- [CTF Websites](#cft-websites)
 
 ## Virtual machine Applications
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor
@@ -29,3 +26,7 @@
 - [Tsuruigi](https://tsurugi-linux.org/) - An aditional DFIR virtual machine
 - [Any Linux Flavor](https://www.linux.org/pages/download/) - Click here to find any flavor of linux
 - [VulnHub](https://www.vulnhub.com/) - A website dedicated to custom virtual machines to pwn
+
+
+## CTF Websites
+
