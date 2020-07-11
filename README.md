@@ -27,6 +27,7 @@
 - [Tsuruigi](https://tsurugi-linux.org/) - An aditional DFIR virtual machine
 - [Any Linux Flavor](https://www.linux.org/pages/download/) - Click here to find any flavor of linux
 - [VulnHub](https://www.vulnhub.com/) - A website dedicated to custom virtual machines to pwn
+- [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 
 
 ## CTF Websites and Wargames
@@ -47,7 +48,7 @@
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
 - [Metta](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
-- [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
+
 
 
 
