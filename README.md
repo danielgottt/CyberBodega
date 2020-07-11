@@ -92,6 +92,7 @@
 - [Pluralsight](https://www.pluralsight.com/) - Very similar to Cybrary with videos on demand
 - [Udemy](https://www.udemy.com/) - Another video on demand website but you pay only for the classes you want
 - [SkillSoft](https://www.skillsoft.com/courses) - On demand courses you can pay for
+- [Kode Kloud](https://kodekloud.com/) - Courses specific to DevOps
 
 ## macOS-based defenses
 
