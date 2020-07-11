@@ -38,6 +38,7 @@
 
 
 # Setup
+>Tools used for creating CTF challenges
 ## Virtual Machine Resources
 - [Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v) - Pretty self explanatory
 - [Kali Linux](https://www.kali.org/downloads/) - If you want to be a l33t h@ck3r
@@ -62,6 +63,21 @@
 - [Netresec](https://www.netresec.com/?page=PcapFiles) - Network analysis pcap challenges
 - [Forensic Puzzles](http://forensicscontest.com/puzzles) - Networking forensic challenges
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/) - Website dedicated to network analysis pcap traffic
+- [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon.
+- [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) - Develop, deploy and maintain your own CTF infrastructure.
+- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook.
+- [Haaukins](https://github.com/aau-network-security/haaukins)- A Highly Accessible and Automated Virtualization Platform for Security Education.
+- [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform.
+- [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP.
+- [MotherFucking-CTF](https://github.com/andreafioraldi/motherfucking-ctf) - Badass lightweight plaform to host CTFs. No JS involved.
+- [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework.
+- [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required.
+- [PicoCTF](https://github.com/picoCTF/picoCTF) - The platform used to run picoCTF. A great framework to host any CTF.
+- [PyChallFactory](https://github.com/pdautry/py_chall_factory) - Small framework to create/manage/package jeopardy CTF challenges.
+- [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager).
+- [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon).
+- [SecGen](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines.
+
 
 
 ## Simulation Training
