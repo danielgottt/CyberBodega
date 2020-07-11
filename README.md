@@ -22,7 +22,7 @@
 - [Threat hunting tools](#Threat-hunting-tools)
 - [Docker Images for Penetration Testing & Security](#Docker-Images-for-Penetration-Testing-&-Security)
 - [Big Data](#Big-Data)
-
+- [Forensics Tools](#Forensics-Tools)
 - [Other Security Awesome Lists](#Other-Security-Awesome-Lists)
 
 
@@ -191,7 +191,14 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 - [Apache Spot (incubating)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 - [binarypig](https://github.com/endgameinc/binarypig) - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
 
+## Forensics Tools
 
+- [grr](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
+- [Volatility](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
+- [mig](http://mig.mozilla.org/) - MIG is a platform to perform investigative surgery on remote endpoints. It enables investigators to obtain information from large numbers of systems in parallel, thus accelerating investigation of incidents and day-to-day operations security.
+- [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+- [Logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+- [Meerkat](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
 
 
 
