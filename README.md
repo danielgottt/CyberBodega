@@ -78,7 +78,7 @@
 See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
 
-## Websites Prodiving Cyber Training
+## Websites Providing Cyber Training
 
 - [FEDVTE](https://fedvte.usalearning.gov/) - A ton of free cyber security videos that can count towards CEU's
 - [Cybrary](https://www.cybrary.it/) - Videos on demand related to Cyber security
