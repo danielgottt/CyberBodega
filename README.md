@@ -6,8 +6,8 @@
 
 ## Contents
 
-- [Virtual machine Applications](#virtual-machine-applications)
-
+- [Virtual Machine Applications](#virtual-machine-applications)
+- [Virtual Machine Resources](#virtual-machine-resources)
 
 
 
@@ -20,6 +20,6 @@
   - [VMWare ESXi](https://www.vmware.com/products/esxi-and-esx.html) - VMware ESXi is an enterprise-class, type-1 hypervisor developed by VMware for deploying and serving virtual computers.
   
   
-  
+  ## Virtual Machine Resources
  - [Windows 10 .ISO](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 
