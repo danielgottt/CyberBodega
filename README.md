@@ -4,7 +4,7 @@
 
 [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security)) are groups of individuals who identify security flaws in information technology systems, verify the effectiveness of security measures, and monitor the systems to ensure that implemented defensive measures remain effective in the future. While not exclusive, this list is heavily biased towards [Free Software](https://www.gnu.org/philosophy/free-sw.html) projects and against proprietary products or corporate services. For offensive TTPs, please see [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
-## Contents
+## Table Of Contents
 
 - [Virtual Machine Applications](#virtual-machine-applications)
 - [Virtual Machine Resources](#virtual-machine-resources)
@@ -54,22 +54,16 @@
 
 
 ## Malware Databases
-- [National Vulnerability Database](https://nvd.nist.gov/)
-- [OWASP](https://owasp.org/projects/)
-- [Exploit Database](https://www.exploit-db.com/)
-
+- [National Vulnerability Database](https://nvd.nist.gov/) -
+- [OWASP](https://owasp.org/projects/) -
+- [Exploit Database](https://www.exploit-db.com/) -
+- [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
 
 ## Cyber Resources and News
-- [Threatpost](https://threatpost.com/)
-- [CISO MAG](https://www.cisomag.com/)
-- [MITRE ATT&CK](https://attack.mitre.org/)
-
-
-
-
-
-- [OSINT](https://osintframework.com/)
-
+- [Threatpost](https://threatpost.com/) - Independent news site which is a leading source of information about IT and business security
+- [CISO MAG](https://www.cisomag.com/) - Publication features news, comprehensive analysis, cutting-edge features & contributions from cybersecurity thought leaders
+- [OSINT](https://osintframework.com/) - Collection of tools to collect public information by category
+- [SANS Newsletter](https://www.sans.org/newsletters/) - Semiweekly high-level executive summary of the most important cyber news articles
 
 
 
