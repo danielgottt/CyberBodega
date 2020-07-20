@@ -28,7 +28,7 @@
 - [Other Security Awesome Lists](#Other-Security-Awesome-Lists)
 
 # Setup
->Tools used for creating CTF challenges
+>Tools used to create/attempt CTF challenges
 
 ## Virtual machine Applications
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor
