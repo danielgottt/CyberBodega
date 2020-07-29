@@ -9,7 +9,7 @@
 - [Setup](#setup)
   - [Virtual Machine Applications](#virtual-machine-applications)
   - [Virtual Machine Resources](#virtual-machine-resources)
-  - [CTF Websites and Wargames](#cft-websites-and-wargames)
+  - [CTF Websites and Wargames](#ctf-websites-and-wargames)
 - [Simulation Training](#simulation-training)
 - [Malware Databases](#malware-databases-and-cyber-news)
 - [Cyber Resources and News](#cyber-resources-and-news)
