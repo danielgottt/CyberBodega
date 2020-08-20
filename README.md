@@ -10,7 +10,7 @@
   - [Virtual Machine Applications](#virtual-machine-applications)
   - [Virtual Machine Resources](#virtual-machine-resources)
   - [CTF Websites and Wargames](#ctf-websites-and-wargames)
-- [Resources] (#resources)
+- [Resources](#resources)
   - [Simulation Training](#simulation-training)
   - [Malware Databases](#malware-databases-and-cyber-news)
   - [Cyber Resources and News](#cyber-resources-and-news)
@@ -84,7 +84,7 @@
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon).
 - [SecGen](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines.
 
-
+# Resources
 
 ## Simulation Training
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Toolset to make a system look as if it was the victim of an APT attack.
