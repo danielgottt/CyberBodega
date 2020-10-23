@@ -1,8 +1,3 @@
->  _____     __             ___          __             
-> / ___/_ __/ /  ___ ____  / _ )___  ___/ /__ ___ ____ _
->/ /__/ // / _ \/ -_) __/ / _  / _ \/ _  / -_) _ `/ _ `/
->\___/\_, /_.__/\__/_/   /____/\___/\_,_/\__/\_, /\_,_/ 
->    /___/                                  /___/  
 
 >A collection of awesome resources, tools, and opportunities for defensive cyberspace operations
 
