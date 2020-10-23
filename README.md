@@ -29,10 +29,10 @@
   - [Threat hunting tools](#Threat-hunting-tools)
   - [Docker Images for Penetration Testing & Security](#Docker-Images-for-Penetration-Testing-&-Security)
   - [Big Data](#Big-Data)
-  - [Digital Forensics](#Digital Forensics)
+  - [Digital Forensics](#Digital-Forensics)
   - [Cyber Security Books](#Cyber-Security-Books)
   - [Other Security Awesome Lists](#Other-Security-Awesome-Lists)
-1
+  
 # Setup
 >Tools used to create/attempt CTF challenges
 
