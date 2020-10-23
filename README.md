@@ -101,6 +101,7 @@
 - [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
 - [Virus Share](https://virusshare.com/) - Because Sharing is Caring
 - [Kaggle](https://www.kaggle.com/c/malware-classification) - 50,000 public databases, 400,000 public notebooks
+- [Virus Total](https://www.virustotal.com/gui/) - Huge database full of known hashes and known hostnames being malicious
 ## Cyber Resources and News
 - [Threatpost](https://threatpost.com/) - Independent news site which is a leading source of information about IT and business security
 - [CISO MAG](https://www.cisomag.com/) - Publication features news, comprehensive analysis, cutting-edge features & contributions from cybersecurity thought leaders
