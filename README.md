@@ -99,7 +99,7 @@
 - [OWASP](https://owasp.org/projects/) - Open Source Foundation for Application Security
 - [Exploit Database](https://www.exploit-db.com/) - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more
 - [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
-
+- [Virus Share](https://virusshare.com/) - Because Sharing is Caring
 ## Cyber Resources and News
 - [Threatpost](https://threatpost.com/) - Independent news site which is a leading source of information about IT and business security
 - [CISO MAG](https://www.cisomag.com/) - Publication features news, comprehensive analysis, cutting-edge features & contributions from cybersecurity thought leaders
