@@ -21,7 +21,7 @@
   - [Cyber Resources and News](#cyber-resources-and-news)
   - [Threat Intelligence](#threat-intelligence)
   - [Websites Providing Cyber Training](#websites-providing-cyber-training)
-  - [macOS-based Defense](#macos-based-defense)
+  - [macOS-based Defense](#macOS-based-defenses)
   - [Windows-based Defense](#windows-based-defense)
   - [Network Security Monitoring](#network-security-monitoring)
   - [Security Information and Event Management](#security-information-and-event-management)
