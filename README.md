@@ -1,8 +1,11 @@
-            _____     __             ___          __             
-           / ___/_ __/ /  ___ ____  / _ )___  ___/ /__ ___ ____ _
-          / /__/ // / _ \/ -_) __/ / _  / _ \/ _  / -_) _ `/ _ `/
-          \___/\_, /_.__/\__/_/   /____/\___/\_,_/\__/\_, /\_,_/ 
-              /___/                                  /___/  
+                                                          _____      _                 ____            _                  
+                                                         / ____|    | |               |  _ \          | |                 
+                                                        | |    _   _| |__   ___ _ __  | |_) | ___   __| | ___  __ _  __ _ 
+                                                        | |   | | | | '_ \ / _ \ '__| |  _ < / _ \ / _` |/ _ \/ _` |/ _` |
+                                                        | |___| |_| | |_) |  __/ |    | |_) | (_) | (_| |  __/ (_| | (_| |
+                                                         \_____\__, |_.__/ \___|_|    |____/ \___/ \__,_|\___|\__, |\__,_|
+                                                                __/ |                                          __/ |      
+                                                               |___/                                          |___/   
 >A collection of awesome resources, tools, and opportunities for defensive cyberspace operations
 
 [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security)) are groups of individuals who identify security flaws in information technology systems, verify the effectiveness of security measures, and monitor the systems to ensure that implemented defensive measures remain effective in the future. While not exclusive, this list is heavily biased towards [Free Software](https://www.gnu.org/philosophy/free-sw.html) projects and against proprietary products or corporate services. For offensive TTPs, please see [awesome-pentest](https://github.com/fabacab/awesome-pentest).
