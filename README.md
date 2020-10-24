@@ -246,7 +246,7 @@ See [Click Here](https://github.com/Hack-with-Github/Free-Security-eBooks)
                     /_/      \____//_/    \___//_/ /_//____/ /_/  \___/ /____/ 
 
 - [Huge List of Digital Forensics](https://github.com/cugu/awesome-forensics)
-
+- [This Website is Huge](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 
 ## Other Security Awesome Lists
 
