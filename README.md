@@ -248,6 +248,7 @@ See [Click Here](https://github.com/Hack-with-Github/Free-Security-eBooks)
 - [Awesome Forensics](https://github.com/cugu/awesome-forensics)
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [DFIR Training](https://www.dfir.training/tools-sw-hw)
 - [This Website is Huuuuuuuuge](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 
 ## Other Security Awesome Lists
