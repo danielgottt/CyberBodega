@@ -245,8 +245,10 @@ See [Click Here](https://github.com/Hack-with-Github/Free-Security-eBooks)
                     _  __/   / /_/ /  /   /  __/  / / /(__  )_  / / /__ _(__  ) 
                     /_/      \____//_/    \___//_/ /_//____/ /_/  \___/ /____/ 
 
-- [Huge List of Digital Forensics](https://github.com/cugu/awesome-forensics)
-- [This Website is Huge](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
+- [Awesome Forensics](https://github.com/cugu/awesome-forensics)
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [This Website is Huuuuuuuuge](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 
 ## Other Security Awesome Lists
 
