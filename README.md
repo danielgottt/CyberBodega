@@ -63,6 +63,7 @@
 - [Pentoo](http://www.pentoo.ch/) - Based on Gentoo.
 - [URIX OS](http://urix.us/) - Based on openSUSE.
 - [Wifislax](http://www.wifislax.com/) - Based on Slackware.
+-[Flare VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html) - The Windows Malware Analysis Distribution You’ve Always Needed!
 
 ## CTF Websites and Wargames
 - [HackTheBox](https://www.hackthebox.eu/login) - Popular CTF website
@@ -279,4 +280,4 @@ See [Click Here](https://github.com/Hack-with-Github/Free-Security-eBooks)
 - [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
 - [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 - [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference. 
-
+- [Cyber Scholarships](https://dfirdiva.com/scholarships)
