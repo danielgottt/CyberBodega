@@ -16,11 +16,12 @@
   - [Virtual Machine Resources](#virtual-machine-resources)
   - [CTF Websites and Wargames](#ctf-websites-and-wargames)
 - [Resources](#resources)
-  - [Simulation Training](#simulation-training)
   - [Malware Databases](#malware-databases-and-cyber-news)
   - [Cyber Resources and News](#cyber-resources-and-news)
   - [Threat Intelligence](#threat-intelligence)
   - [Websites Providing Cyber Training](#websites-providing-cyber-training)
+- [Tips and Tricks](#Tips_and_Tricks)
+  - [Simulation Training](#simulation-training)
   - [macOS-based Defense](#macOS-based-defenses)
   - [Windows-based Defense](#Windows-based-defenses)
   - [Network Security Monitoring](#network-security-monitoring)
@@ -95,14 +96,6 @@
 
 # Resources
 
-## Simulation Training
-- [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Toolset to make a system look as if it was the victim of an APT attack.
-- [Atomic Red Team](https://atomicredteam.io/) - Library of simple, automatable tests to execute for testing security controls.
-- [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
-- [Metta](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
-- [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
-
-
 ## Malware Databases
 - [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data
 - [OWASP](https://owasp.org/projects/) - Open Source Foundation for Application Security
@@ -136,6 +129,15 @@
 - [Udemy](https://www.udemy.com/) - Another video on demand website but you pay only for the classes you want
 - [SkillSoft](https://www.skillsoft.com/courses) - On demand courses you can pay for
 - [Kode Kloud](https://kodekloud.com/) - Courses specific to DevOps
+
+# Tips_and_Tricks
+
+## Simulation Training
+- [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Toolset to make a system look as if it was the victim of an APT attack.
+- [Atomic Red Team](https://atomicredteam.io/) - Library of simple, automatable tests to execute for testing security controls.
+- [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
+- [Metta](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
+- [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
 
 ## macOS-based defenses
 
