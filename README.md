@@ -123,7 +123,7 @@
 - [Lenny Seltzer](https://zeltser.com/automated-malware-analysis/) - Runs a website dedicated to providing resources to Digital forensics individuals
 - [Krebson Security](https://krebsonsecurity.com/) - Writeups of events happening and IOC's
 - [CyberSecurity & Infrastructure Security Agency](https://us-cert.cisa.gov/) - Government Agency providing the good stuff
-- [Mandiant Fireeye Newsroom](https://www.fireeye.com/company/newsroom.html) - Cyber Newsroom
+- [Mandiant Newsroom](https://www.fireeye.com/company/newsroom.html) - Fireeye Cyber Newsroom
 
 ## Websites Providing Cyber Training
 
