@@ -123,6 +123,10 @@
 - [Cyber Scoop](https://www.cyberscoop.com/)
 - [InfoSeccurity Magazine](https://www.infosecurity-magazine.com/)
 - [BleepingComputer](https://www.bleepingcomputer.com/)
+- [PortSwigger](https://portswigger.net/daily-swig)
+- [Security News Wire](https://securitynewswire.com/index.php/Home)
+- [All InfoSec News](https://allinfosecnews.com/)
+
 ## Websites Providing Cyber Training
 
 - [SANS](https://www.sans.org/) - The go to website for cyber security training
