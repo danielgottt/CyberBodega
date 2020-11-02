@@ -114,7 +114,7 @@
 - [SANS Newsletter](https://www.sans.org/newsletters/) - Semiweekly high-level executive summary of the most important cyber news articles
 - [Pentestmonkey](http://pentestmonkey.net/) - Website dedicated to providing free custom pentesting scripts
 - [Gibson Research Corporation](https://www.grc.com/intro.htm) - Dude named Steve who just really likes to do cyber stuff
-- [National Security Agency](https://apps.nsa.gov/iaarchive/library/reports/#libraryMenu) -Hosts a library collection full of unique reports and tech tips
+- [National Security Agency](https://apps.nsa.gov/iaarchive/library/reports/#libraryMenu) - Hosts a library collection full of unique reports and tech tips
 - [FIRST](https://www.first.org/) - A global forum full of incident response, security techniques and write ups
 - [Lenny Seltzer](https://zeltser.com/automated-malware-analysis/) - Runs a website dedicated to providing resources to Digital forensics individuals
 - [Krebson Security](https://krebsonsecurity.com/)
