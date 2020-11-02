@@ -33,8 +33,9 @@
   - [Simulation Training](#simulation-training)
   - [Docker Images for Penetration Testing & Security](#Docker-Images-for-Penetration-Testing-&-Security)
   - [Big Data](#Big-Data)
-- [Digital Forensics](#Digital-Forensics)
   - [Other Security Awesome Lists](#Other-Security-Awesome-Lists)
+- [Digital Forensics](#Digital-Forensics)
+  
   
 # Setup
 >Tools used to create/attempt CTF challenges
@@ -244,26 +245,6 @@ See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-int
 ## Open Source System Administrator Tools
 See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring)
 
-# Digital Forensics
-
-                    _____________        __________       ______
-                    ___  __ \__(_)______ ___(_)_  /______ ___  /
-                    __  / / /_  /__  __ `/_  /_  __/  __ `/_  / 
-                    _  /_/ /_  / _  /_/ /_  / / /_ / /_/ /_  /  
-                    /_____/ /_/  _\__, / /_/  \__/ \__,_/ /_/   
-                                 /____/                         
-                    __________                               _____              
-                    ___  ____/__________________________________(_)_____________
-                    __  /_   _  __ \_  ___/  _ \_  __ \_  ___/_  /_  ___/_  ___/
-                    _  __/   / /_/ /  /   /  __/  / / /(__  )_  / / /__ _(__  ) 
-                    /_/      \____//_/    \___//_/ /_//____/ /_/  \___/ /____/ 
-
-- [Awesome Forensics](https://github.com/cugu/awesome-forensics)
-- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
-- [DFIR Training](https://www.dfir.training/tools-sw-hw)
-- [This Website is Huuuuuuuuge](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
-
 ## Other Security Awesome Lists
 
 - [Android Security Awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
@@ -292,4 +273,24 @@ See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#mon
 - [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
 - [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 - [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference. 
-- [Cyber Scholarships](https://dfirdiva.com/scholarships)
+- [DFIR Diva Cyber Scholarships](https://dfirdiva.com/scholarships)
+
+# Digital Forensics
+
+                    _____________        __________       ______
+                    ___  __ \__(_)______ ___(_)_  /______ ___  /
+                    __  / / /_  /__  __ `/_  /_  __/  __ `/_  / 
+                    _  /_/ /_  / _  /_/ /_  / / /_ / /_/ /_  /  
+                    /_____/ /_/  _\__, / /_/  \__/ \__,_/ /_/   
+                                 /____/                         
+                    __________                               _____              
+                    ___  ____/__________________________________(_)_____________
+                    __  /_   _  __ \_  ___/  _ \_  __ \_  ___/_  /_  ___/_  ___/
+                    _  __/   / /_/ /  /   /  __/  / / /(__  )_  / / /__ _(__  ) 
+                    /_/      \____//_/    \___//_/ /_//____/ /_/  \___/ /____/ 
+
+- [Awesome Forensics](https://github.com/cugu/awesome-forensics)
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [DFIR Training](https://www.dfir.training/tools-sw-hw)
+- [This Website is Huuuuuuuuge](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
