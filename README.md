@@ -112,6 +112,7 @@
 - [Threatpost](https://threatpost.com/) - Independent news site which is a leading source of information about IT and business security
 - [CISO MAG](https://www.cisomag.com/) - Publication features news, comprehensive analysis, cutting-edge features & contributions from cybersecurity thought leaders
 - [OSINT](https://osintframework.com/) - Collection of tools to collect public information by category
+- [SANS Reading Room](https://www.sans.org/reading-room)
 - [SANS Newsletter](https://www.sans.org/newsletters/) - Semiweekly high-level executive summary of the most important cyber news articles
 - [Pentestmonkey](http://pentestmonkey.net/) - Website dedicated to providing free custom pentesting scripts
 - [Gibson Research Corporation](https://www.grc.com/intro.htm) - Dude named Steve who just really likes to do cyber stuff
