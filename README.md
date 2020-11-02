@@ -67,7 +67,7 @@
 - [Pentoo](http://www.pentoo.ch/) - Based on Gentoo.
 - [URIX OS](http://urix.us/) - Based on openSUSE.
 - [Wifislax](http://www.wifislax.com/) - Based on Slackware.
--[Flare VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html) - The Windows Malware Analysis Distribution You’ve Always Needed!
+- [Flare VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html) - The Windows Malware Analysis Distribution You’ve Always Needed!
 
 ## CTF Websites and Wargames
 - [HackTheBox](https://www.hackthebox.eu/login) - Popular CTF website
@@ -107,6 +107,7 @@
 - [Virus Share](https://virusshare.com/) - Because Sharing is Caring
 - [Kaggle](https://www.kaggle.com/c/malware-classification) - 50,000 public databases, 400,000 public notebooks
 - [Virus Total](https://www.virustotal.com/gui/) - Huge database full of known hashes and known hostnames being malicious
+- [HackSplaining](https://www.hacksplaining.com/lessons)
 ## Cyber Resources and News
 - [Threatpost](https://threatpost.com/) - Independent news site which is a leading source of information about IT and business security
 - [CISO MAG](https://www.cisomag.com/) - Publication features news, comprehensive analysis, cutting-edge features & contributions from cybersecurity thought leaders
