@@ -122,7 +122,7 @@
 - [Mandiant Newsroom](https://www.fireeye.com/company/newsroom.html)
 - [Cyber Scoop](https://www.cyberscoop.com/)
 - [InfoSeccurity Magazine](https://www.infosecurity-magazine.com/)
-
+- [BleepingComputer](https://www.bleepingcomputer.com/)
 ## Websites Providing Cyber Training
 
 - [SANS](https://www.sans.org/) - The go to website for cyber security training
