@@ -98,7 +98,7 @@
 - [Precision Widgets of North Dakota Intrusion](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
 
 # Resources
-
+>Tips and Tricks, News and information, Etc
 ## Malware Databases
 - [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data
 - [OWASP](https://owasp.org/projects/) - Open Source Foundation for Application Security
@@ -137,7 +137,7 @@
 See [Click Here](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 # Host Security
-
+>Tools for Host Security
 ## macOS-based defenses
 
 - [BlockBlock](https://objective-see.com/products/blockblock.html) - Monitors common persistence locations and alerts whenever a persistent component is added, which helps to detect and prevent malware installation.
@@ -176,7 +176,7 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 
 # Network Security
-
+>Tools for Network Security
 ## Network Security Monitoring
 
 See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
