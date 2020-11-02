@@ -33,7 +33,7 @@
   - [Simulation Training](#simulation-training)
   - [Docker Images for Penetration Testing & Security](#Docker-Images-for-Penetration-Testing-&-Security)
   - [Big Data](#Big-Data)
-  - [Digital Forensics](#Digital-Forensics)
+- [Digital Forensics](#Digital-Forensics)
   - [Other Security Awesome Lists](#Other-Security-Awesome-Lists)
   
 # Setup
