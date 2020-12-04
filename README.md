@@ -130,7 +130,7 @@
 - [BleepingComputer](https://www.bleepingcomputer.com/)
 - [PortSwigger](https://portswigger.net/daily-swig)
 - [Security News Wire](https://securitynewswire.com/index.php/Home)
-- [All InfoSec News](https://allinfosecnews.com/)
+- [All InfoSec News](https://allinfosecnews.com/) <------ This is my favourite
 ## OSINT
 - [OSINT](https://osintframework.com/) - Collection of tools to collect public information by category
 - [I-Intelligence OSINT Handbook](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
