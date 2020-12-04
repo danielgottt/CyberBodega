@@ -21,6 +21,7 @@
   - [Cyber Resources and News](#cyber-resources-and-news)
   - [Cyber Scholarships](#cyber-scholarships)
   - [Threat Intelligence](#threat-intelligence)
+  - [Open Source Intelligence](#osint)
   - [Websites Providing Cyber Training](#websites-providing-cyber-training)
   - [Cyber Security Books](#Cyber-Security-Books)
 - [Host Security](#Host_Security)
