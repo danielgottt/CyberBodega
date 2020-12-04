@@ -147,7 +147,8 @@
 - [Kode Kloud](https://kodekloud.com/) - Courses specific to DevOps
 
 ## Cyber Security Books
-See [Click Here](https://github.com/Hack-with-Github/Free-Security-eBooks)
+- [Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
+- [Offsec PDF's](https://github.com/jivoi/offsec_pdfs)
 
 # Host Security
 >Tools for Host Security
@@ -190,7 +191,7 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 
 # Network Security
->Tools for Network Security
+
 ## Network Security Monitoring
 
 See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
