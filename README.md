@@ -18,6 +18,7 @@
 - [Resources](#resources)
   - [Malware Databases](#malware-databases-and-cyber-news)
   - [Cyber Resources and News](#cyber-resources-and-news)
+  - [Cyber Scholarships](#cyber-scholarships)
   - [Threat Intelligence](#threat-intelligence)
   - [Websites Providing Cyber Training](#websites-providing-cyber-training)
   - [Cyber Security Books](#Cyber-Security-Books)
@@ -128,7 +129,8 @@
 - [PortSwigger](https://portswigger.net/daily-swig)
 - [Security News Wire](https://securitynewswire.com/index.php/Home)
 - [All InfoSec News](https://allinfosecnews.com/)
-
+## Cyber Scholarships
+- [DFIR Diva Cyber Scholarships](https://dfirdiva.com/scholarships)
 ## Websites Providing Cyber Training
 
 - [SANS](https://www.sans.org/) - The go to website for cyber security training
@@ -280,7 +282,7 @@ See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#mon
 - [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
 - [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 - [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference. 
-- [DFIR Diva Cyber Scholarships](https://dfirdiva.com/scholarships)
+
 
 # Digital Forensics
 
