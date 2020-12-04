@@ -16,6 +16,7 @@
   - [Virtual Machine Resources](#virtual-machine-resources)
   - [CTF Websites and Wargames](#ctf-websites-and-wargames)
 - [Resources](#resources)
+  - [Cyber Scholarships](#cyber-scholarships)
   - [Malware Databases](#malware-databases-and-cyber-news)
   - [Cyber Resources and News](#cyber-resources-and-news)
   - [Cyber Scholarships](#cyber-scholarships)
@@ -100,6 +101,8 @@
 
 # Resources
 >Tips and Tricks, News and information, Etc
+## Cyber Scholarships
+- [DFIR Diva Cyber Scholarships](https://dfirdiva.com/scholarships)
 ## Malware Databases
 - [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data
 - [OWASP](https://owasp.org/projects/) - Open Source Foundation for Application Security
@@ -129,8 +132,9 @@
 - [PortSwigger](https://portswigger.net/daily-swig)
 - [Security News Wire](https://securitynewswire.com/index.php/Home)
 - [All InfoSec News](https://allinfosecnews.com/)
-## Cyber Scholarships
-- [DFIR Diva Cyber Scholarships](https://dfirdiva.com/scholarships)
+## OSINT
+
+
 ## Websites Providing Cyber Training
 
 - [SANS](https://www.sans.org/) - The go to website for cyber security training
