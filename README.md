@@ -58,7 +58,6 @@
 - [Metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - A very vulnerable machine to test your payloads on
 - [SIFT](https://digital-forensics.sans.org/community/downloads) - SANS DFIR virtual machine
 - [Tsuruigi](https://tsurugi-linux.org/) - An aditional DFIR virtual machine
-- [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/) - For the hardcore, no writeups
 - [Any Linux Flavor](https://www.linux.org/pages/download/) - Click here to find any flavor of linux
 - [VulnHub](https://www.vulnhub.com/) - A website dedicated to custom virtual machines to pwn
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
@@ -76,6 +75,7 @@
 ## CTF Websites and Wargames
 - [HackTheBox](https://www.hackthebox.eu/login) - Popular CTF website
 - [TryHackMe](https://tryhackme.com/login) - Up and coming CTF website
+- [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/) - For the hardcore, no writeups
 - [OverTheWire](https://overthewire.org/wargames/) - Wargame community that help you to learn and practice security concepts in the form of fun-filled games
 - [SANS Holiday Hack Challenges](https://www.holidayhackchallenge.com/past-challenges/index.html) - SANS annual CTF challenges for worthy opponents
 - [CryptoPals](https://cryptopals.com/) - A collection of 48 exercises that demonstrate attacks on real-world crypto
