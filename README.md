@@ -17,7 +17,7 @@
   - [CTF Websites and Wargames](#ctf-websites-and-wargames)
 - [Resources](#resources)
   - [Cyber Scholarships](#cyber-scholarships)
-  - [Malware Databases](#malware-databases-and-cyber-news)
+  - [Malware/Intel Databases](#malware/intel-databases-and-cyber-news)
   - [Cyber Resources and News](#cyber-resources-and-news)
   - [Cyber Scholarships](#cyber-scholarships)
   - [Threat Intelligence](#threat-intelligence)
@@ -105,10 +105,11 @@
 >Tips and Tricks, News and information, Etc
 ## Cyber Scholarships
 - [DFIR Diva Cyber Scholarships](https://dfirdiva.com/scholarships)
-## Malware Databases
+## Malware/Intel Databases
 - [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data
 - [OWASP](https://owasp.org/projects/) - Open Source Foundation for Application Security
 - [Exploit Database](https://www.exploit-db.com/) - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more
+- [Talos Intelligence](https://talosintelligence.com/vulnerability_reports/) - List of found intel and CVE information
 - [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
 - [Virus Share](https://virusshare.com/) - Because Sharing is Caring
 - [Kaggle](https://www.kaggle.com/c/malware-classification) - 50,000 public databases, 400,000 public notebooks
