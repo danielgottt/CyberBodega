@@ -105,7 +105,7 @@
 >Tips and Tricks, News and information, Etc
 ## Cyber Scholarships
 - [DFIR Diva Cyber Scholarships](https://dfirdiva.com/scholarships)
-## Malware/Intel Databases
+## Malware and Intel Databases
 - [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data
 - [OWASP](https://owasp.org/projects/) - Open Source Foundation for Application Security
 - [Exploit Database](https://www.exploit-db.com/) - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more
