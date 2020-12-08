@@ -17,7 +17,7 @@
   - [CTF Websites and Wargames](#ctf-websites-and-wargames)
 - [Resources](#resources)
   - [Cyber Scholarships](#cyber-scholarships)
-  - [Malware/Intel Databases](#malware/intel-databases-and-cyber-news)
+  - [Malware and Intel Databases](#malware-and-intel-databases)
   - [Cyber Resources and News](#cyber-resources-and-news)
   - [Cyber Scholarships](#cyber-scholarships)
   - [Threat Intelligence](#threat-intelligence)
