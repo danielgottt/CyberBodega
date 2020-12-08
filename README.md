@@ -137,6 +137,7 @@
 - [I-Intelligence OSINT Handbook](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
 - [BellingCat](https://www.bellingcat.com/) - Website almost dedicated to OSINT information and news related to OSINT
 
+
 ## Websites Providing Cyber Training
 
 - [SANS](https://www.sans.org/) - The go to website for cyber security training
@@ -146,7 +147,9 @@
 - [Udemy](https://www.udemy.com/) - Another video on demand website but you pay only for the classes you want
 - [SkillSoft](https://www.skillsoft.com/courses) - On demand courses you can pay for
 - [Kode Kloud](https://kodekloud.com/) - Courses specific to DevOps
-
+- [Shodan](https://www.shodan.io/) - Google for cyber dudes
+- [Zoomeye](https://www.zoomeye.org/) - Cyberspace search engine (Kinda like shodan)
+- [Spyse](https://spyse.com/) - Kinda like Zoomeye and Shodan
 ## Cyber Security Books
 - [Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
 - [Offsec PDF's](https://github.com/jivoi/offsec_pdfs)
