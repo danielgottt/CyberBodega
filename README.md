@@ -58,6 +58,7 @@
 - [Metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - A very vulnerable machine to test your payloads on
 - [SIFT](https://digital-forensics.sans.org/community/downloads) - SANS DFIR virtual machine
 - [Tsuruigi](https://tsurugi-linux.org/) - An aditional DFIR virtual machine
+- [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/) - For the hardcore, no writeups
 - [Any Linux Flavor](https://www.linux.org/pages/download/) - Click here to find any flavor of linux
 - [VulnHub](https://www.vulnhub.com/) - A website dedicated to custom virtual machines to pwn
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
@@ -314,3 +315,5 @@ See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#mon
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [DFIR Training](https://www.dfir.training/tools-sw-hw)
 - [This Website is Huuuuuuuuge](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
+- [Binary Ninja](https://binary.ninja/) - New type of reversing platform
+- [
