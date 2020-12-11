@@ -19,7 +19,6 @@
   - [Cyber Scholarships](#cyber-scholarships)
   - [Malware and Intel Databases](#malware-and-intel-databases)
   - [Cyber Resources and News](#cyber-resources-and-news)
-  - [Cyber Scholarships](#cyber-scholarships)
   - [Threat Intelligence](#threat-intelligence)
   - [Open Source Intelligence](#osint)
   - [Websites Providing Cyber Training](#websites-providing-cyber-training)
