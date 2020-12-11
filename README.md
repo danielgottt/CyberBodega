@@ -31,6 +31,7 @@
   - [Network Security Monitoring](#network-security-monitoring)
   - [Security Information and Event Management](#security-information-and-event-management)
 - [Incident Response](#incident-response)
+  - [Incident Response Resources](#incident-response-resources)
   - [Incident Response Frameworks](#incident-response-frameworks)
 - [Etcetera](#Etcetera)
   - [Open Source System Administrator Tools](#Open-Source-System-Administrator-Tools)
@@ -124,7 +125,6 @@
 - [Pentestmonkey](http://pentestmonkey.net/) - Website dedicated to providing free custom pentesting scripts
 - [Gibson Research Corporation](https://www.grc.com/intro.htm) - Dude named Steve who just really likes to do cyber stuff
 - [National Security Agency](https://apps.nsa.gov/iaarchive/library/reports/#libraryMenu) - Hosts a library collection full of unique reports and tech tips
-- [FIRST](https://www.first.org/) - A global forum full of incident response, security techniques and write ups
 - [Lenny Seltzer](https://zeltser.com/automated-malware-analysis/) - Runs a website dedicated to providing resources to Digital forensics individuals
 - [Krebson Security](https://krebsonsecurity.com/)
 - [CyberSecurity & Infrastructure Security Agency](https://us-cert.cisa.gov/)
@@ -226,6 +226,9 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Prelude SIEM OSS](https://www.prelude-siem.org/) - Open source, agentless SIEM with a long history and several commercial variants featuring security event collection, normalization, and alerting from arbitrary log input and numerous popular monitoring tools.
 
 # Incident Response
+
+## Incident Response Resources
+- [FIRST](https://www.first.org/) - A global forum full of incident response, security techniques and write ups
 
 ## Incident Response Frameworks
 - [The Hive](https://thehive-project.org/) - Scalable 4-1 IR SIEM technology that has a powerful backend for automatic alerts.
