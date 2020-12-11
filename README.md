@@ -107,6 +107,7 @@
 >Tips and Tricks, News and information, Etc
 ## Cyber Scholarships
 - [DFIR Diva Cyber Scholarships](https://dfirdiva.com/scholarships)
+- [Thick list of Scholarships](https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/academic-major/cybersecurity)
 ## Malware and Intel Databases
 - [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data
 - [OWASP](https://owasp.org/projects/) - Open Source Foundation for Application Security
