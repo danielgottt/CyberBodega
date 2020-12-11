@@ -192,7 +192,6 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 - [MozDef](https://github.com/mozilla/MozDef) - Automate the security incident handling process and facilitate the real-time activities of incident handlers.
 - [PSHunt](https://github.com/Infocyte/PSHunt) - PowerShell module designed to scan remote endpoints for indicators of compromise or survey them for more comprehensive information related to state of those systems.
 - [PSRecon](https://github.com/gfoss/PSRecon) - PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.
-- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 
@@ -316,4 +315,4 @@ See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#mon
 - [DFIR Training](https://www.dfir.training/tools-sw-hw)
 - [This Website is Huuuuuuuuge](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 - [Binary Ninja](https://binary.ninja/) - New type of reversing platform
-- [
+- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
