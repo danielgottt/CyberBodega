@@ -152,6 +152,7 @@
 - [Udemy](https://www.udemy.com/) - Another video on demand website but you pay only for the classes you want
 - [SkillSoft](https://www.skillsoft.com/courses) - On demand courses you can pay for
 - [Kode Kloud](https://kodekloud.com/) - Courses specific to DevOps
+- [Quartz Cyber List](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/) - 400 Free Ivy-league courses? Yeah why not 
 
 ## Cyber Security Books
 - [Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
