@@ -54,7 +54,7 @@
 - [Kubernetes](https://kubernetes.io/) - An open-source system for automating deployment, scaling, and management of containerized applications
 
 ## Virtual Machine Resources
-- [Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v) - Pretty self explanatory
+- [Windows 10](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/) - Pretty self explanatory
 - [Kali Linux](https://www.kali.org/downloads/) - If you want to be a l33t h@ck3r
 - [Parrot](https://parrotlinux.org/) - Another pentesting toolkit
 - [Metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - A very vulnerable machine to test your payloads on
