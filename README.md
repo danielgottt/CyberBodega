@@ -30,9 +30,6 @@
 - [Network Security](#Network-Security)
   - [Network Security Monitoring](#network-security-monitoring)
   - [Security Information and Event Management](#security-information-and-event-management)
-- [Incident Response](#incident-response)
-  - [Incident Response Resources](#incident-response-resources)
-  - [Incident Response Frameworks](#incident-response-frameworks)
 - [Etcetera](#Etcetera)
   - [Open Source System Administrator Tools](#Open-Source-System-Administrator-Tools)
   - [Simulation Training](#simulation-training)
@@ -131,6 +128,7 @@
 - [CyberSecurity & Infrastructure Security Agency](https://us-cert.cisa.gov/)
 - [Mandiant Newsroom](https://www.fireeye.com/company/newsroom.html)
 - [Cyber Scoop](https://www.cyberscoop.com/)
+- [FIRST](https://www.first.org/) - A global forum full of incident response, security techniques and write ups
 - [InfoSeccurity Magazine](https://www.infosecurity-magazine.com/)
 - [BleepingComputer](https://www.bleepingcomputer.com/)
 - [PortSwigger](https://portswigger.net/daily-swig)
@@ -226,13 +224,6 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [HELK](https://github.com/Cyb3rWard0g/HELK) - open source hunt platforms with advanced analytics capabilities such as SQL declarative language, graphing, structured streaming, and even machine learning via Jupyter notebooks and Apache Spark over an ELK stack
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - Single-server open source SIEM platform featuring asset discovery, asset inventorying, behavioral monitoring, and event correlation, driven by AlienVault Open Threat Exchange (OTX).
 - [Prelude SIEM OSS](https://www.prelude-siem.org/) - Open source, agentless SIEM with a long history and several commercial variants featuring security event collection, normalization, and alerting from arbitrary log input and numerous popular monitoring tools.
-
-# Incident Response
-
-## Incident Response Resources
-- [FIRST](https://www.first.org/) - A global forum full of incident response, security techniques and write ups
-
-## Incident Response Frameworks
 - [The Hive](https://thehive-project.org/) - Scalable 4-1 IR SIEM technology that has a powerful backend for automatic alerts.
 
 # Etcetera
