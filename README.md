@@ -156,6 +156,7 @@
 ## Cyber Security Books
 - [Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
 - [Offsec PDF's](https://github.com/jivoi/offsec_pdfs)
+- [Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md) - Github list of every programming book you'll ever need
 
 # Host Security
 >Tools for Host Security
