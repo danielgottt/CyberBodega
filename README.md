@@ -115,7 +115,12 @@
 - [Virus Share](https://virusshare.com/) - Because Sharing is Caring
 - [Kaggle](https://www.kaggle.com/c/malware-classification) - 50,000 public databases, 400,000 public notebooks
 - [Virus Total](https://www.virustotal.com/gui/) - Huge database full of known hashes and known hostnames being malicious
+- [Totalhash](https://totalhash.cymru.com/)
 - [HackSplaining](https://www.hacksplaining.com/lessons)
+- [SecurityFocus](https://www.securityfocus.com/)
+- [CVE Proof of Concepts](https://github.com/qazbnm456/awesome-cve-poc)
+
+
 ## Cyber Resources and News
 - [Threatpost](https://threatpost.com/) - Independent news site which is a leading source of information about IT and business security
 - [CISO MAG](https://www.cisomag.com/) - Publication features news, comprehensive analysis, cutting-edge features & contributions from cybersecurity thought leaders
@@ -132,9 +137,11 @@
 - [FIRST](https://www.first.org/) - A global forum full of incident response, security techniques and write ups
 - [InfoSeccurity Magazine](https://www.infosecurity-magazine.com/)
 - [BleepingComputer](https://www.bleepingcomputer.com/)
-- [ Googles Security Blog](https://security.googleblog.com/)
+- [Googles Security Blog](https://security.googleblog.com/)
+- [SANS Internet Storm Center](https://isc.sans.edu/)
 - [PortSwigger](https://portswigger.net/daily-swig)
 - [Security News Wire](https://securitynewswire.com/index.php/Home)
+- [FireEye Blog](https://www.fireeye.com/blog.html)
 - [All InfoSec News](https://allinfosecnews.com/) <------ This is my favourite
 ## OSINT
 - [OSINT](https://osintframework.com/) - Collection of tools to collect public information by category
@@ -155,6 +162,8 @@
 - [Kode Kloud](https://kodekloud.com/) - Courses specific to DevOps
 - [Quartz Cyber List](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/) - 400 Free Ivy-league courses? Yeah why not 
 - [Code Academy](https://www.codecademy.com/) - The names gives it away
+- [OpenSecurityTraining](https://opensecuritytraining.info/Training.html)
+
 ## Cyber Security Books
 - [Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
 - [Offsec PDF's](https://github.com/jivoi/offsec_pdfs)
@@ -237,6 +246,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
 - [Metta](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
+- [Cladera Framework](https://github.com/mitre/caldera)
 
 ## Docker Images for Penetration Testing & Security
 - `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
@@ -322,3 +332,4 @@ See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#mon
 - [This Website is Huuuuuuuuge](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 - [Binary Ninja](https://binary.ninja/) - New type of reversing platform
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
+- [Dr Fu's Security Blog](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
