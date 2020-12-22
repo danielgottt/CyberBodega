@@ -132,6 +132,7 @@
 - [FIRST](https://www.first.org/) - A global forum full of incident response, security techniques and write ups
 - [InfoSeccurity Magazine](https://www.infosecurity-magazine.com/)
 - [BleepingComputer](https://www.bleepingcomputer.com/)
+- [ Googles Security Blog](https://security.googleblog.com/)
 - [PortSwigger](https://portswigger.net/daily-swig)
 - [Security News Wire](https://securitynewswire.com/index.php/Home)
 - [All InfoSec News](https://allinfosecnews.com/) <------ This is my favourite
