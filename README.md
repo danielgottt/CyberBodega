@@ -55,7 +55,7 @@
 - [Kali Linux](https://www.kali.org/downloads/) - If you want to be a l33t h@ck3r
 - [Parrot](https://parrotlinux.org/) - Another pentesting toolkit
 - [Metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - A very vulnerable machine to test your payloads on
-- [REMnux](https://remnux.org/)
+- [REMnux](https://remnux.org/) - REMnux® is a Linux toolkit for reverse-engineering and analyzing malicious software, maintained by Lenny Zeltser
 - [SIFT](https://digital-forensics.sans.org/community/downloads) - SANS DFIR virtual machine
 - [Tsuruigi](https://tsurugi-linux.org/) - An aditional DFIR virtual machine
 - [Any Linux Flavor](https://www.linux.org/pages/download/) - Click here to find any flavor of linux
