@@ -333,3 +333,7 @@ See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#mon
 - [Binary Ninja](https://binary.ninja/) - New type of reversing platform
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
 - [Dr Fu's Security Blog](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
+
+##Extra Dynamic Analysis
+
+##Extra Statis Analysis
