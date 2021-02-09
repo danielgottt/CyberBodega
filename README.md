@@ -100,6 +100,7 @@
 - [Challenges & CTFs](https://aboutdfir.com/education/challenges-ctfs/) - AboutDFIR's list of Challenges & CTFs
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
 - [Precision Widgets of North Dakota Intrusion](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
+- [Lets Defend](https://letsdefend.io/)
 
 # Resources
 >Tips and Tricks, News and information, Etc
@@ -333,7 +334,10 @@ See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#mon
 - [Binary Ninja](https://binary.ninja/) - New type of reversing platform
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
 - [Dr Fu's Security Blog](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
+- [Lenny Zeltser](https://zeltser.com/start-learning-malware-analysis/)
+- [MalwareTech](https://www.malwaretech.com/)
 
 ##Extra Dynamic Analysis
 
 ##Extra Statis Analysis
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)
