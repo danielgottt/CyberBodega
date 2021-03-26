@@ -5,7 +5,7 @@
                     | |      \   / |  _ <|  __| |  _  /      |  _ <| |  | | |  | |  __|| | |_ | / /\ \  
                     | |____   | |  | |_) | |____| | \ \      | |_) | |__| | |__| | |___| |__| |/ ____ \ 
                      \_____|  |_|  |____/|______|_|  \_\     |____/ \____/|_____/|______\_____/_/    \_\
->A collection of awesome resources, tools, and opportunities for defensive cyberspace operations or offensive cyberspace operations
+>A collection of awesome resources, tools, and opportunities for defensive cyberspace operations or offensive cyberspace operations.
 
 [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security)) are groups of individuals who identify security flaws in information technology systems, verify the effectiveness of security measures, and monitor the systems to ensure that implemented defensive measures remain effective in the future. While not exclusive, this list is heavily biased towards [Free Software](https://www.gnu.org/philosophy/free-sw.html) projects and against proprietary products or corporate services. For offensive TTPs, please see [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
