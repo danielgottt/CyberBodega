@@ -330,5 +330,5 @@ See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#mon
 
 ##Extra Dynamic Analysis
 
-##Extra Statis Analysis
+##Extra Static Analysis
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
