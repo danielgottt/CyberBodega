@@ -1,10 +1,3 @@
-
-                      _______     ______  ______ _____        ____   ____  _____  ______ _____          
-                     / ____\ \   / /  _ \|  ____|  __ \      |  _ \ / __ \|  __ \|  ____/ ____|   /\    
-                    | |     \ \_/ /| |_) | |__  | |__) |     | |_) | |  | | |  | | |__ | |  __   /  \   
-                    | |      \   / |  _ <|  __| |  _  /      |  _ <| |  | | |  | |  __|| | |_ | / /\ \  
-                    | |____   | |  | |_) | |____| | \ \      | |_) | |__| | |__| | |___| |__| |/ ____ \ 
-                     \_____|  |_|  |____/|______|_|  \_\     |____/ \____/|_____/|______\_____/_/    \_\
                      
 ### UPDATE: I am working diligently on finding a better solution to display the information on this page. There will be more updates in the future!
 
@@ -304,18 +297,6 @@ See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#mon
 
 
 # Digital Forensics
-
-                    _____________        __________       ______
-                    ___  __ \__(_)______ ___(_)_  /______ ___  /
-                    __  / / /_  /__  __ `/_  /_  __/  __ `/_  / 
-                    _  /_/ /_  / _  /_/ /_  / / /_ / /_/ /_  /  
-                    /_____/ /_/  _\__, / /_/  \__/ \__,_/ /_/   
-                                 /____/                         
-                    __________                               _____              
-                    ___  ____/__________________________________(_)_____________
-                    __  /_   _  __ \_  ___/  _ \_  __ \_  ___/_  /_  ___/_  ___/
-                    _  __/   / /_/ /  /   /  __/  / / /(__  )_  / / /__ _(__  ) 
-                    /_/      \____//_/    \___//_/ /_//____/ /_/  \___/ /____/ 
 
 - [Awesome Forensics](https://github.com/cugu/awesome-forensics)
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
