@@ -1,8 +1,6 @@
                      
 ### UPDATE: I am working diligently on finding a better solution to display the information on this page. There will be more updates in the future!
 
->A collection of awesome resources, tools, and opportunities for defensive cyberspace operations or offensive cyberspace operations.
-
 ## Table Of Contents
 
 - [Setup](#setup)
