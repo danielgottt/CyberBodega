@@ -25,7 +25,6 @@
   - [Threat Intelligence](#threat-intelligence)
   - [Open Source Intelligence](#osint)
   - [Websites Providing Cyber Training](#websites-providing-cyber-training)
-  - [Cyber Security Books](#Cyber-Security-Books)
 - [Host Security](#Host_Security)
   - [macOS-based Defense](#macOS-based-defenses)
   - [Windows-based Defense](#Windows-based-defenses)
@@ -170,15 +169,10 @@
 - [Code Academy](https://www.codecademy.com/) - The names gives it away
 - [OpenSecurityTraining](https://opensecuritytraining.info/Training.html)
 
-## Cyber Security Books
-- [Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
-- [Offsec PDF's](https://github.com/jivoi/offsec_pdfs)
-- [Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md) - Github list of every programming book you'll ever need
-
 # Host Security
 >Tools for Host Security
-## macOS-based defenses
 
+## macOS-based defenses
 - [BlockBlock](https://objective-see.com/products/blockblock.html) - Monitors common persistence locations and alerts whenever a persistent component is added, which helps to detect and prevent malware installation.
 - [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
 - [Santa](https://github.com/google/santa) - Binary whitelisting/blacklisting system for macOS.
@@ -236,7 +230,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Zeek](https://zeek.org/) - Powerful network analysis framework focused on security monitoring, formerly known as Bro.
 - [netsniff-ng](http://netsniff-ng.org/) -  Free and fast GNU/Linux networking toolkit with numerous utilities such as a connection tracking tool (`flowtop`), traffic generator (`trafgen`), and autonomous system (AS) trace route utility (`astraceroute`)
 
-## Security Information and Event Management
+## Security Information and Event Management (SIEM)
 
 - [RockNSM](https://rocknsm.io/) - Durable Network Security Monitoring sensor built with scalability, security, and hunt-centric tactics in mind
 - [HELK](https://github.com/Cyb3rWard0g/HELK) - open source hunt platforms with advanced analytics capabilities such as SQL declarative language, graphing, structured streaming, and even machine learning via Jupyter notebooks and Apache Spark over an ELK stack
