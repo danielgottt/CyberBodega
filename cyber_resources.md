@@ -9,7 +9,7 @@
 
 ### Staying up to date
 - [All InfoSec News](https://allinfosecnews.com/) <---- Summary of all top cyber publishers
-- [SANS Newsletter](https://www.sans.org/newsletters/) - Semiweekly high-level executive summary of the most important cyber news articles
+- [SANS Newsletter](https://www.sans.org/newsletters/)
 - [Threatpost](https://threatpost.com/)
 - [FireEye Blog](https://www.fireeye.com/blog.html) 
 - [Krebson Security](https://krebsonsecurity.com/)
