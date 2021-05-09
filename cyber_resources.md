@@ -23,7 +23,7 @@
 
 
   ## Exploit Databases/Signature Lookups
-  - [Exploit Database](https://www.exploit-db.com/) - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials
+  - [Exploit Database](https://www.exploit-db.com/) - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles
   - [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data
   - [Talos Intelligence](https://talosintelligence.com/vulnerability_reports/) - List of found intelligence and CVE information
   - [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
