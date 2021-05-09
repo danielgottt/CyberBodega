@@ -9,12 +9,13 @@
 ### Staying up to date
 
 
+### Malware Databases/Signatures
+
+
 ### Threat Intelligence
 
 
-### Scholarships
-
-
-### Malware Databases/Signatures
-
 ### Articles I've found useful
+
+
+### Scholarships
