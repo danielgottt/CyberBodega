@@ -4,8 +4,9 @@
 - [Exploit Databases/Signatures](#exploit-databases/signature-lookups)
 - [Threat Intelligence](#Threat-intelligence)
 - [OSINT Tools](#osint-tools)
-- [Articles I've found useful](#articles-i've-found-useful)
 - [Scholarships](#scholarships)
+- [Articles I've found useful](#articles-i've-found-useful)
+
 
   ## Staying up to date
   - [All InfoSec News](https://allinfosecnews.com/) <--- Summary of all top cyber publishers
@@ -44,11 +45,10 @@
   - [Zoomeye](https://www.zoomeye.org/) - Cyberspace search engine (Kinda like shodan)
   - [Spyse](https://spyse.com/) - Kinda like Zoomeye and Shodan
 
-
-  ## Articles I've found Interesting
-
-
   ## Scholarships
   - [DFIR Diva Cyber Scholarships](https://dfirdiva.com/scholarships)
   - [Giant list of Cyber Scholarships](https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/academic-major/cybersecurity)
   - [ISC2-NCR Chaptor Scholarship](https://web.isc2ncrchapter.org/isc2-national-capital-region-scholarships/)
+
+  ## Articles I've found Interesting
+
