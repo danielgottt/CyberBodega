@@ -1,4 +1,4 @@
-# Cyber Information
+# Cyber Resources
 ## Resources pertaining to, 
   - [Staying up to date](#staying-up-to-date)
   - [Malware Databases/Signatures](#malware-databases/Signatures)
@@ -15,7 +15,8 @@
 ### Threat Intelligence
 
 
-### Articles I've found useful
+### Articles I've found Interesting
 
 
 ### Scholarships
+
