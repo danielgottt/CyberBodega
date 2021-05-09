@@ -8,7 +8,7 @@
 - [Scholarships](#scholarships)
 
   ## Staying up to date
-  - [All InfoSec News](https://allinfosecnews.com/) <---- Summary of all top cyber publishers
+  - [All InfoSec News](https://allinfosecnews.com/) <--- Summary of all top cyber publishers
   - [SANS Newsletter](https://www.sans.org/newsletters/)
   - [Threatpost](https://threatpost.com/)
   - [FireEye Blog](https://www.fireeye.com/blog.html) 
