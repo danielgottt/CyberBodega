@@ -34,7 +34,7 @@
 
 
   ## Threat Intelligence
-
+  - See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
   ## OSINT Tools
   - [OSINT](https://osintframework.com/) - Collection of tools to collect public information by category
