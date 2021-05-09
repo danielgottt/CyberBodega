@@ -1,5 +1,5 @@
-# Cyber Resources
-## Resources pertaining to, 
+
+# Resources pertaining to, 
   - [Staying up to date](#staying-up-to-date)
   - [Exploit Databases/Signatures](#exploit-databases/signature-lookups)
   - [Threat Intelligence](#Threat-intelligence)
@@ -7,7 +7,7 @@
   - [Articles I've found useful](#articles-i've-found-useful)
   - [Scholarships](#scholarships)
 
-### Staying up to date
+## Staying up to date
 - [All InfoSec News](https://allinfosecnews.com/) <---- Summary of all top cyber publishers
 - [SANS Newsletter](https://www.sans.org/newsletters/)
 - [Threatpost](https://threatpost.com/)
@@ -22,7 +22,7 @@
 - [PortSwigger](https://portswigger.net/daily-swig)
 
 
-### Exploit Databases/Signature Lookups
+## Exploit Databases/Signature Lookups
 - [Exploit Database](https://www.exploit-db.com/) - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials
 - [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data
 - [Talos Intelligence](https://talosintelligence.com/vulnerability_reports/) - List of found intelligence and CVE information
@@ -33,10 +33,10 @@
 - [Totalhash](https://totalhash.cymru.com/) - Punch in your collected atomic indicators, hashes, etc
 
 
-### Threat Intelligence
+## Threat Intelligence
 
 
-### OSINT Tools
+## OSINT Tools
 - [OSINT](https://osintframework.com/) - Collection of tools to collect public information by category
 - [I-Intelligence OSINT Handbook](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
 - [BellingCat](https://www.bellingcat.com/) - Website almost dedicated to OSINT information and news related to OSINT
@@ -45,10 +45,10 @@
 - [Spyse](https://spyse.com/) - Kinda like Zoomeye and Shodan
 
 
-### Articles I've found Interesting
+## Articles I've found Interesting
 
 
-### Scholarships
+## Scholarships
 
 - [DFIR Diva Cyber Scholarships](https://dfirdiva.com/scholarships)
 - [Giant list of Cyber Scholarships](https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/academic-major/cybersecurity)
