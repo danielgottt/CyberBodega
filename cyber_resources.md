@@ -18,8 +18,8 @@
 - [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data
 - [Talos Intelligence](https://talosintelligence.com/vulnerability_reports/) - List of found intelligence and CVE information
 - [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
-- [Virus Share](https://virusshare.com/) - Because Sharing is Caring
 - [CVE Proof of Concepts](https://github.com/qazbnm456/awesome-cve-poc) - Proven exploits for known vulnerabilities
+- [Virus Share](https://virusshare.com/) - Because Sharing is Caring
 - [Virus Total](https://www.virustotal.com/gui/) - Huge database full of known hashes and known hostnames being malicious
 - [Totalhash](https://totalhash.cymru.com/) - Punch in your collected atomic indicators, hashes, etc
 
