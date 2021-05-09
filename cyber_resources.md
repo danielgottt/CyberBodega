@@ -1,11 +1,11 @@
 
 # Resources pertaining to, 
-  - [Staying up to date](#staying-up-to-date)
-  - [Exploit Databases/Signatures](#exploit-databases/signature-lookups)
-  - [Threat Intelligence](#Threat-intelligence)
-  - [OSINT Tools](#osint-tools)
-  - [Articles I've found useful](#articles-i've-found-useful)
-  - [Scholarships](#scholarships)
+  1. [Staying up to date](#staying-up-to-date)
+  2. [Exploit Databases/Signatures](#exploit-databases/signature-lookups)
+  3. [Threat Intelligence](#Threat-intelligence)
+  4. [OSINT Tools](#osint-tools)
+  5. [Articles I've found useful](#articles-i've-found-useful)
+  6. [Scholarships](#scholarships)
 
   ## Staying up to date
 - [All InfoSec News](https://allinfosecnews.com/) <---- Summary of all top cyber publishers
