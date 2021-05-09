@@ -1,18 +1,18 @@
 
 # Resources pertaining to...
-  -[Staying up to date](#staying-up-to-date)
-  -[Exploit Databases/Signatures](#exploit-databases/signature-lookups)
-  -[Threat Intelligence](#Threat-intelligence)
-  -[OSINT Tools](#osint-tools)
-  -[Articles I've found useful](#articles-i've-found-useful)
-  -[Scholarships](#scholarships)
+- [Staying up to date](#staying-up-to-date)
+- [Exploit Databases/Signatures](#exploit-databases/signature-lookups)
+- [Threat Intelligence](#Threat-intelligence)
+- [OSINT Tools](#osint-tools)
+- [Articles I've found useful](#articles-i've-found-useful)
+- [Scholarships](#scholarships)
 
   ## Staying up to date
-- [All InfoSec News](https://allinfosecnews.com/) <---- Summary of all top cyber publishers
-- [SANS Newsletter](https://www.sans.org/newsletters/)
-- [Threatpost](https://threatpost.com/)
-- [FireEye Blog](https://www.fireeye.com/blog.html) 
-- [Krebson Security](https://krebsonsecurity.com/)
+  - [All InfoSec News](https://allinfosecnews.com/) <---- Summary of all top cyber publishers
+  - [SANS Newsletter](https://www.sans.org/newsletters/)
+  - [Threatpost](https://threatpost.com/)
+  - [FireEye Blog](https://www.fireeye.com/blog.html) 
+  - [Krebson Security](https://krebsonsecurity.com/)
 - [Mandiant Newsroom](https://www.fireeye.com/company/newsroom.html)
 - [Cyber Scoop](https://www.cyberscoop.com/)
 - [SecurityFocus](https://www.securityfocus.com/)
