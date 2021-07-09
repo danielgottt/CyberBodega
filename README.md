@@ -1,5 +1,7 @@
 # https://danielgottt.github.io/CyberBodega/
 
+I like to share resources and information I learn through this github page! Enjoy!!
+
 ### UPDATE: I am working diligently on finding a better solution to display the information on this page. There will be more updates in the future!
 
 * [Getting Started](./getting_started.md)
