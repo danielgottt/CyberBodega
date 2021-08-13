@@ -7,7 +7,14 @@
 
 ## Setup
 
-Find an application to create a virtualized enviorment [VMware Workstation 15](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html), find the right VM to fit your need, and then start learnign!
+1. Find an application to create a virtualized enviorment [VMware Workstation 15](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html), 
+2. Find the right VM to fit your need, 
+>DFIR = [Flare VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html), or [REMnux](https://remnux.org/)
+>Pentesting = [Kali Linux](https://www.kali.org/downloads/) or [Parrot](https://parrotlinux.org/)
+4. Find the challenges!
+> Packet Analysis = [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
+> DFIR = [DFIR Training](https://www.dfir.training/tools-sw-hw)
+> Pentesting = [HackTheBox](https://www.hackthebox.eu/login), or [TryHackMe](https://tryhackme.com/login), or [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/)
 
 ## Virtualization technology
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor⭐
