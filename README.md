@@ -109,20 +109,3 @@ See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#mon
 - [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference. 
 
 
-# Digital Forensics
-
-- [Awesome Forensics](https://github.com/cugu/awesome-forensics)
-- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
-- [DFIR Training](https://www.dfir.training/tools-sw-hw)
-- [This Website is Huuuuuuuuge](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
-- [Binary Ninja](https://binary.ninja/) - New type of reversing platform
-- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
-- [Dr Fu's Security Blog](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
-- [Lenny Zeltser](https://zeltser.com/start-learning-malware-analysis/)
-- [MalwareTech](https://www.malwaretech.com/)
-
-##Extra Dynamic Analysis
-
-##Extra Static Analysis
-- [Hybrid Analysis](https://www.hybrid-analysis.com/)
