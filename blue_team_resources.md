@@ -1,5 +1,5 @@
 # Blue Team Resources
-## Resources pertaining to...
+## Resources Pertaining To...
 - [Threat Intelligence](#threat-intelligence)
 - [Host Security](#host-security)
 - [Network Security](#network-security)
