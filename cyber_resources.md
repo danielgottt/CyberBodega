@@ -1,10 +1,10 @@
 
 # Resources pertaining to...
-- [Staying up to date](#staying-up-to-date)
-- [Exploit Databases](#exploit-databases)
-- [OSINT Tools](#osint-tools)
-- [Scholarships](#scholarships)
-- [Useful Articles](#useful-articles)
+  - [Staying up to date](#staying-up-to-date)
+  - [Exploit Databases](#exploit-databases)
+  - [OSINT Tools](#osint-tools)
+  - [Scholarships](#scholarships)
+  - [Useful Articles](#useful-articles)
 
 
   ## Staying up to date
