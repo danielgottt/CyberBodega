@@ -15,6 +15,8 @@ See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-int
 - [Abuse IPDB](https://www.abuseipdb.com/) - Check to see if that IP is known to be malicious
 - [URL Void](https://www.urlvoid.com/) - URL reputation checker
 - [Central Ops](https://centralops.net/) - whois/traceroute tool
+- [Kaggle](https://www.kaggle.com/c/malware-classification) - 50,000 public databases, 400,000 public notebooks
+
 
 ## Host Security
 
