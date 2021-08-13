@@ -10,8 +10,8 @@
 
 
 ### Virtualization technology
-- [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor ⭐
-- [VMware Workstation 15](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - VMware Workstation is a hosted hypervisor that runs on x64 versions of Windows and Linux operating systems ⭐
+- [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor⭐
+- [VMware Workstation 15](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - VMware Workstation is a hosted hypervisor that runs on x64 versions of Windows and Linux operating systems⭐
 - [VMware Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html) - VMware Fusion is a software hypervisor developed by VMware for Macintosh computers.
 - [VMWare ESXi](https://www.vmware.com/products/esxi-and-esx.html) - VMware ESXi is an enterprise-class, type-1 hypervisor developed by VMware for deploying and serving virtual computers.
 - [Docker](https://www.docker.com/products/docker-desktop) - Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers 
@@ -22,22 +22,22 @@
 - [Any Linux Flavor](https://www.linux.org/pages/download/) - Click here to find any flavor of linux
 - [Kali Linux](https://www.kali.org/downloads/) - If you want to be a l33t h@ck3r
 - [Parrot](https://parrotlinux.org/) - Another pentesting toolkit
-- [REMnux](https://remnux.org/) - REMnux® is a Linux toolkit for reverse-engineering and analyzing malicious software, maintained by Lenny Zeltser ⭐
-- [SIFT](https://digital-forensics.sans.org/community/downloads) - SANS DFIR virtual machine ⭐
+- [REMnux](https://remnux.org/) - REMnux® is a Linux toolkit for reverse-engineering and analyzing malicious software, maintained by Lenny Zeltser⭐
+- [SIFT](https://digital-forensics.sans.org/community/downloads) - SANS DFIR virtual machine⭐
 - [Tsuruigi](https://tsurugi-linux.org/) - An aditional DFIR virtual machine
 - [VulnHub](https://www.vulnhub.com/) - A website dedicated to custom virtual machines to pwn
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - Italian GNU/Linux live distribution that pre-packages numerous digital forensics and evidence collection tools.
 - [Security Onion](https://securityonion.net/) - Free and open source GNU/Linux distribution for intrusion detection, enterprise security monitoring, and log management.
 - [Android Tamer](https://androidtamer.com/), [BackBox](https://backbox.org/), [BlackArch Linux](https://blackarch.org/), [Fedora Security Lab](https://labs.fedoraproject.org/security/), [Pentoo](http://www.pentoo.ch/), [URIX OS](http://urix.us/), or [Wifislax](http://www.wifislax.com/)
-- [Flare VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html) - The Windows Malware Analysis Distribution You’ve Always Needed! ⭐
-- - [Metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - A very vulnerable machine to test your payloads on. 
+- [Flare VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html) - The Windows Malware Analysis Distribution You’ve Always Needed!⭐
+- [Metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - A very vulnerable machine to test your payloads on. 
 
 ### Multitude of CTF type websites
 - [HackTheBox](https://www.hackthebox.eu/login) - Popular CTF website ⭐
 - [TryHackMe](https://tryhackme.com/login) - Up and coming CTF website ⭐
 - [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/) - For the hardcore, no writeups
-- [OverTheWire](https://overthewire.org/wargames/) - Wargame community that help you to learn and practice security concepts in the form of fun-filled games ⭐
+- [OverTheWire](https://overthewire.org/wargames/) - Wargame community that help you to learn and practice security concepts in the form of fun-filled games⭐
 - [SANS Holiday Hack Challenges](https://www.holidayhackchallenge.com/past-challenges/index.html) - SANS annual CTF challenges for worthy opponents
 - [CryptoPals](https://cryptopals.com/) - A collection of 48 exercises that demonstrate attacks on real-world crypto
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - Web3/Solidity based wargame inspired on overthewire
