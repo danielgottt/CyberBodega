@@ -10,6 +10,12 @@
 ## Threat Intelligence
   - See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
+- [Virus Share](https://virusshare.com/) - Because Sharing is Caring
+- [Virus Total](https://www.virustotal.com/gui/) - Huge database full of known hashes and known hostnames being malicious
+- [Totalhash](https://totalhash.cymru.com/) - Punch in your collected atomic indicators, hashes, etc
+- [Abuse IPDB](https://www.abuseipdb.com/) - Check to see if that IP is known to be malicious
+- [URL Void](https://www.urlvoid.com/) - URL reputation checker
+- [Central Ops](https://centralops.net/) - whois/traceroute tool
 
 ## Host Security
 
