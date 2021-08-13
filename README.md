@@ -9,6 +9,7 @@ I like to share resources and information I learn through this github page! Enjo
 * [Training](./training.md)
 * [Blue Team Resources](./blue_team_resources.md)
 * [Red Team Resources](./red_team_resources.md)
+* [Awesome Lists](./awesome_lists.md)
 
 ## Table Of Contents
 
