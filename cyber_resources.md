@@ -20,6 +20,11 @@
   - [Gibson Research Corporation](https://www.grc.com/intro.htm) 
   - [Security News Wire](https://securitynewswire.com/index.php/Home)
   - [PortSwigger](https://portswigger.net/daily-swig)
+  - [Pentestmonkey](http://pentestmonkey.net/) - Website dedicated to providing free custom pentesting scripts
+  - [CyberSecurity & Infrastructure Security Agency](https://us-cert.cisa.gov/)
+  - [FIRST](https://www.first.org/) - A global forum full of incident response, security techniques and write ups
+  - [BleepingComputer](https://www.bleepingcomputer.com/)
+
 
 
   ## Exploit Databases
@@ -28,6 +33,7 @@
   - [Talos Intelligence](https://talosintelligence.com/vulnerability_reports/) - List of found intelligence and CVE information
   - [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
   - [CVE Proof of Concepts](https://github.com/qazbnm456/awesome-cve-poc) - Proven exploits for known vulnerabilities
+  - [OWASP](https://owasp.org/projects/) - Open Source Foundation for Application Security
 
   ## OSINT Tools
   - [OSINT](https://osintframework.com/) - Collection of tools to collect public information by category
