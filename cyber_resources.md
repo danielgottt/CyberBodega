@@ -2,14 +2,13 @@
 # Resources pertaining to...
 - [Staying up to date](#staying-up-to-date)
 - [Exploit Databases](#exploit-databases)
-- [Threat Intelligence](#Threat-intelligence)
 - [OSINT Tools](#osint-tools)
 - [Scholarships](#scholarships)
-- [Articles I've found useful](#articles-i've-found-useful)
+- [Useful Articles](#useful-articles)
 
 
   ## Staying up to date
-  - [All InfoSec News](https://allinfosecnews.com/) <--- Summary of all top cyber publishers
+  - [All InfoSec News](https://allinfosecnews.com/) ⭐
   - [SANS Newsletter](https://www.sans.org/newsletters/)
   - [Threatpost](https://threatpost.com/)
   - [FireEye Blog](https://www.fireeye.com/blog.html) 
@@ -30,15 +29,6 @@
   - [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
   - [CVE Proof of Concepts](https://github.com/qazbnm456/awesome-cve-poc) - Proven exploits for known vulnerabilities
 
-
-  - [Virus Share](https://virusshare.com/) - Because Sharing is Caring
-  - [Virus Total](https://www.virustotal.com/gui/) - Huge database full of known hashes and known hostnames being malicious
-  - [Totalhash](https://totalhash.cymru.com/) - Punch in your collected atomic indicators, hashes, etc
-
-
-  ## Threat Intelligence
-  - See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
-
   ## OSINT Tools
   - [OSINT](https://osintframework.com/) - Collection of tools to collect public information by category
   - [I-Intelligence OSINT Handbook](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
@@ -52,5 +42,5 @@
   - [Giant list of Cyber Scholarships](https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/academic-major/cybersecurity)
   - [ISC2-NCR Chaptor Scholarship](https://web.isc2ncrchapter.org/isc2-national-capital-region-scholarships/)
 
-  ## Articles I've found Interesting
+  ## Useful Articles
 
