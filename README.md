@@ -6,6 +6,9 @@ I like to share resources and information I learn through this github page! Enjo
 
 * [Getting Started](./getting_started.md)
 * [Cyber Resources](./cyber_resources.md)
+* [Training](./training.md)
+* [Blue Team Resources](./blue_team_resources.md)
+* [Red Team Resources](./red_team_resources.md)
 
 ## Table Of Contents
 
