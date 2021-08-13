@@ -1,5 +1,5 @@
-
-# Resources pertaining to...
+# Cyber Resources
+## Resources pertaining to...
   - [Staying up to date](#staying-up-to-date)
   - [Exploit Databases](#exploit-databases)
   - [OSINT Tools](#osint-tools)
