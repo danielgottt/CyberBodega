@@ -10,6 +10,8 @@
 - [OpenSecurityTraining](https://opensecuritytraining.info/Training.html)
 - [Code Academy](https://www.codecademy.com/) - The names gives it away
 - [Quartz Cyber List](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/) - 400 Free Ivy-league courses? Yeah why not 
+- [HackSplaining](https://www.hacksplaining.com/lessons)
+- [SecurityFocus](https://www.securityfocus.com/)
 
 ## Pay to Win Websites
 - [SANS](https://www.sans.org/) - The go to website for cyber security training
