@@ -5,9 +5,9 @@
   - [Operating system resources](#Operating-system-resources)
   - [Multitude of CTF type websites](#Multitude-of-CTF-type-websites)
 
-### Setup
+## Setup
 
-
+Find an application to create a virtualized enviorment [VMware Workstation 15](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html), find the right VM to fit your need, and then start learnign!
 
 ## Virtualization technology
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor⭐
