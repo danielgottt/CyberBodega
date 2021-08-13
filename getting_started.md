@@ -69,4 +69,3 @@
 - [Challenges & CTFs](https://aboutdfir.com/education/challenges-ctfs/) - AboutDFIR's list of Challenges & CTFs
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
 - [Precision Widgets of North Dakota Intrusion](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
-- [Lets Defend](https://letsdefend.io/)
