@@ -11,8 +11,7 @@
   - See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
 
-
-## [Host Security]
+## Host Security
 
 ### Windows Tools
 See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security) and [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening).
@@ -44,3 +43,6 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 - [PSRecon](https://github.com/gfoss/PSRecon) - PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
+
+
+
