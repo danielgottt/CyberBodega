@@ -64,7 +64,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Zeek](https://zeek.org/) - Powerful network analysis framework focused on security monitoring, formerly known as Bro.
 - [netsniff-ng](http://netsniff-ng.org/) -  Free and fast GNU/Linux networking toolkit with numerous utilities such as a connection tracking tool (`flowtop`), traffic generator (`trafgen`), and autonomous system (AS) trace route utility (`astraceroute`)
 
-## Security Information and Event Management (SIEM)
+## SIEM Technology (Security Information and Event Management)
 
 - [RockNSM](https://rocknsm.io/) - Durable Network Security Monitoring sensor built with scalability, security, and hunt-centric tactics in mind
 - [HELK](https://github.com/Cyb3rWard0g/HELK) - open source hunt platforms with advanced analytics capabilities such as SQL declarative language, graphing, structured streaming, and even machine learning via Jupyter notebooks and Apache Spark over an ELK stack
