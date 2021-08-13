@@ -9,7 +9,7 @@
 
 
 
-### Virtualization technology
+## Virtualization technology
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - Oracle VM VirtualBox is a free and open-source hosted hypervisor⭐
 - [VMware Workstation 15](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - VMware Workstation is a hosted hypervisor that runs on x64 versions of Windows and Linux operating systems⭐
 - [VMware Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html) - VMware Fusion is a software hypervisor developed by VMware for Macintosh computers.
@@ -17,7 +17,7 @@
 - [Docker](https://www.docker.com/products/docker-desktop) - Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers 
 - [Kubernetes](https://kubernetes.io/) - An open-source system for automating deployment, scaling, and management of containerized applications
 
-### Operating system resources
+## Operating system resources
 - [Windows 10](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/) - Pretty self explanatory
 - [Any Linux Flavor](https://www.linux.org/pages/download/) - Click here to find any flavor of linux
 - [Kali Linux](https://www.kali.org/downloads/) - If you want to be a l33t h@ck3r
@@ -33,7 +33,7 @@
 - [Flare VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html) - The Windows Malware Analysis Distribution You’ve Always Needed!⭐
 - [Metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - A very vulnerable machine to test your payloads on. 
 
-### Multitude of CTF type websites
+## Multitude of CTF type websites
 - [HackTheBox](https://www.hackthebox.eu/login) - Popular CTF website ⭐
 - [TryHackMe](https://tryhackme.com/login) - Up and coming CTF website ⭐
 - [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/) - For the hardcore, no writeups
