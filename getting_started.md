@@ -1,5 +1,5 @@
 # Getting Started
-## Resources pertaining to, 
+## Resources Pertaining To... 
   - [Setup](#setup)
   - [Virtualization technology](#Virtualization-technology)
   - [Operating system resources](#Operating-system-resources)
