@@ -4,6 +4,7 @@
 - [Host Security](#host-security)
 - [Network Security](#network-security)
 - [SIEM Technology](#siem-technology)
+- [Digital Forensics](#digital-forensics)
 - [Useful Articles](#useful-articles)
 
 
@@ -78,5 +79,19 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) - Single-server open source SIEM platform featuring asset discovery, asset inventorying, behavioral monitoring, and event correlation, driven by AlienVault Open Threat Exchange (OTX).
 - [Prelude SIEM OSS](https://www.prelude-siem.org/) - Open source, agentless SIEM with a long history and several commercial variants featuring security event collection, normalization, and alerting from arbitrary log input and numerous popular monitoring tools.
 - [The Hive](https://thehive-project.org/) - Scalable 4-1 IR SIEM technology that has a powerful backend for automatic alerts.
+
+## Digital Forensics
+- [Awesome Forensics](https://github.com/cugu/awesome-forensics)
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [DFIR Training](https://www.dfir.training/tools-sw-hw)
+- [This Website is Huuuuuuuuge](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
+- [Binary Ninja](https://binary.ninja/) - New type of reversing platform
+- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
+- [Dr Fu's Security Blog](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
+- [Lenny Zeltser](https://zeltser.com/start-learning-malware-analysis/)
+- [MalwareTech](https://www.malwaretech.com/)
+### Static/ Dynamic Analysis
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)
 
 ## Useful Articles
