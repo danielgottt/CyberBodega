@@ -58,6 +58,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) - Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.
 - [Stenographer](https://github.com/google/stenographer) - Full-packet-capture utility for buffering packets to disk for intrusion detection and incident response purposes.
 - [Suricata](https://suricata-ids.org/) - Free, cross-platform, IDS/IPS with on- and off-line analysis modes and deep packet inspection capabilities that is also scriptable with Lua.
+- [NetworkMiner](https://www.netresec.com/?page=networkminer) - GUI friendly application which allows you to ingest raw pcap files
 - [VAST](https://github.com/tenzir/vast) - Free and open-source network telemetry engine for data-driven security investigations.
 - [Wireshark](https://www.wireshark.org) - Free and open-source packet analyzer useful for network troubleshooting or forensic netflow analysis.
 - [Zeek](https://zeek.org/) - Powerful network analysis framework focused on security monitoring, formerly known as Bro.
