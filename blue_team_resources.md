@@ -103,3 +103,4 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [If you've ever wanted to mess around with a SIEMv2](https://marcusedmondson.com/2020/08/14/threat-hunting-with-jupyter-notebooks-part-1-connect-to-elasticsearch/)
 - [Spin Up Active Directory Quickly](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
 - [H.O.T Security](https://www.sans.org/white-papers/35377/)
+- [De-Fanging Strings with FLOSS](https://medium.com/malware-buddy/reverse-engineering-tips-strings-deobfuscation-with-floss-9424417e285d)
