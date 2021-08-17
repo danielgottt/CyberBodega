@@ -120,3 +120,4 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Black Hat Stego Brief](https://www.blackhat.com/presentations/bh-usa-04/bh-us-04-raggo/bh-us-04-raggo-up.pdf)
 - [Unpacking Malware](https://marcoramilli.com/2020/10/09/how-to-unpack-malware-personal-notes/)
 - [Malware Reports](https://www.malwarearchaeology.com/analysis)
+- [Journey Into Incident Response](http://journeyintoir.blogspot.com/2012/01/dual-purpose-volatile-data-collection.html)
