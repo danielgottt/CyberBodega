@@ -47,6 +47,7 @@
   - [DFIR Diva Cyber Scholarships](https://dfirdiva.com/scholarships)
   - [Giant list of Cyber Scholarships](https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/academic-major/cybersecurity)
   - [ISC2-NCR Chaptor Scholarship](https://web.isc2ncrchapter.org/isc2-national-capital-region-scholarships/)
+  - [INSF Scholarships](https://www.insaonline.org/investing-in-the-future-ic-workforce-scholarship/)
 
   ## Useful Articles
 
