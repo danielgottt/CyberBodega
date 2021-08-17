@@ -108,3 +108,4 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [De-Fanging Strings with FLOSS](https://medium.com/malware-buddy/reverse-engineering-tips-strings-deobfuscation-with-floss-9424417e285d)
 - [Setting up Tripwire](https://www.howtoforge.com/tutorial/monitoring-and-detecting-modified-files-using-tripwire-on-centos-7/)
 - [Canary Tokens](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html)
+- [Kerboroasting](https://adsecurity.org/?p=3458)
