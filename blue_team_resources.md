@@ -113,3 +113,4 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Start Learning Malware Analysis](https://zeltser.com/start-learning-malware-analysis/)
 - [DFRWS Papers & Presentations](https://dfrws.org/presentation/)
 - [SSDs & The Challanges Presented to DFIR](https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1051&context=msia_etds)
+- [Anti-Forensics](https://resources.infosecinstitute.com/topic/anti-forensics-part-1/#gref)
