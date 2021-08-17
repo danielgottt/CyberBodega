@@ -11,44 +11,6 @@ I like to share resources and information I learn through this github page! Enjo
 * [Red Team Resources](./red_team_resources.md)
 * [Awesome Lists](./awesome_lists.md)
 
-## Table Of Contents
-
-- [Setup](#setup)
-  - [Virtual Machine Applications](#virtual-machine-applications)
-  - [Virtual Machine Resources](#virtual-machine-resources)
-  - [CTF Websites and Wargames](#ctf-websites-and-wargames)
-- [Resources](#resources)
-  - [Cyber Scholarships](#cyber-scholarships)
-  - [Malware and Intel Databases](#malware-and-intel-databases)
-  - [Cyber Resources and News](#cyber-resources-and-news)
-  - [Threat Intelligence](#threat-intelligence)
-  - [Open Source Intelligence](#osint)
-  - [Websites Providing Cyber Training](#websites-providing-cyber-training)
-- [Host Security](#Host_Security)
-  - [macOS-based Defense](#macOS-based-defenses)
-  - [Windows-based Defense](#Windows-based-defenses)
-  - [Threat hunting tools](#Threat-hunting-tools)
-- [Network Security](#Network-Security)
-  - [Network Security Monitoring](#network-security-monitoring)
-  - [Security Information and Event Management](#security-information-and-event-management)
-- [Etcetera](#Etcetera)
-  - [Open Source System Administrator Tools](#Open-Source-System-Administrator-Tools)
-  - [Simulation Training](#simulation-training)
-  - [Docker Images for Penetration Testing & Security](#Docker-Images-for-Penetration-Testing-&-Security)
-  - [Big Data](#Big-Data)
-  - [Other Security Awesome Lists](#Other-Security-Awesome-Lists)
-- [Digital Forensics](#Digital-Forensics)
-  
-
-# Etcetera
->Everything Else
-## Simulation Training
-- [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Toolset to make a system look as if it was the victim of an APT attack.
-- [Atomic Red Team](https://atomicredteam.io/) - Library of simple, automatable tests to execute for testing security controls.
-- [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
-- [Metta](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
-- [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
-- [Cladera Framework](https://github.com/mitre/caldera)
 
 ## Docker Images for Penetration Testing & Security
 - `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
@@ -77,8 +39,6 @@ I like to share resources and information I learn through this github page! Enjo
 - [Apache Spot (incubating)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 - [binarypig](https://github.com/endgameinc/binarypig) - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
 
-## Open Source System Administrator Tools
-See [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring)
 
 
 
