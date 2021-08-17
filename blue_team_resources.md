@@ -82,6 +82,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Prelude SIEM OSS](https://www.prelude-siem.org/) - Open source, agentless SIEM with a long history and several commercial variants featuring security event collection, normalization, and alerting from arbitrary log input and numerous popular monitoring tools.
 - [The Hive](https://thehive-project.org/) - Scalable 4-1 IR SIEM technology that has a powerful backend for automatic alerts.
 - [OpenSOC](https://github.com/OpenSOC/opensoc) - OpenSOC integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
+- [Wazuh](https://wazuh.com/) - Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance.
 
 ## Digital Forensics
 - [Awesome Forensics](https://github.com/cugu/awesome-forensics)
