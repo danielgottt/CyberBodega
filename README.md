@@ -7,7 +7,6 @@
 * [Cyber Resources](./cyber_resources.md)
 * [Training](./training.md)
 * [Blue Team Resources](./blue_team_resources.md)
-* [Red Team Resources](./red_team_resources.md)
 * [Awesome Lists](./awesome_lists.md)
 
 # https://danielgottt.github.io/CyberBodega/
