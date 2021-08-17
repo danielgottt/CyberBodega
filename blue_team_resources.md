@@ -42,7 +42,7 @@ See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#s
 
 
 ### Threat Hunting Tools
-See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
+See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) or [Lenny Zeltser's list](https://zeltser.com/lookup-malicious-websites/)
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools enabling remote incident response and hunting operations across all versions of Windows.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell module for hunt teaming via Windows Event logs.
 - [GRR Rapid Response](https://github.com/google/grr) - Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.
