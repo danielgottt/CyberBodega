@@ -4,6 +4,7 @@
   - [Useful Articles](#useful-articles)
 
 ### Whitepapers, Publications, ETC
+- [Black Hat Archives](https://www.blackhat.com/html/archives.html)
 
 ### Useful Articles
 - [If you've ever wanted to mess around with a SIEM](https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/)
