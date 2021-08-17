@@ -1,5 +1,7 @@
 # Awesome-Lists
+> Awesome lists, put simply, are just awesome lists. They combine awesome information on specific topics, and I highly recommend them.
 
+[![Awesome](https://awesome.re/badge-flat.svg)]
 - [Android Security Awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
 - [Awesome ARM Exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
