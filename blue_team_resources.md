@@ -104,3 +104,4 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Spin Up Active Directory Quickly](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
 - [H.O.T Security](https://www.sans.org/white-papers/35377/)
 - [De-Fanging Strings with FLOSS](https://medium.com/malware-buddy/reverse-engineering-tips-strings-deobfuscation-with-floss-9424417e285d)
+- [Setting up Tripwire](https://www.howtoforge.com/tutorial/monitoring-and-detecting-modified-files-using-tripwire-on-centos-7/)
