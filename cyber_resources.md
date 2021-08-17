@@ -4,7 +4,6 @@
   - [Exploit Databases](#exploit-databases)
   - [OSINT Tools](#osint-tools)
   - [Scholarships](#scholarships)
-  - [Useful Articles](#useful-articles)
 
 
   ## Staying up to date
@@ -25,7 +24,6 @@
   - [FIRST](https://www.first.org/) - A global forum full of incident response, security techniques and write ups
   - [BleepingComputer](https://www.bleepingcomputer.com/)
   - [Schneier Security](https://www.schneier.com/)
-
 
 
   ## Exploit Databases
@@ -50,5 +48,4 @@
   - [ISC2-NCR Chaptor Scholarship](https://web.isc2ncrchapter.org/isc2-national-capital-region-scholarships/)
   - [INSF Scholarships](https://www.insaonline.org/investing-in-the-future-ic-workforce-scholarship/)
 
-  ## Useful Articles
 
