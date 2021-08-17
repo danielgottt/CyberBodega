@@ -111,3 +111,4 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Kerboroasting](https://adsecurity.org/?p=3458)
 - [Honey Files](https://docs.rapid7.com/insightidr/honey-files/)
 - [Start Learning Malware Analysis](https://zeltser.com/start-learning-malware-analysis/)
+- [DFRWS Papers & Presentations](https://dfrws.org/presentation/)
