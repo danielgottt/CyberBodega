@@ -93,7 +93,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
 - [Dr Fu's Security Blog](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
 - [Lenny Zeltser](https://zeltser.com/start-learning-malware-analysis/)
-- [MalwareTech](https://www.malwaretech.com/)
+- [MalwareTech](https://www.malwaretech.com/) - The creator of WannaCry
 - [binarypig](https://github.com/endgameinc/binarypig) - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
 ### Static/ Dynamic Analysis
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
