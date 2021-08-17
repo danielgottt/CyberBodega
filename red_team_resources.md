@@ -1,3 +1,0 @@
-# Red Team Resources
-## Resources Pertaining To...
-
