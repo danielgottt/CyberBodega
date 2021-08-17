@@ -3,6 +3,7 @@
   - [Free Training Websites](free-training-websites)
   - [Pay to Win Websites](pay-to-win-websites)
   - [In Between](in-between)
+  - [Simulation Applications](simulation-applications)
 
 
 ## Free Training Websites
@@ -24,3 +25,11 @@
 
 ## In Between
 - [FEDVTE](https://fedvte.usalearning.gov/) - A ton of free cyber security videos that can count towards CEU's, but theres a catch
+
+## Simulation Applications
+- [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Toolset to make a system look as if it was the victim of an APT attack.
+- [Atomic Red Team](https://atomicredteam.io/) - Library of simple, automatable tests to execute for testing security controls.
+- [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
+- [Metta](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
+- [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
+- [Cladera Framework](https://github.com/mitre/caldera)
