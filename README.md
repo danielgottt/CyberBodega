@@ -4,8 +4,9 @@
 > If you have any suggestions, reach out to me!
 
 * [Getting Started](./getting_started.md)
-* [Cyber Resources](./cyber_resources.md)
 * [Training](./training.md)
+* [Readings](./readings.md)
+* [Cyber Resources](./cyber_resources.md)
 * [Blue Team Resources](./blue_team_resources.md)
 * [Awesome Lists](./awesome_lists.md)
 
