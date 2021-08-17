@@ -2,9 +2,7 @@
 
 ## I like to share resources and information I learn through this github page! Enjoy!!
 > If you have any suggestions, reach out to me!
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-### HEY! Click the link above to get started
+### STOP! Click the link above to get started
 
 * [Getting Started](./getting_started.md)
 * [Cyber Resources](./cyber_resources.md)
