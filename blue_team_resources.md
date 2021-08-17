@@ -95,3 +95,5 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
 
 ## Useful Articles
+- https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/ - If you've ever wanted to mess around with a SIEM
+- https://marcusedmondson.com/2020/08/14/threat-hunting-with-jupyter-notebooks-part-1-connect-to-elasticsearch/ - If you've ever wanted to mess around with a SIEM
