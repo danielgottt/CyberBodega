@@ -101,3 +101,4 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 ## Useful Articles
 - [If you've ever wanted to mess around with a SIEM](https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/)
 - [If you've ever wanted to mess around with a SIEMv2](https://marcusedmondson.com/2020/08/14/threat-hunting-with-jupyter-notebooks-part-1-connect-to-elasticsearch/)
+- [Spin Up Active Directory Quickly](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
