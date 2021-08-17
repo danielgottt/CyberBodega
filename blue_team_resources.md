@@ -119,3 +119,4 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Linux Forensics](http://www.deer-run.com/~hal/LinuxForensicsForNon-LinuxFolks.pdf)
 - [Black Hat Stego Brief](https://www.blackhat.com/presentations/bh-usa-04/bh-us-04-raggo/bh-us-04-raggo-up.pdf)
 - [Unpacking Malware](https://marcoramilli.com/2020/10/09/how-to-unpack-malware-personal-notes/)
+- [Malware Reports](https://www.malwarearchaeology.com/analysis)
