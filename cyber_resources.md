@@ -24,6 +24,7 @@
   - [FIRST](https://www.first.org/) - A global forum full of incident response, security techniques and write ups
   - [BleepingComputer](https://www.bleepingcomputer.com/)
   - [Schneier Security](https://www.schneier.com/)
+  - [Unit42 Palto Alto](https://unit42.paloaltonetworks.com/)
 
 
   ## Exploit Databases
