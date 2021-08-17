@@ -1,9 +1,9 @@
 # Training
 ## Resources Pertaining To...
-  - [Free Training Websites](free-training-websites)
-  - [Pay to Win Websites](pay-to-win-websites)
-  - [In Between](in-between)
-  - [Simulation Applications](simulation-applications)
+  - [Free Training Websites](#free-training-websites)
+  - [Pay to Win Websites](#pay-to-win-websites)
+  - [In Between](#in-between)
+  - [Simulation Applications](#simulation-applications)
 
 
 ## Free Training Websites
