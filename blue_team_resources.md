@@ -115,3 +115,4 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [SSDs & The Challanges Presented to DFIR](https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1051&context=msia_etds)
 - [Anti-Forensics](https://resources.infosecinstitute.com/topic/anti-forensics-part-1/#gref)
 - [Windows Artifacts in DF](https://resources.infosecinstitute.com/topic/windows-systems-and-artifacts-in-digital-forensics-part-i-registry/)
+- [Windows Forensics](https://www.forensicfocus.com/articles/windows-forensics-and-security/)
