@@ -17,6 +17,7 @@ See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-int
 - [URL Void](https://www.urlvoid.com/) - URL reputation checker
 - [Central Ops](https://centralops.net/) - whois/traceroute tool
 - [Kaggle](https://www.kaggle.com/c/malware-classification) - 50,000 public databases, 400,000 public notebooks
+- [RITA](https://www.activecountermeasures.com/free-tools/rita/)
 
 
 ## Host Security
