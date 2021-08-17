@@ -1,7 +1,7 @@
 # https://danielgottt.github.io/CyberBodega/
 
 ## I like to share resources and information I learn through this github page! Enjoy!!
-> If you have any suggestions reach out to me, contact contact information is on my page!
+> If you have any suggestions, reach out to me!
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ### HEY! Click the link above to get started
