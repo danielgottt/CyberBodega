@@ -5,7 +5,6 @@
 - [Network Security](#network-security)
 - [SIEM Technology](#siem-technology)
 - [Digital Forensics](#digital-forensics)
-- [Useful Articles](#useful-articles)
 
 
 ## Threat Intelligence
@@ -18,7 +17,6 @@ See [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-int
 - [Central Ops](https://centralops.net/) - whois/traceroute tool
 - [Kaggle](https://www.kaggle.com/c/malware-classification) - 50,000 public databases, 400,000 public notebooks
 - [RITA](https://www.activecountermeasures.com/free-tools/rita/)
-
 
 ## Host Security
 
@@ -56,7 +54,6 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 ## Network Security 
 
 See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
-
 - [ChopShop](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
 - [Maltrail](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
 - [Moloch](https://github.com/aol/moloch) - Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access ⭐
