@@ -109,3 +109,4 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Setting up Tripwire](https://www.howtoforge.com/tutorial/monitoring-and-detecting-modified-files-using-tripwire-on-centos-7/)
 - [Canary Tokens](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html)
 - [Kerboroasting](https://adsecurity.org/?p=3458)
+- [Honey Files](https://docs.rapid7.com/insightidr/honey-files/)
