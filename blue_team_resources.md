@@ -117,3 +117,4 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 - [Windows Artifacts in DF](https://resources.infosecinstitute.com/topic/windows-systems-and-artifacts-in-digital-forensics-part-i-registry/)
 - [Windows Forensics](https://www.forensicfocus.com/articles/windows-forensics-and-security/)
 - [Linux Forensics](http://www.deer-run.com/~hal/LinuxForensicsForNon-LinuxFolks.pdf)
+- [Black Hat Stego Brief](https://www.blackhat.com/presentations/bh-usa-04/bh-us-04-raggo/bh-us-04-raggo-up.pdf)
