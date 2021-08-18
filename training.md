@@ -1,8 +1,8 @@
 # Training
 ## Resources Pertaining To...
   - [Free Training Websites](#free-training-websites)
+  - [YouTube](#youtube)
   - [Pay to Win Websites](#pay-to-win-websites)
-  - [In Between](#in-between)
   - [Simulation Applications](#simulation-applications)
 
 
@@ -14,6 +14,16 @@
 - [HackSplaining](https://www.hacksplaining.com/lessons)
 - [SecurityFocus](https://www.securityfocus.com/)
 
+## YouTube
+- [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q) - Free DFIR training
+- [HackerSploit](https://www.youtube.com/c/HackerSploit/about) - Free infosec and cybersecurity training
+- [SANS DFIR](https://www.youtube.com/user/robtlee73) - SANS training specific to DFIR (Look for Lenny Zeltser)
+- [Forensic Focus](https://www.youtube.com/channel/UCQajlJPesqmyWJDN52AZI4Q) More DFIR training
+- [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) - Focused towards ethical hackers, computer scientists, and the infosec community
+- [Colin Hardy](https://www.youtube.com/c/ColinHardy/featured) - Malware Analysis
+- [Bootcon EU](https://www.youtube.com/user/BotConfTV) - They have some pretty interesting playlist created from their events
+- 
+
 ## Pay to Win Websites
 - [SANS](https://www.sans.org/) - The go to website for cyber security training
 - [Cybrary](https://www.cybrary.it/) - Videos on demand related to Cyber security
@@ -21,10 +31,6 @@
 - [Udemy](https://www.udemy.com/) - Another video on demand website but you pay only for the classes you want
 - [SkillSoft](https://www.skillsoft.com/courses) - On demand courses you can pay for
 - [Kode Kloud](https://kodekloud.com/) - Courses specific to DevOps
-
-
-## In Between
-- [FEDVTE](https://fedvte.usalearning.gov/) - A ton of free cyber security videos that can count towards CEU's, but theres a catch
 
 ## Simulation Applications
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Toolset to make a system look as if it was the victim of an APT attack.
