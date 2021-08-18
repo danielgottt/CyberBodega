@@ -7,8 +7,8 @@
 
 
 ## Free Training Websites
-- [YouTube](https://youtube.com)
-- [OpenSecurityTraining](https://opensecuritytraining.info/Training.html)
+
+- [OpenSecurityTraining](https://opensecuritytraining.info/Training.html) - You cant beat free
 - [Code Academy](https://www.codecademy.com/) - The names gives it away
 - [Quartz Cyber List](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/) - 400 Free Ivy-league courses? Yeah why not 
 - [HackSplaining](https://www.hacksplaining.com/lessons)
