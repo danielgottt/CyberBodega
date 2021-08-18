@@ -29,6 +29,7 @@
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) Pentesting CTF writeups and more
 - [GynvaeIEN](https://www.youtube.com/c/GynvaelEN/featured) - Podcasts about CTFs, computer security, programing and similar thing
 - [SANS Offensive Security](https://www.youtube.com/channel/UCP28F4uf9s2V1_SQwnJST_A) - SANS red team stuff
+- [Black Hat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg) - Videos consisting of information pertaining to the latest in information security research, development, and trends
 
 ## Pay to Win Websites
 - [SANS](https://www.sans.org/) - The go to website for cyber security training
