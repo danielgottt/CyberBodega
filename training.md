@@ -13,6 +13,7 @@
 - [Quartz Cyber List](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/) - 400 Free Ivy-league courses? Yeah why not 
 - [HackSplaining](https://www.hacksplaining.com/lessons)
 - [SecurityFocus](https://www.securityfocus.com/)
+- [SANS Webcast](https://www.sans.org/webcasts/) - Gotta give SANS some love
 
 ## YouTube
 - [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q) - Free DFIR training
@@ -21,6 +22,7 @@
 - [Forensic Focus](https://www.youtube.com/channel/UCQajlJPesqmyWJDN52AZI4Q) More DFIR training
 - [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) - Focused towards ethical hackers, computer scientists, and the infosec community
 - [Colin Hardy](https://www.youtube.com/c/ColinHardy/featured) - Malware Analysis
+- [RSA Conference](https://www.youtube.com/channel/UCYzwGkfOqrevO-4TuTjPLwQ) - RSA posts some of their content on Youtube!
 - [Bootcon EU](https://www.youtube.com/user/BotConfTV) - They have some pretty interesting playlist created from their events
 - 
 
