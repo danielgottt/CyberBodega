@@ -24,7 +24,11 @@
 - [Colin Hardy](https://www.youtube.com/c/ColinHardy/featured) - Malware Analysis
 - [RSA Conference](https://www.youtube.com/channel/UCYzwGkfOqrevO-4TuTjPLwQ) - RSA posts some of their content on Youtube!
 - [Bootcon EU](https://www.youtube.com/user/BotConfTV) - They have some pretty interesting playlist created from their events
-- 
+- [Wild West Hackin' Fest](https://www.youtube.com/c/WildWestHackinFest/featured) - Infosec training/conferences for free
+- [John Hammond](https://www.youtube.com/user/RootOfTheNull) - Pentesting CTF writeups and more
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) Pentesting CTF writeups and more
+- [GynvaeIEN](https://www.youtube.com/c/GynvaelEN/featured) - Podcasts about CTFs, computer security, programing and similar thing
+- [SANS Offensive Security](https://www.youtube.com/channel/UCP28F4uf9s2V1_SQwnJST_A) - SANS red team stuff
 
 ## Pay to Win Websites
 - [SANS](https://www.sans.org/) - The go to website for cyber security training
