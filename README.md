@@ -3,7 +3,7 @@
 ### I like to share resources and information I learn through this github page! Enjoy!!
 > If you have any suggestions, reach out to me!
 
-* [Getting Started](./getting_started.md)
+* [Getting Started](./getting_started.md) <-- New to CTF's? Click here.
 * [Training](./training.md)
 * [Readings](./readings.md)
 * [Cyber Resources](./cyber_resources.md)
