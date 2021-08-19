@@ -5,7 +5,7 @@
 
 ### Whitepapers, Publications, ETC
 - [Black Hat Archives](https://www.blackhat.com/html/archives.html)
-- [SANS Reading Room](https://www.sans.org/white-papers/)
+- [SANS Reading Room](https://www.sans.org/white-papers/) ⭐
 ### Useful Articles
 - [If you've ever wanted to mess around with a SIEM](https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/)
 - [If you've ever wanted to mess around with a SIEMv2](https://marcusedmondson.com/2020/08/14/threat-hunting-with-jupyter-notebooks-part-1-connect-to-elasticsearch/)
