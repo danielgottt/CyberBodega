@@ -5,9 +5,10 @@
   - [Operating system resources](#Operating-system-resources)
   - [Multitude of CTF type websites](#Multitude-of-CTF-type-websites)
 
-## Setup
 
-1. Find an application to create a virtualized enviorment [VMware Workstation 15](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html), or [Oracle VM VirtualBox](https://www.virtualbox.org/)
+## Setup
+> General information on how to create your first virtualized environment
+1. Find an application to create a virtualized environment [VMware Workstation 15](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html), or [Oracle VM VirtualBox](https://www.virtualbox.org/)
 2. Find the right VM to fit your need, 
   - DFIR = [Flare VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html), or [REMnux](https://remnux.org/)
   - Pentesting = [Kali Linux](https://www.kali.org/downloads/) or [Parrot](https://parrotlinux.org/)
@@ -36,7 +37,7 @@
 - [VulnHub](https://www.vulnhub.com/) - A website dedicated to custom virtual machines to pwn
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - Italian GNU/Linux live distribution that pre-packages numerous digital forensics and evidence collection tools.
-- [Security Onion](https://securityonion.net/) - Free and open source GNU/Linux distribution for intrusion detection, enterprise security monitoring, and log management.
+- [Security Onion](https://securityonion.net/) - Free and open-source GNU/Linux distribution for intrusion detection, enterprise security monitoring, and log management.
 - [Android Tamer](https://androidtamer.com/), [BackBox](https://backbox.org/), [BlackArch Linux](https://blackarch.org/), [Fedora Security Lab](https://labs.fedoraproject.org/security/), [Pentoo](http://www.pentoo.ch/), [URIX OS](http://urix.us/), or [Wifislax](http://www.wifislax.com/)
 - [Flare VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html) - The Windows Malware Analysis Distribution You’ve Always Needed!⭐
 - [Metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - A very vulnerable machine to test your payloads on. 
