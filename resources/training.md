@@ -8,7 +8,7 @@
 
 ## Free Training Websites
 
-- [OpenSecurityTraining](https://opensecuritytraining.info/Training.html) - You cant beat free
+- [OpenSecurityTraining](https://opensecuritytraining.info/Training.html) - You cant beat free ⭐
 - [Code Academy](https://www.codecademy.com/) - The names gives it away
 - [Quartz Cyber List](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/) - 400 Free Ivy-league courses? Yeah why not 
 - [HackSplaining](https://www.hacksplaining.com/lessons)
@@ -16,7 +16,7 @@
 - [SANS Webcast](https://www.sans.org/webcasts/) - Gotta give SANS some love
 
 ## YouTube
-- [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q) - Free DFIR training
+- [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q) - Free DFIR training ⭐
 - [HackerSploit](https://www.youtube.com/c/HackerSploit/about) - Free infosec and cybersecurity training
 - [SANS DFIR](https://www.youtube.com/user/robtlee73) - SANS training specific to DFIR (Look for Lenny Zeltser)
 - [Forensic Focus](https://www.youtube.com/channel/UCQajlJPesqmyWJDN52AZI4Q) More DFIR training
@@ -25,7 +25,7 @@
 - [RSA Conference](https://www.youtube.com/channel/UCYzwGkfOqrevO-4TuTjPLwQ) - RSA posts some of their content on Youtube!
 - [Bootcon EU](https://www.youtube.com/user/BotConfTV) - They have some pretty interesting playlist created from their events
 - [Wild West Hackin' Fest](https://www.youtube.com/c/WildWestHackinFest/featured) - Infosec training/conferences for free
-- [John Hammond](https://www.youtube.com/user/RootOfTheNull) - Pentesting CTF writeups and more
+- [John Hammond](https://www.youtube.com/user/RootOfTheNull) - Pentesting CTF writeups and more ⭐
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) Pentesting CTF writeups and more
 - [GynvaeIEN](https://www.youtube.com/c/GynvaelEN/featured) - Podcasts about CTFs, computer security, programing and similar thing
 - [SANS Offensive Security](https://www.youtube.com/channel/UCP28F4uf9s2V1_SQwnJST_A) - SANS red team stuff
