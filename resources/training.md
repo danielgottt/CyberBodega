@@ -14,6 +14,7 @@
 - [HackSplaining](https://www.hacksplaining.com/lessons)
 - [SecurityFocus](https://www.securityfocus.com/)
 - [SANS Webcast](https://www.sans.org/webcasts/) - Gotta give SANS some love
+- [Codewars](https://www.codewars.com/)
 
 ## YouTube
 - [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q) - Free DFIR training ⭐
