@@ -4,12 +4,12 @@
 > If you would like to contribute please reach out to me!
 > Click the links below to reach each page!
 
-* [Getting Started](./resources/getting_started.md)
- - test
+## [Getting Started](./resources/getting_started.md)
 
-* [Training](./resources/training.md)
 
-* [Readings](./resources/readings.md)
+## [Training](./resources/training.md)
+
+## [Readings](./resources/readings.md)
 
 * [Cyber Resources](./resources/cyber_resources.md)
 
