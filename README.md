@@ -6,22 +6,23 @@
 > Click the links below to reach each page!
 
 ### [Getting Started](./resources/getting_started.md)
+- Good place to start which contains general information on creating your first lab environment
 
 
 ### [Training](./resources/training.md)
-
+- Youtube creators, Videos, etc
 
 ### [Readings](./resources/readings.md)
-
+- Whitepapers, Writeups, and Articles
 
 ### [Cyber Resources](./resources/cyber_resources.md)
-
+- General places for cyber news, scholarships, exploit databases, etc
 
 ### [Blue Team Resources](./resources/blue_team_resources.md)
-
+- Blob of resources (I should probably organize this better)
 
 ### [Awesome Lists](./resources/awesome_lists.md)
-- Awesome list
+- Seriously, click this to find resources on just about any topic
 
 
 
