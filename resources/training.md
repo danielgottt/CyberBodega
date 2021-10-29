@@ -1,6 +1,6 @@
 # Training
 ## Resources Pertaining To...
-  - [Free Videos/Articles](#free-Videos/Articles)
+  - [Free Videos](#free-Videos)
   - [YouTube](#youtube)
   - [Pay to Win Websites](#pay-to-win-websites)
   - [Simulation Applications](#simulation-applications)
