@@ -41,7 +41,7 @@
 - [Cladera Framework](https://github.com/mitre/caldera)
 
 
-### Just so there are here
+### Just cause
 - [SANS](https://www.sans.org/) - The go to website for cyber security training
 - [Cybrary](https://www.cybrary.it/) - Videos on demand related to Cyber security
 - [Pluralsight](https://www.pluralsight.com/) - Very similar to Cybrary with videos on demand
