@@ -1,12 +1,12 @@
 # Training
 ## Resources Pertaining To...
-  - [Free Training Websites](#free-training-websites)
+  - [Free Videos/Articles](#free-Videos/Articles)
   - [YouTube](#youtube)
   - [Pay to Win Websites](#pay-to-win-websites)
   - [Simulation Applications](#simulation-applications)
 
 
-## Free Training Websites
+## Free Videos/Articles
 
 - [OpenSecurityTraining](https://opensecuritytraining.info/Training.html) - You cant beat free ⭐
 - [Code Academy](https://www.codecademy.com/) - The names gives it away
