@@ -1,4 +1,6 @@
-# THIS SITE IS SLOWLY BEING MIGRATED https://danielgottt.github.io/
+# THIS SITE IS SLOWLY BEING MIGRATED https://danielgottt.github.io/ BUT WILL CONTINUE TO STAY UP UNTIL FULLY MIGRATED!
+
+## https://danielgottt.github.io/CyberBodega/
 
 
 ### I like to share resources and information I learn through this github page! Enjoy!!
