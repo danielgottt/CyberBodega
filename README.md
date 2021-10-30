@@ -1,4 +1,4 @@
-# THIS SITE IS NOW HOSTED AT https://danielgottt.github.io/
+# THIS SITE IS SLOWLY BEING MIGRATED https://danielgottt.github.io/
 
 
 ### I like to share resources and information I learn through this github page! Enjoy!!
