@@ -14,6 +14,7 @@
   - [Cloud-Tools](#cloud-tools)
   - [Detection](#detection)
   - [Malware-Analysis](#malware-analysis)
+    - Malware/IOC/Detection/Data Dumps
 - [Purple/Red-Team-Resources](#purple/red-team-resources)
   - [/usr/bin](#/usr/bin)
 - [Awesome-Lists](#awesome-lists)
@@ -116,26 +117,146 @@
 
 ## Blue-Team-Resources
 ### Utility
+- [Cyber Chef](https://gchq.github.io/CyberChef/)
+- [LOLBAS](https://lolbas-project.github.io/)
+- [MITRE ATT&CK](https://attack.mitre.org/)
+- [MITRE D3FEND](https://d3fend.mitre.org/)
+- [Google Stenographer](https://github.com/google/stenographer)
+- [Wazuh](https://wazuh.com/)
+- [MozDef](https://github.com/mozilla/MozDef)
+- [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer)
+- [Stronghold](https://github.com/alichtman/stronghold)
+- [ChopShop](https://github.com/MITRECND/chopshop)
+- [RockNSM](https://rocknsm.io/)
+- [HELK](https://github.com/Cyb3rWard0g/HELK)
+- [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects)
+- [Prelude](https://www.prelude-siem.org/)
+- [TheHive](https://thehive-project.org/)
+- [OpenSOC](https://github.com/OpenSOC/opensoc)
+- [Munin - Auto Hash Checker](https://github.com/Neo23x0/munin)
+- [Threat Hunt Mind Maps](https://github.com/christophetd/mindmaps)
+- [Hybrid-Analysis](https://www.hybrid-analysis.com/)
+- [Manalyzer](https://www.manalyzer.org/)
+- [URLScan](https://urlscan.io/)
+- [Intezer Analyze](https://analyze.intezer.com/)
+- [AnyRun](https://app.any.run/)
+- [JoeSandbox](https://www.joesandbox.com/#windows)
+- [IRIS-H](https://iris-h.services/pages/dashboard#/pages/dashboard)
+- [Yoroi](https://yomi.yoroi.company/upload)
 
 ### Network-Analysis
+- [Moloch](https://github.com/aol/moloch)
+- [Wireshark](https://www.wireshark.org/)
+- [Zeek](https://zeek.org/)
+- [RITA]((https://www.activecountermeasures.com/free-tools/rita/))
+- [Whats that C2/Exfil?](https://github.com/silence-is-best/c2db)
+- [Incubating](https://github.com/apache/incubator-spot)
+- [Network Miner](https://www.netresec.com/?page=networkminer)
+- [VAST](https://github.com/tenzir/vast)
+- [NetSniff](http://netsniff-ng.org/)
+- [Grass Marlin🦅](https://github.com/nsacyber/GRASSMARLIN)
 
 ### Host-Analysis
+- [Volatility](https://github.com/volatilityfoundation/volatility)
+- [Velociraptor](https://github.com/Velocidex/velociraptor)
+- [Osquery](https://osquery.io/)
+- [Sysinternalsuite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+- [CimSweep](https://github.com/PowerShellMafia/CimSweep)
+- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
+- [Chainsaw](https://github.com/countercept/chainsaw)
+- [Google Rapid Response](https://github.com/google/grr)
+- [PSHunt](https://github.com/Infocyte/PSHunt)
+- [PSRecon](https://github.com/gfoss/PSRecon)
+- [Rastrea2r](https://github.com/rastrea2r/rastrea2r)
+- [Redline](https://www.fireeye.com/services/freeware/redline.html)
+- [Power Forensics](https://github.com/Invoke-IR/PowerForensics)
 
 ### Cloud-Tools
 
 ### Detection
+- [Sigma](https://github.com/SigmaHQ/sigma/blob/master/README.md) Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward manner
+- [Yara](https://yara.readthedocs.io) 
+- [Snort](https://snort.org/)
+- [Suricata](https://suricata.readthedocs.io)
+- [WMI Monitor](https://github.com/realparisi/WMI_Monitor)
+- [NotRuler](https://github.com/sensepost/notruler)
+- [BlockBlock](https://objective-see.com/products/blockblock.html)
+- [Santa] (https://github.com/google/santa)
+- [MalTrail](https://github.com/stamparm/maltrail)
+- [OwlH](https://www.owlh.net/)
+- [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter)
+- [Event Query Language](https://eql.readthedocs.io/en/latest/)
 
 ### Malware-Analysis
+- [Remnux](https://remnux.org/)
+- [Tools by hasherezade](https://hasherezade.github.io/)
+- [IDA](https://hex-rays.com/ida-free/)
+- [FLARE Floss](https://github.com/mandiant/flare-floss)
+- [BinaryNinja](https://binary.ninja/)
+- [BinaryPig](https://github.com/endgameinc/binarypig)
+- [Ghidra🦅](https://ghidra-sre.org/)
+- [Redare2](https://github.com/radareorg/radare2)
+- [OllyDbg](https://www.ollydbg.de/)
+- [The Sleuth Kit](https://www.sleuthkit.org/)
+- [Sandboxie](https://www.sandboxie.com/)
+- [Cuckoo Sandbox](https://cuckoosandbox.org/)
+
+#### Malware/IOC/Detection/Data Dumps
+- [jstrosch Samples](https://github.com/jstrosch/malware-samples)
+- [DigitalSide Threat-Intel Repo](https://osint.digitalside.it/)
+- [MalwareBazar](https://bazaar.abuse.ch/browse/)
+- [DailyIOC](https://github.com/StrangerealIntel/DailyIOC)
+- [Valhalla Yara Rules](https://valhalla.nextron-systems.com/)
 
 ## Purple/Red-Team-Resources
-
-### /usr/bin
-
-##Awesome-Lists
-
-##Dump
 - [Photon Crawler](https://hakin9.org/photon-incredibly-fast-crawler-designed-for-osint/") 
 - [Subcrawl](https://github.com/hpthreatresearch/subcrawl") 
+- [Unofficial OWASP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
+- [APTSimulator](https://github.com/NextronSystems/APTSimulator)
+- [Atomic Red Team](https://atomicredteam.io/)
+- [Metta](https://github.com/uber-common/metta)
+- [Network Flight Simulator](https://github.com/alphasoc/flightsim)
+- [Cladera Framework](https://github.com/mitre/caldera)
+- [Impacket](https://github.com/SecureAuthCorp/impacket)
+- [Cobalt Strike](https://www.cobaltstrike.com/)
+- [EmpireProject](https://github.com/EmpireProject)
+- [Responder](https://github.com/lgandx/Responder)
+- [Inveigh](https://github.com/Kevin-Robertson/Inveigh)
+- [ExploitDB](https://github.com/offensive-security/exploitdb)
+- [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)
+
+### /usr/bin
+- [NYAN-x-CAT Repo](https://github.com/NYAN-x-CAT)
+- [Sulealothman Repo](https://github.com/sulealothman/MysteryLegacyPenetrationTools)
+- [Matterpreter Repo](https://github.com/matterpreter?tab=repositories)
+
+##Awesome-Lists
+- [Master List of all Awesome Distros](https://github.com/sindresorhus/awesome)
+- [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection)
+- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools)
+- [Awesome Threat Modeling](https://github.com/redshiftzero/awesome-threat-modeling)
+- [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
+- [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills)
+- [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist)
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
+- [Awesome Pentest Tools](https://github.com/enaqx/awesome-pentest)
+- [Awesome Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Awesome Industrial Control System Security](https://github.com/mpesen/awesome-industrial-control-system-security)
+- [Awesome YARA](https://github.com/InQuest/awesome-yara)
+- [Awesome Container Security](https://github.com/kai5263499/container-security-awesome)
+- [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers)
+- [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries)
+- [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic)
+- [Awesome Security Talks and Videos](https://github.com/PaulSec/awesome-sec-talks)
+
+##Dump
+
 
 
 
