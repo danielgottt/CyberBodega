@@ -27,15 +27,17 @@
 ## Infosec-News
 - [All InfoSec News](https://allinfosecnews.com/)
 - [Unit 42](https://unit42.paloaltonetworks.com/)
+- [Google Security Blog](https://security.googleblog.com/)
+- [Security Soup](https://security-soup.net/)
+- [Threatpost](https://threatpost.com/)
+- [Week in 4N6](https://thisweekin4n6.com/)
+- [r/blueteamsec](https://www.reddit.com/r/blueteamsec/)
+- [Trellix Blog](https://www.trellix.com/en-us/about/newsroom/stories.html)
+- [Krebson Security](https://krebsonsecurity.com/)
 - [SANS Webcast](https://www.sans.org/webcasts/)
 - [SANS Newsletter](https://www.sans.org/newsletters/)
-- [Threatpost](https://threatpost.com/)
-- [FireEye Blog](https://www.fireeye.com/blog.html)
-- [Krebson Security](https://krebsonsecurity.com/)
-- [Mandiant Newsroom](https://www.fireeye.com/company/newsroom.html)
 - [Cyber Scoop](https://www.cyberscoop.com/)
 - [SecurityFocus](https://www.securityfocus.com/)
-- [Google Security Blog](https://security.googleblog.com/)
 - [Gibson Research Corporation](https://www.grc.com/intro.htm)
 - [Security News Wire](https://securitynewswire.com/index.php/Home)
 - [PortSwigger](https://portswigger.net/daily-swig)
@@ -47,7 +49,8 @@
 
 ## Interesting-Articles
 - [vx-underground](https://www.vx-underground.org/) 
-- [SANS Reading Room⭐](https://www.sans.org/white-papers/) 
+- [SANS Reading Room⭐](https://www.sans.org/white-papers/)
+- [The DFIR Report](https://thedfirreport.com/) Solid DFIR writeups
 - [Black Hat Archives](https://www.blackhat.com/html/archives.html) 
 - [If you've ever wanted to mess around with a SIEM](https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/)  
 - [Spin Up An AD Enviorment Quickly](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae) 
@@ -57,9 +60,13 @@
 - [Setting up Tripwire](https://www.howtoforge.com/tutorial/monitoring-and-detecting-modified-files-using-tripwire-on-centos-7/) 
 - [Canary Tokens](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html) 
 - [Kerboroasting](https://adsecurity.org/?p=3458)
-- [Honey Files](https://docs.rapid7.com/insightidr/honey-files/) 
+- [Honey Files](https://docs.rapid7.com/insightidr/honey-files/)
+- [CTI Self Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
 - [Start Learning Malware Analysis](https://zeltser.com/start-learning-malware-analysis/) 
-- [DFRWS Papers & Presentations](https://dfrws.org/presentation/) 
+- [DFRWS Papers & Presentations](https://dfrws.org/presentation/)
+- [Detecting Meterpreter HTTP module Network Traffic](https://blog.didierstevens.com/2015/05/11/detecting-network-traffic-from-metasploits-meterpreter-reverse-http-module/)
+- [Hunting Linux Persistence Part 1](https://www.activecountermeasures.com/hunting-for-persistence-in-linux-part-1-auditd-sysmon-osquery-and-webshells/)
+- [Adventures in Dynamic Evasion](https://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa)
 - [SSDs/The Challanges Presented to DFIR](https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1051&context=msia_etds) 
 - [Anti-Forensics](https://resources.infosecinstitute.com/topic/anti-forensics-part-1/#gref) 
 - [Windows Artifacts DFIR](https://resources.infosecinstitute.com/topic/windows-systems-and-artifacts-in-digital-forensics-part-i-registry/) 
@@ -78,7 +85,9 @@
 - [National Vulnerability Database](https://nvd.nist.gov/) 
 - [CVE Proof of Concepts](https://github.com/qazbnm456/awesome-cve-poc) 
 - [OWASP](https://owasp.org/projects/) 
-- [OSINT](https://osintframework.com/) 
+- [OSINT](https://osintframework.com/)
+- [OpenThreatResearch](https://blog.openthreatresearch.com/)
+- [Unit 42 Atom](https://unit42.paloaltonetworks.com/atoms/)
 - [I-Intelligence OSINT Handbook](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf) 
 - [BellingCat](https://www.bellingcat.com/) 
 - [Zoomeye](https://www.zoomeye.org/) 
@@ -116,8 +125,11 @@
 - [MalwareUnicorn](https://malwareunicorn.org/#/workshops)
 - [Quartz List](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
 - [LetsDefend](https://letsdefend.io/) Free-ish training simulating the SOC life. Preperation for incident response
+- [DC540 Reversing Course](https://github.com/sharpicx/reversing-course)
+- [Low Level Programming](https://github.com/sharpicx/lowlevel-programming)
 
 ## Blue-Team-Resources
+- [EricZimmerman](https://github.com/EricZimmerman)
 ### Utility
 - [Cyber Chef](https://gchq.github.io/CyberChef/)
 - [LOLBAS](https://lolbas-project.github.io/)
@@ -134,6 +146,7 @@
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects)
 - [Prelude](https://www.prelude-siem.org/)
 - [TheHive](https://thehive-project.org/)
+- [OpenEDR](https://github.com/ComodoSecurity/openedr)
 - [OpenSOC](https://github.com/OpenSOC/opensoc)
 - [Munin - Auto Hash Checker](https://github.com/Neo23x0/munin)
 - [Threat Hunt Mind Maps](https://github.com/christophetd/mindmaps)
@@ -158,6 +171,7 @@
 - [VAST](https://github.com/tenzir/vast)
 - [NetSniff](http://netsniff-ng.org/)
 - [Grass Marlin🦅](https://github.com/nsacyber/GRASSMARLIN)
+- [SELKS](https://github.com/StamusNetworks/SELKS)
 
 ### Host-Analysis
 - [Volatility](https://github.com/volatilityfoundation/volatility)
@@ -165,6 +179,8 @@
 - [Osquery](https://osquery.io/)
 - [Sysinternalsuite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep)
+- [Seatbelt](https://github.com/GhostPack/Seatbelt) Security oriented host-survey tool performing "safety checks" relevant from both offensive and defensive security perspectives
+- [Live-Forensicator](https://github.com/Johnng007/Live-Forensicator)
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
 - [Chainsaw](https://github.com/countercept/chainsaw)
 - [Google Rapid Response](https://github.com/google/grr)
@@ -173,8 +189,10 @@
 - [Rastrea2r](https://github.com/rastrea2r/rastrea2r)
 - [Redline](https://www.fireeye.com/services/freeware/redline.html)
 - [Power Forensics](https://github.com/Invoke-IR/PowerForensics)
+- [Block Parse](https://github.com/matthewdunwoody/block-parser) PowerShell script block parser
 
-### Cloud-Tools
+### Cloud
+- [Azure AD IR Guide](https://misconfig.io/azure-ad-incident-response-life-cycle-tools/)
 
 ### Detection
 - [Sigma](https://github.com/SigmaHQ/sigma/blob/master/README.md) Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward manner
@@ -198,13 +216,17 @@
 - [BinaryNinja](https://binary.ninja/)
 - [BinaryPig](https://github.com/endgameinc/binarypig)
 - [Ghidra🦅](https://ghidra-sre.org/)
+- [HxD](https://mh-nexus.de/en/hxd/)
 - [Redare2](https://github.com/radareorg/radare2)
+- [TheMatrix](https://github.com/enkomio/thematrix) Project created to ease the malware analysis process
 - [OllyDbg](https://www.ollydbg.de/)
+- [oletools](https://github.com/decalage2/oletools)
 - [The Sleuth Kit/Autopsy](https://www.sleuthkit.org/)
 - [Sandboxie](https://www.sandboxie.com/)
 - [Cuckoo Sandbox](https://cuckoosandbox.org/)
 
 #### Malware-IOC-Detection-Data-Dumps
+- [vx-underground samples](https://samples.vx-underground.org/samples/Families/)
 - [jstrosch Samples](https://github.com/jstrosch/malware-samples)
 - [DigitalSide Threat-Intel Repo](https://osint.digitalside.it/)
 - [MalwareBazar](https://bazaar.abuse.ch/browse/)
@@ -219,13 +241,17 @@
 - [Subcrawl](https://github.com/hpthreatresearch/subcrawl") 
 - [Unofficial OWASP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator)
-- [Atomic Red Team](https://atomicredteam.io/)
+- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team/)
 - [Metta](https://github.com/uber-common/metta)
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
 - [Network Flight Simulator](https://github.com/alphasoc/flightsim)
 - [Cladera Framework](https://github.com/mitre/caldera)
 - [Impacket](https://github.com/SecureAuthCorp/impacket)
 - [Cobalt Strike](https://www.cobaltstrike.com/)
+- [Brute Ratel C4](https://bruteratel.com/)
+- [Exegol](https://github.com/ShutdownRepo/Exegol)
 - [EmpireProject](https://github.com/EmpireProject)
+- [Reubeus](https://github.com/GhostPack/Rubeus)
 - [Responder](https://github.com/lgandx/Responder)
 - [Inveigh](https://github.com/Kevin-Robertson/Inveigh)
 - [ExploitDB](https://github.com/offensive-security/exploitdb)
