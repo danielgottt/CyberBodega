@@ -13,7 +13,7 @@
   - [Host-Analysis](#host-analysis)
   - [Detection](#detection)
   - [Malware-Analysis](#malware-analysis)
-- [Purple-Team-Resources](#purple-team-resources)
+- [Purple/Red-Team-Resources](#purple/red-team-resources)
   - [/usr/bin](#/usr/bin)
 - [Awesome-Lists](#awesome-lists)
 - [Dump](#dump)
