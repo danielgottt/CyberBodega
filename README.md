@@ -18,6 +18,8 @@
 - [Awesome-Lists](#awesome-lists)
 - [Dump](#dump)
 
+## Quick-Links
+- [RSS-Feed](https://www.netvibes.com/gottcyber1#News)
 
 ## Infosec-News
 - [All InfoSec News](https://allinfosecnews.com/)
