@@ -15,7 +15,7 @@
 - [Purple-Team-Resources](#purple-team-resources)
 - [/usr/bin](#/usr/bin)
 - [Awesome-Lists](#awesome-lists)
-- [Dump(#dump)
+- [Dump](#dump)
 
 
 ## Infosec-News
