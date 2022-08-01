@@ -46,3 +46,17 @@
 
 
 
+## Training-Resources
+- [Blue Team CTF's](https://cyberdefenders.org/blueteam-ctf-challenges/)
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
+- [EVTX/PCAP Attack Samples](https://github.com/sbousseaden/)
+- [Lenny Zeltser](https://zeltser.com/start-learning-malware-analysis/)
+- [Open Security Training](https://opensecuritytraining.info/Training.html) 
+- [TryHackMe](https://tryhackme.com/)
+- [HackSplaining](https://www.hacksplaining.com/lessons)
+- [Codewars](https://www.codewars.com/)
+- [MalwareUnicorn](https://malwareunicorn.org/#/workshops)
+- [Quartz List](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
+
+
+
