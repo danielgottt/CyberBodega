@@ -51,11 +51,12 @@
 - [Black Hat Archives](https://www.blackhat.com/html/archives.html) 
 - [If you've ever wanted to mess around with a SIEM](https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/)  
 - [Spin Up An AD Enviorment Quickly](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae) 
-- [H.O.T Security](https://www.sans.org/white-papers/35377/) 
+- [H.O.T Security](https://www.sans.org/white-papers/35377/)
+- [Lenny Zeltser - Learn Malware Analysis](https://zeltser.com/start-learning-malware-analysis/) 
 - [De-Fanging Strings with FLOSS](https://medium.com/malware-buddy/reverse-engineering-tips-strings-deobfuscation-with-floss-9424417e285d)
 - [Setting up Tripwire](https://www.howtoforge.com/tutorial/monitoring-and-detecting-modified-files-using-tripwire-on-centos-7/) 
 - [Canary Tokens](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html) 
-- [Kerboroasting](https://adsecurity.org/?p=3458) 
+- [Kerboroasting](https://adsecurity.org/?p=3458)
 - [Honey Files](https://docs.rapid7.com/insightidr/honey-files/) 
 - [Start Learning Malware Analysis](https://zeltser.com/start-learning-malware-analysis/) 
 - [DFRWS Papers & Presentations](https://dfrws.org/presentation/) 
@@ -68,7 +69,8 @@
 - [Unpacking Malware](https://marcoramilli.com/2020/10/09/how-to-unpack-malware-personal-notes/) 
 - [Malware Reports](https://www.malwarearchaeology.com/analysis) 
 - [Journey Into Incident Response](https://www.malwarearchaeology.com/analysis)
-- [Deploying T-Pot Framework in the Cloud](https://www.stratosphereips.org/blog/2020/10/10/installing-t-pot-honeypot-framework-in-the-cloud) 
+- [Deploying T-Pot Framework in the Cloud](https://www.stratosphereips.org/blog/2020/10/10/installing-t-pot-honeypot-framework-in-the-cloud)
+- [Getting Started with RE/Malware Analysis](https://hshrzd.wordpress.com/how-to-start/)
 
 ## Research-Resources
 - [Exploit DB](https://www.exploit-db.com/) 
@@ -105,15 +107,15 @@
 
 ## Training-Resources
 - [Blue Team CTF's](https://cyberdefenders.org/blueteam-ctf-challenges/)
-- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
-- [EVTX/PCAP Attack Samples](https://github.com/sbousseaden/)
-- [Lenny Zeltser](https://zeltser.com/start-learning-malware-analysis/)
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/) Infected PCAP's for review
+- [EVTX/PCAP Attack Samples](https://github.com/sbousseaden/) Infected PCAP's and EVTX logs for review
 - [Open Security Training](https://opensecuritytraining.info/Training.html) 
 - [TryHackMe](https://tryhackme.com/)
 - [HackSplaining](https://www.hacksplaining.com/lessons)
-- [Codewars](https://www.codewars.com/)
+- [Codewars](https://www.codewars.com/) Programming challanges
 - [MalwareUnicorn](https://malwareunicorn.org/#/workshops)
 - [Quartz List](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
+- [LetsDefend](https://letsdefend.io/) Free-ish training simulating the SOC life. Preperation for incident response
 
 ## Blue-Team-Resources
 ### Utility
@@ -143,6 +145,7 @@
 - [JoeSandbox](https://www.joesandbox.com/#windows)
 - [IRIS-H](https://iris-h.services/pages/dashboard#/pages/dashboard)
 - [Yoroi](https://yomi.yoroi.company/upload)
+- {Har-Sai](https://har-sia.info/index-en.html) Lookup things related to a specific CVE
 
 ### Network-Analysis
 - [Moloch](https://github.com/aol/moloch)
