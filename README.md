@@ -11,10 +11,10 @@
   - [Utility](#utility)
   - [Network-Analysis](#network-analysis)
   - [Host-Analysis](#host-analysis)
-- [Detection](#detection)
-- [Malware-Analysis](#malware-analysis)
+  - [Detection](#detection)
+  - [Malware-Analysis](#malware-analysis)
 - [Purple-Team-Resources](#purple-team-resources)
-- [/usr/bin](#/usr/bin)
+  - [/usr/bin](#/usr/bin)
 - [Awesome-Lists](#awesome-lists)
 - [Dump](#dump)
 
