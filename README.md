@@ -14,7 +14,7 @@
   - [Cloud-Tools](#cloud-tools)
   - [Detection](#detection)
   - [Malware-Analysis](#malware-analysis)
-    - Malware/IOC/Detection/Data Dumps
+    - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
 - [Purple/Red-Team-Resources](#purple/red-team-resources)
   - [/usr/bin](#/usr/bin)
 - [Awesome-Lists](#awesome-lists)
@@ -197,16 +197,19 @@
 - [Ghidra🦅](https://ghidra-sre.org/)
 - [Redare2](https://github.com/radareorg/radare2)
 - [OllyDbg](https://www.ollydbg.de/)
-- [The Sleuth Kit](https://www.sleuthkit.org/)
+- [The Sleuth Kit/Autopsy](https://www.sleuthkit.org/)
 - [Sandboxie](https://www.sandboxie.com/)
 - [Cuckoo Sandbox](https://cuckoosandbox.org/)
 
-#### Malware/IOC/Detection/Data Dumps
+#### Malware-IOC-Detection-Data-Dumps
 - [jstrosch Samples](https://github.com/jstrosch/malware-samples)
 - [DigitalSide Threat-Intel Repo](https://osint.digitalside.it/)
 - [MalwareBazar](https://bazaar.abuse.ch/browse/)
 - [DailyIOC](https://github.com/StrangerealIntel/DailyIOC)
 - [Valhalla Yara Rules](https://valhalla.nextron-systems.com/)
+- [Yara Rules Project](https://github.com/Yara-Rules)
+- [Virustotal Yara](https://github.com/VirusTotal/yara)
+- [Florian Roth](https://github.com/Neo23x0/signature-base)
 
 ## Purple/Red-Team-Resources
 - [Photon Crawler](https://hakin9.org/photon-incredibly-fast-crawler-designed-for-osint/") 
