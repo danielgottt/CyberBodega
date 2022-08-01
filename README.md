@@ -1,3 +1,5 @@
+https://danielgottt.github.io/cyberbodega.html
+
 # Contents
 - [Quick-Links](#quick-links)
 - [Infosec-News](#infosec-news)
