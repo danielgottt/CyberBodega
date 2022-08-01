@@ -134,6 +134,8 @@
 ##Awesome-Lists
 
 ##Dump
+- [Photon Crawler](https://hakin9.org/photon-incredibly-fast-crawler-designed-for-osint/") 
+- [Subcrawl](https://github.com/hpthreatresearch/subcrawl") 
 
 
 
