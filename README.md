@@ -15,7 +15,7 @@
   - [Detection](#detection)
   - [Malware-Analysis](#malware-analysis)
     - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
-- [Purple/Red-Team-Resources](#purple/red-team-resources)
+- [Purple-Red-Team-Resources](#purple-red-team-resources)
   - [/usr/bin](#/usr/bin)
 - [Awesome-Lists](#awesome-lists)
 - [Dump](#dump)
@@ -211,7 +211,7 @@
 - [Virustotal Yara](https://github.com/VirusTotal/yara)
 - [Florian Roth](https://github.com/Neo23x0/signature-base)
 
-## Purple/Red-Team-Resources
+## Purple-Red-Team-Resources
 - [Photon Crawler](https://hakin9.org/photon-incredibly-fast-crawler-designed-for-osint/") 
 - [Subcrawl](https://github.com/hpthreatresearch/subcrawl") 
 - [Unofficial OWASP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
