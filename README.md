@@ -20,7 +20,7 @@
 - [Dump](#dump)
 
 ## Quick-Links
-- [RSS/Twitter-Feed](https://www.netvibes.com/gottcyber1#News)
+- [RSS/Twitter-Feed](https://www.netvibes.com/gottcyber1#News) Conglomeration of InfoSec RSS feeds
 - [TweetDeck](https://tweetdeck.twitter.com/)
 
 ## Infosec-News
