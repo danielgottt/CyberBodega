@@ -11,6 +11,7 @@
   - [Utility](#utility)
   - [Network-Analysis](#network-analysis)
   - [Host-Analysis](#host-analysis)
+  - [Cloud-Tools](#cloud-tools)
   - [Detection](#detection)
   - [Malware-Analysis](#malware-analysis)
 - [Purple/Red-Team-Resources](#purple/red-team-resources)
