@@ -20,7 +20,7 @@
 
 ## Quick-Links
 - [RSS/Twitter-Feed](https://www.netvibes.com/gottcyber1#News)
-- [Tweet-Deck](https://tweetdeck.twitter.com/)
+- [TweetDeck](https://tweetdeck.twitter.com/)
 
 ## Infosec-News
 - [All InfoSec News](https://allinfosecnews.com/)
