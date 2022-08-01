@@ -19,7 +19,8 @@
 - [Dump](#dump)
 
 ## Quick-Links
-- [RSS-Feed](https://www.netvibes.com/gottcyber1#News)
+- [RSS/Twitter-Feed](https://www.netvibes.com/gottcyber1#News)
+- [Tweet-Desk](https://tweetdeck.twitter.com/)
 
 ## Infosec-News
 - [All InfoSec News](https://allinfosecnews.com/)
