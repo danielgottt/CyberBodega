@@ -17,11 +17,11 @@
 ### I mainly use this for personal reference, but if you find it useful, feel free to bookmark. Enjoy!
 
 # 🤔 WANT TO CONTRIBUTE?
-* Please do, and reference the file here!
+<p> Please do, and reference the file here! </p>
 
-* If you have an interesting resource to share, all I ask is that you categorize and utilize markdown to create a link with a description
+<p> If you have an interesting resource to share, all I ask is that you categorize and utilize markdown to create a link with a description </p>
 
-* It should look something like this (Remove the ")
+<p> It should look something like this </p>
 ```
 * [Name of Resource](Link)Description
 ```
