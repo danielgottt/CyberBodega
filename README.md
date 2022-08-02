@@ -32,7 +32,7 @@
 - [Research-Resources](#research-resources)
   - [Write-ups](#write-ups)
   - [Research-Sites](#research-sites)
-  - [Cyber-Threat-Intelligence-Dump](#cyber-ihreat-intelligence-dump)
+  - [Cyber-Threat-Intelligence-Dump](#Cyber-Threat-Intelligence-Dump)
 - [Training-Resources](#training-resources)
 - [Blue-Team-Resources](#blue-team-resources)
   - [Utility](#utility)
