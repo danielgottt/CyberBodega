@@ -158,6 +158,7 @@
 - [LetsDefend](https://letsdefend.io/) Free-ish training simulating the SOC life. Great for people interested in journying into a IR/SOC enviorment  
 - [DC540 Reversing Course](https://github.com/sharpicx/reversing-course)
 - [Low Level Programming](https://github.com/sharpicx/lowlevel-programming)
+- [FreeCodeCamp](https://www.freecodecamp.org/) Free and online, self paced courses to prepare you for a role in programming
 
 ## Blue-Team-Resources
 - [EricZimmerman](https://github.com/EricZimmerman)
