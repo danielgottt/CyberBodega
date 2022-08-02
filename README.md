@@ -21,7 +21,7 @@
 <p> It should look something like this </p>
 
 ```
-[Name of Resource](Link)Description
+- [Name of Resource](Link)Description
 ```
 
 # Contents
