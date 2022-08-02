@@ -1,5 +1,3 @@
-<h1 align="center"> CyberBodega </h1>
-<h3 align="center">A conglomeration of resources for any color of InfoSec</h3>
 
 ```python
      
@@ -13,6 +11,8 @@
                                                 Continuously Updated Since 16 July 2020
 
 ```
+
+<h3 align="center">A conglomeration of resources for any color of InfoSec</h3>
 
 # 🧐 WANT TO CONTRIBUTE?
 <p> Please do! If you have an interesting resource to share open a pull request. All I ask is that you categorize and utilize markdown to create a link with a description </p>
