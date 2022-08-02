@@ -73,8 +73,9 @@
 - [Schneier Security](https://www.schneier.com/)
 
 ## Interesting-Articles
-- [vx-underground](https://www.vx-underground.org/) 
-- [SANS Reading Room⭐](https://www.sans.org/white-papers/)
+- [vx-underground](https://www.vx-underground.org/) Really anything from here is pretty sweet
+- [Cyb3rWard0g's Lab⭐](https://cyberwardog.blogspot.com/2017/02/setting-up-pentesting-i-mean-threat.html) Step by step guide on creating a lab enviorment in ESXi
+- [SANS Reading Room](https://www.sans.org/white-papers/)
 - [Black Hat Archives](https://www.blackhat.com/html/archives.html) 
 - [If you've ever wanted to mess around with a SIEM](https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/)  
 - [Spin Up An AD Enviorment Quickly](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae) 
