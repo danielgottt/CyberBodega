@@ -17,8 +17,14 @@
 ### I mainly use this for personal reference, but if you find it useful, feel free to bookmark. Enjoy!
 
 # 🤔 WANT TO CONTRIBUTE?
-- Please do, and reference the file here!
+* Please do, and reference the file here!
 
+* If you have an interesting resource to share, all I ask is that you categorize and utilize markdown to create a link with a description
+
+* It should look something like this (Remove the ")
+```
+* [Name of Resource](Link)Description
+```
 
 # Contents
 - [Quick-Links](#quick-links)
