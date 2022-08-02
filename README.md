@@ -185,8 +185,8 @@
 - [Har-Sai](https://har-sia.info/index-en.html) Lookup things related to a specific CVE
 
 ### Network-Analysis
-- [Moloch](https://github.com/aol/moloch)
-- [Wireshark](https://www.wireshark.org/)
+- [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds session automatically!
+- [Wireshark](https://www.wireshark.org/) Tride and true network protocol analyzer
 - [Zeek](https://zeek.org/)
 - [RITA](https://www.activecountermeasures.com/free-tools/rita/)
 - [Whats that C2/Exfil?](https://github.com/silence-is-best/c2db)
