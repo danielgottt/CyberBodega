@@ -29,7 +29,7 @@
 - [Quick-Links](#quick-links)
 - [Infosec-News](#infosec-news)
 - [Interesting-Articles](#interesting-articles)
-- [Research-Resources](#research-resources
+- [Research-Resources](#research-resources)
   - [Write-ups](#write-ups)
   - [Research-Sites](#research-sites)
   - [Cyber-Threat-Intelligence-Dump](#cyber-ihreat-intelligence-dump)
