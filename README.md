@@ -55,7 +55,7 @@
 ## Infosec-News
 - [All InfoSec News](https://allinfosecnews.com/) An InfoSec & Cyber news aggregator
 - [Security Soup](https://security-soup.net/) Infosec news, commentary, and research
-- [Threatpost](https://threatpost.com/) ✌The first stop for security news✌
+- [Threatpost](https://threatpost.com/) Supposedly the first stop for security news
 - [Week in 4N6](https://thisweekin4n6.com/) Your weekly roundup of Digital Forensics and Incident Response news
 - [r/blueteamsec](https://www.reddit.com/r/blueteamsec/) Subreddit focused on technical intelligence, research and engineering
 - [Krebson Security](https://krebsonsecurity.com/)
