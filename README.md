@@ -1,5 +1,22 @@
-# https://danielgottt.github.io/cyberbodega.html
-## We're coming back to github soon!
+<h1 align="center"> CyberBodega </h1>
+<h3 align="center">A conglomeration of resources for any color of InfoSec</h3>
+
+```sql
+
+
+_________       ______                  ________      _________                    
+__  ____/____  ____  /______________    ___  __ )___________  /___________ ______ _
+_  /    __  / / /_  __ \  _ \_  ___/    __  __  |  __ \  __  /_  _ \_  __ `/  __ `/
+/ /___  _  /_/ /_  /_/ /  __/  /        _  /_/ // /_/ / /_/ / /  __/  /_/ // /_/ / 
+\____/  _\__, / /_.___/\___//_/         /_____/ \____/\__,_/  \___/_\__, / \__,_/  
+        /____/                                                     /____/          
+                                                                          
+                                           Continuously Updated Since July 16, 2020
+
+```
+
+
+
 
 # Contents
 - [Quick-Links](#quick-links)
