@@ -11,7 +11,7 @@
                               \____/  _\__, / /_.___/\___//_/         /_____/ \____/\__,_/  \___/_\__, / \__,_/  
                                       /____/                                                     /____/          
                                                                           
-                                                                                             Continuously Updated Since 16 July 2020
+                                                                                           Continuously Updated Since 16 July 2020
 
 ```
 ### I mainly use this for personal reference, but if you find it useful, feel free to bookmark. Enjoy!
