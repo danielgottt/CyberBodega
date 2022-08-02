@@ -1,5 +1,5 @@
 <h1 align="center"> CyberBodega </h1>
-<h3 align="center">A conglomeration of resources for any color of InfoSec</h3>
+<h3 align="center">A conglomeration of resources for any color of the rainbow</h3>
 
 ```python
 
