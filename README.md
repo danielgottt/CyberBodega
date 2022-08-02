@@ -154,7 +154,7 @@
 - [HackSplaining](https://www.hacksplaining.com/lessons)
 - [Codewars](https://www.codewars.com/) Programming challanges
 - [MalwareUnicorn](https://malwareunicorn.org/#/workshops)
-- [Quartz List](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
+- [Free Ivy Leauge Courses](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/) List of Ivy leauge courses you can take online for free (CS50)
 - [LetsDefend](https://letsdefend.io/) Free-ish training simulating the SOC life. Great for people interested in journying into a IR/SOC enviorment  
 - [DC540 Reversing Course](https://github.com/sharpicx/reversing-course)
 - [Low Level Programming](https://github.com/sharpicx/lowlevel-programming)
