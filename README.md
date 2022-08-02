@@ -182,7 +182,7 @@
 - [JoeSandbox](https://www.joesandbox.com/#windows)
 - [IRIS-H](https://iris-h.services/pages/dashboard#/pages/dashboard)
 - [Yoroi](https://yomi.yoroi.company/upload)
-- {Har-Sai](https://har-sia.info/index-en.html) Lookup things related to a specific CVE
+- [Har-Sai](https://har-sia.info/index-en.html) Lookup things related to a specific CVE
 
 ### Network-Analysis
 - [Moloch](https://github.com/aol/moloch)
