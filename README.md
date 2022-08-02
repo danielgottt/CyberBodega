@@ -13,6 +13,7 @@
                                                                           
                                                                                              Continuously Updated Since 16 July 2020
 
+I mainly use this for personal reference, but if you find it useful, feel free to bookmark. Enjoy!
 ```
 
 
