@@ -42,7 +42,7 @@
   - [Malware-Analysis](#malware-analysis)
     - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
 - [Purple-Red-Team-Resources](#purple-red-team-resources)
-  - [/usr/bin](#/usr/bin)
+  - [bin](#bin)
 - [Cloud-Things](#cloud-things)
   - [tools](#tools)
 - [Awesome-Lists](#awesome-lists)
@@ -289,7 +289,7 @@
 - [ExploitDB](https://github.com/offensive-security/exploitdb)
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)
 
-### /usr/bin
+### bin
 - [NYAN-x-CAT Repo](https://github.com/NYAN-x-CAT)
 - [Sulealothman Repo](https://github.com/sulealothman/MysteryLegacyPenetrationTools)
 - [Matterpreter Repo](https://github.com/matterpreter?tab=repositories)
