@@ -17,7 +17,7 @@
 
 
 # 🧐 WANT TO CONTRIBUTE? <img src='https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat'/>
-<p> Please do! If you have an interesting resource to share open a pull request. All I ask is that you categorize and utilize markdown to create a link with a description </p>
+<p> Please do! If you have an interesting resource to share open a pull request. All I ask is that you categorize and utilize markdown to create a link with a description. I understand that there may be some crossover for specific resources, there is no reason to argue semantics </p>
 
 <p> It should look something like this </p>
 
@@ -42,6 +42,7 @@
   - [Malware-Analysis](#malware-analysis)
     - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
 - [Purple-Red-Team-Resources](#purple-red-team-resources)
+  - [Recon](#recon)
   - [bin](#bin)
 - [Cloud-Things](#cloud-things)
   - [tools](#tools)
@@ -269,8 +270,6 @@
 - [Florian Roth](https://github.com/Neo23x0/signature-base)
 
 ## Purple-Red-Team-Resources
-- [Photon Crawler](https://hakin9.org/photon-incredibly-fast-crawler-designed-for-osint/") 
-- [Subcrawl](https://github.com/hpthreatresearch/subcrawl") 
 - [Unofficial OWASP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator)
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team/)
@@ -281,6 +280,7 @@
 - [Impacket](https://github.com/SecureAuthCorp/impacket)
 - [Cobalt Strike](https://www.cobaltstrike.com/)
 - [Brute Ratel C4](https://bruteratel.com/)
+- [Gobuster](https://github.com/OJ/gobuster)
 - [Exegol](https://github.com/ShutdownRepo/Exegol)
 - [EmpireProject](https://github.com/EmpireProject)
 - [Reubeus](https://github.com/GhostPack/Rubeus)
@@ -288,6 +288,14 @@
 - [Inveigh](https://github.com/Kevin-Robertson/Inveigh)
 - [ExploitDB](https://github.com/offensive-security/exploitdb)
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)
+
+### Recon
+- [Photon Crawler](https://hakin9.org/photon-incredibly-fast-crawler-designed-for-osint/") 
+- [Subcrawl](https://github.com/hpthreatresearch/subcrawl")
+- [MASSCAN](https://github.com/robertdavidgraham/masscan)
+- [Nmap](https://nmap.org/)
+- [Angry IP Scanner](https://angryip.org/)
+- [Google Dorking](https://www.exploit-db.com/google-hacking-database)
 
 ### bin
 - [NYAN-x-CAT Repo](https://github.com/NYAN-x-CAT)
