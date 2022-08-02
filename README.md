@@ -29,7 +29,10 @@
 - [Quick-Links](#quick-links)
 - [Infosec-News](#infosec-news)
 - [Interesting-Articles](#interesting-articles)
-- [Research-Resources](#research-resources)
+- [Research-Resources](#research-resources
+  - [Write-ups](#write-ups)
+  - [Research-Sites](#research-sites)
+  - [Cyber-Threat-Intelligence-Dump](#cyber-ihreat-intelligence-dump)
 - [Training-Resources](#training-resources)
 - [Blue-Team-Resources](#blue-team-resources)
   - [Utility](#utility)
@@ -46,17 +49,14 @@
 
 ## Quick-Links
 - [RSS/Twitter-Feed](https://www.netvibes.com/gottcyber1#News) Conglomeration of InfoSec RSS feeds
-- [TweetDeck](https://tweetdeck.twitter.com/)
+- [TweetDeck](https://tweetdeck.twitter.com/) Twitter has useful information? YEP
 
 ## Infosec-News
-- [All InfoSec News](https://allinfosecnews.com/)
-- [Unit 42](https://unit42.paloaltonetworks.com/)
-- [Google Security Blog](https://security.googleblog.com/)
-- [Security Soup](https://security-soup.net/)
-- [Threatpost](https://threatpost.com/)
-- [Week in 4N6](https://thisweekin4n6.com/)
-- [r/blueteamsec](https://www.reddit.com/r/blueteamsec/)
-- [Trellix Blog](https://www.trellix.com/en-us/about/newsroom/stories.html)
+- [All InfoSec News](https://allinfosecnews.com/) An InfoSec & Cyber news aggregator
+- [Security Soup](https://security-soup.net/) Infosec news, commentary, and research
+- [Threatpost](https://threatpost.com/) ✌The first stop for security news✌
+- [Week in 4N6](https://thisweekin4n6.com/) Your weekly roundup of Digital Forensics and Incident Response news
+- [r/blueteamsec](https://www.reddit.com/r/blueteamsec/) Subreddit focused on technical intelligence, research and engineering
 - [Krebson Security](https://krebsonsecurity.com/)
 - [SANS Webcast](https://www.sans.org/webcasts/)
 - [SANS Newsletter](https://www.sans.org/newsletters/)
@@ -74,7 +74,6 @@
 ## Interesting-Articles
 - [vx-underground](https://www.vx-underground.org/) 
 - [SANS Reading Room⭐](https://www.sans.org/white-papers/)
-- [The DFIR Report](https://thedfirreport.com/) Solid DFIR writeups
 - [Black Hat Archives](https://www.blackhat.com/html/archives.html) 
 - [If you've ever wanted to mess around with a SIEM](https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/)  
 - [Spin Up An AD Enviorment Quickly](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae) 
@@ -104,18 +103,28 @@
 - [Getting Started with RE/Malware Analysis](https://hshrzd.wordpress.com/how-to-start/)
 
 ## Research-Resources
-- [Exploit DB](https://www.exploit-db.com/) 
+### Write-ups
+- [Unit 42](https://unit42.paloaltonetworks.com/)
+- [Google Security Blog](https://security.googleblog.com/)
+- [Trellix Blog](https://www.trellix.com/en-us/about/newsroom/stories.html)
+- [The DFIR Report](https://thedfirreport.com/) Solid DFIR writeups
+- [Sophos X-Ops](https://news.sophos.com/en-us/tag/sophos-x-ops/)
+
+### Research-Sites
+- [Exploit DB](https://www.exploit-db.com/)
 - [Shodan](https://www.shodan.io/) 
-- [National Vulnerability Database](https://nvd.nist.gov/) 
+- [National Vulnerability Database](https://nvd.nist.gov/)
 - [CVE Proof of Concepts](https://github.com/qazbnm456/awesome-cve-poc) 
 - [OWASP](https://owasp.org/projects/) 
-- [OSINT](https://osintframework.com/)
+- [OSINT Framework](https://osintframework.com/)
 - [OpenThreatResearch](https://blog.openthreatresearch.com/)
-- [Unit 42 Atom](https://unit42.paloaltonetworks.com/atoms/)
-- [I-Intelligence OSINT Handbook](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf) 
 - [BellingCat](https://www.bellingcat.com/) 
 - [Zoomeye](https://www.zoomeye.org/) 
 - [Spyse](https://spyse.com/) 
+
+### Threat-Intelligence-Dump
+- [Unit 42 Atom](https://unit42.paloaltonetworks.com/atoms/)
+- [CrowdStrike Adversary](https://adversary.crowdstrike.com/en-US/) 
 - [SOC Radar](https://labs.socradar.com/apt-feeds/) 
 - [APT Campaigns](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) 
 - [APT Map](https://aptmap.netlify.app/) 
@@ -129,11 +138,8 @@
 - [Google Threat Analysis](https://blog.google/threat-analysis-group/) 
 - [TheRecord Nation State](https://therecord.media/news/nation-state/) 
 - [Microsoft Threat Intel](https://www.microsoft.com/security/blog/microsoft-security-intelligence/) 
-- [Thai Cert](https://apt.thaicert.or.th/cgi-bin/listgroups.cgi) 
 - [Record Future APT](https://www.recordedfuture.com/blog/) 
 - [APT Map](https://andreacristaldi.github.io/APTmap/#50) 
-- [CrowdStrike Adversary](https://adversary.crowdstrike.com/en-US/) 
-- [Mandiant](https://www.mandiant.com/resources?f[0]=layout:article_report) 
 - [Mitre APT Groups](https://attack.mitre.org/groups/) 
 - [APT Netlify](https://aptmap.netlify.app/) 
 - [Alienvault OTX Groups](https://otx.alienvault.com/browse/global/adversaries?include_inactive=0&sort=-modified&page=1) 
