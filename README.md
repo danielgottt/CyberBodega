@@ -112,7 +112,7 @@
 - [Trellix Blog](https://www.trellix.com/en-us/about/newsroom/stories.html)
 - [The DFIR Report](https://thedfirreport.com/) Solid DFIR writeups
 - [Sophos X-Ops](https://news.sophos.com/en-us/tag/sophos-x-ops/)
-- [Intel 471](https://intel471.com/blog/)
+- [Intel471](https://intel471.com/blog/)
 
 ### Research-Sites
 - [Exploit DB](https://www.exploit-db.com/)
