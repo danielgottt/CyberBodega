@@ -80,7 +80,8 @@
 - [If you've ever wanted to mess around with a SIEM](https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/)  
 - [Spin Up An AD Enviorment Quickly](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae) 
 - [H.O.T Security](https://www.sans.org/white-papers/35377/)
-- [Lenny Zeltser - Learn Malware Analysis](https://zeltser.com/start-learning-malware-analysis/) 
+- [Lenny Zeltser - Learn Malware Analysis](https://zeltser.com/start-learning-malware-analysis/)
+- [PST, Want a Shell?](https://www.mandiant.com/resources/pst-want-shell-proxyshell-exploiting-microsoft-exchange-servers) Mandiant's write-up for ProxyShell
 - [De-Fanging Strings with FLOSS](https://medium.com/malware-buddy/reverse-engineering-tips-strings-deobfuscation-with-floss-9424417e285d)
 - [Setting up Tripwire](https://www.howtoforge.com/tutorial/monitoring-and-detecting-modified-files-using-tripwire-on-centos-7/) 
 - [Canary Tokens](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html) 
