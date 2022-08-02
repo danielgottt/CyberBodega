@@ -16,7 +16,7 @@
 
 
 
-# 🧐 WANT TO CONTRIBUTE?
+# 🧐 WANT TO CONTRIBUTE? <img src='https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat'/>
 <p> Please do! If you have an interesting resource to share open a pull request. All I ask is that you categorize and utilize markdown to create a link with a description </p>
 
 <p> It should look something like this </p>
