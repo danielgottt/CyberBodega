@@ -38,7 +38,7 @@
   - [Utility](#utility)
   - [Network-Analysis](#network-analysis)
   - [Host-Analysis](#host-analysis)
-  - [Cloud-Tools](#cloud-tools)
+  - [Cloud](#cloud)
   - [Detection](#detection)
   - [Malware-Analysis](#malware-analysis)
     - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
