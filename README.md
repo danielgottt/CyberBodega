@@ -17,6 +17,7 @@
 ### I mainly use this for personal reference, but if you find it useful, feel free to bookmark. Enjoy!
 
 # 🤔 WANT TO CONTRIBUTE?
+- Please do, and reference the file here!
 
 
 # Contents
