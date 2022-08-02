@@ -192,7 +192,7 @@
 - [Har-Sai](https://har-sia.info/index-en.html) Lookup things related to a specific CVE
 
 ### Network-Analysis
-- [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds session automatically!
+- [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
 - [Wireshark](https://www.wireshark.org/) Tride and true network protocol analyzer
 - [Zeek](https://zeek.org/)
 - [RITA](https://www.activecountermeasures.com/free-tools/rita/)
