@@ -19,11 +19,9 @@
 <p> Please do! If you have an interesting resource to share open a pull request. All I ask is that you categorize and utilize markdown to create a link with a description </p>
 
 <p> It should look something like this </p>
-
 ```
-* [Name of Resource](Link)Description
+[Name of Resource](Link)Description
 ```
-
 # Contents
 - [Quick-Links](#quick-links)
 - [Infosec-News](#infosec-news)
