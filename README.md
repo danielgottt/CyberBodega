@@ -38,12 +38,13 @@
   - [Utility](#utility)
   - [Network-Analysis](#network-analysis)
   - [Host-Analysis](#host-analysis)
-  - [Cloud](#cloud)
   - [Detection](#detection)
   - [Malware-Analysis](#malware-analysis)
     - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
 - [Purple-Red-Team-Resources](#purple-red-team-resources)
   - [/usr/bin](#/usr/bin)
+- [Cloud-Things](#cloud-things)
+  - [tools](#tools)
 - [Awesome-Lists](#awesome-lists)
 - [Dump](#dump)
 
@@ -221,9 +222,6 @@
 - [Power Forensics](https://github.com/Invoke-IR/PowerForensics)
 - [Block Parse](https://github.com/matthewdunwoody/block-parser) PowerShell script block parser
 
-### Cloud
-- [Azure AD IR Guide](https://misconfig.io/azure-ad-incident-response-life-cycle-tools/)
-
 ### Detection
 - [Sigma](https://github.com/SigmaHQ/sigma/blob/master/README.md) Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward manner
 - [Yara](https://yara.readthedocs.io) 
@@ -291,6 +289,13 @@
 - [NYAN-x-CAT Repo](https://github.com/NYAN-x-CAT)
 - [Sulealothman Repo](https://github.com/sulealothman/MysteryLegacyPenetrationTools)
 - [Matterpreter Repo](https://github.com/matterpreter?tab=repositories)
+
+### Cloud-Things
+- [Azure AD IR Guide](https://misconfig.io/azure-ad-incident-response-life-cycle-tools/)
+
+### Tools
+- [Basic Blob Finder](https://github.com/joswr1ght/basicblobfinder) POC tool to hunt for public Azure storage containers and enumerate the blobs
+
 
 ## Awesome-Lists
 - [Master List of all Awesome Distros](https://github.com/sindresorhus/awesome)
