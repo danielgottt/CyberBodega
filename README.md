@@ -195,6 +195,7 @@
 - [IRIS-H](https://iris-h.services/pages/dashboard#/pages/dashboard)
 - [Yoroi](https://yomi.yoroi.company/upload)
 - [Har-Sai](https://har-sia.info/index-en.html) Lookup things related to a specific CVE
+- [Rastrea2r](https://github.com/rastrea2r/rastrea2r) Multi-platform open source tool that allows incident responders and SOC analysts to triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes
 
 ### Network-Analysis
 - [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
@@ -206,88 +207,83 @@
 - [Network Miner](https://www.netresec.com/?page=networkminer)
 - [VAST](https://github.com/tenzir/vast)
 - [NetSniff](http://netsniff-ng.org/)
+- [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) A tool to catch spoofed NBNS responses
 - [Grass Marlin🦅](https://github.com/nsacyber/GRASSMARLIN)
 - [SELKS](https://github.com/StamusNetworks/SELKS)
 
 ### Host-Analysis
-- [Volatility](https://github.com/volatilityfoundation/volatility)
-- [Velociraptor](https://github.com/Velocidex/velociraptor)
-- [Osquery](https://osquery.io/)
-- [Sysinternalsuite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
-- [CimSweep](https://github.com/PowerShellMafia/CimSweep)
+- [Volatility](https://github.com/volatilityfoundation/volatility) Python tool used for the extraction of digital artifacts from volatile memory (RAM) samples
+- [Velociraptor](https://github.com/Velocidex/velociraptor) Tool for collecting host based state information using The Velociraptor Query Language (VQL) queries
+- [Osquery](https://osquery.io/) Tool that provides performant endpoint visibility
+- [Sysinternalsuite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) Suite of tools providing a multitude of capabiltiies for defenders or attackers
+- [CimSweep](https://github.com/PowerShellMafia/CimSweep) Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely
 - [Seatbelt](https://github.com/GhostPack/Seatbelt) Security oriented host-survey tool performing "safety checks" relevant from both offensive and defensive security perspectives
-- [Live-Forensicator](https://github.com/Johnng007/Live-Forensicator)
-- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
-- [Chainsaw](https://github.com/countercept/chainsaw)
-- [Google Rapid Response](https://github.com/google/grr)
-- [PSHunt](https://github.com/Infocyte/PSHunt)
-- [PSRecon](https://github.com/gfoss/PSRecon)
-- [Rastrea2r](https://github.com/rastrea2r/rastrea2r)
-- [Redline](https://www.fireeye.com/services/freeware/redline.html)
-- [Power Forensics](https://github.com/Invoke-IR/PowerForensics)
+- [Live-Forensicator](https://github.com/Johnng007/Live-Forensicator) Assist's responders in carrying out live forensic investigations
+- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) PowerShell Module for Threat Hunting via Windows Event Logs
+- [Chainsaw](https://github.com/countercept/chainsaw) Powerful ‘first-response’ capability to quickly identify threats within Windows event logs
+- [Google Rapid Response](https://github.com/google/grr) Python agent that is installed on target systems, and python server infrastructure that can manage and talk to clients
+- [PSHunt](https://github.com/Infocyte/PSHunt) Powershell Threat Hunting Module designed to scan remote endpoints
+- [PSRecon](https://github.com/gfoss/PSRecon) Gathers data from a remote Windows host using PowerShell
+- [Redline](https://fireeye.market/apps/211364) Free EDR, thats pretty cool
+- [Power Forensics](https://github.com/Invoke-IR/PowerForensics) Inclusive framework for hard drive forensic analysis
 - [Block Parse](https://github.com/matthewdunwoody/block-parser) PowerShell script block parser
 
 ### Detection
 - [Sigma](https://github.com/SigmaHQ/sigma/blob/master/README.md) Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward manner
-- [Yara](https://yara.readthedocs.io) 
-- [Snort](https://snort.org/)
-- [Suricata](https://suricata.readthedocs.io)
-- [WMI Monitor](https://github.com/realparisi/WMI_Monitor)
-- [NotRuler](https://github.com/sensepost/notruler)
-- [BlockBlock](https://objective-see.com/products/blockblock.html)
-- [Santa](https://github.com/google/santa)
-- [MalTrail](https://github.com/stamparm/maltrail)
-- [OwlH](https://www.owlh.net/)
-- [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter)
-- [Event Query Language](https://eql.readthedocs.io/en/latest/)
+- [Yara](https://yara.readthedocs.io) Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples
+- [Snort](https://snort.org/) Open source intrusion prevention and detection system
+- [Suricata](https://suricata.readthedocs.io) High performance Network IDS, IPS and Network Security Monitoring engine
+- [BlockBlock](https://objective-see.com/products/blockblock.html) Monitors common persistence locations and alerts whenever a persistent component is added
+- [Santa](https://github.com/google/santa) Binary authorization system for macOS
+- [MalTrail](https://github.com/stamparm/maltrail) Malicious traffic detection system
 
 ### Malware-Analysis
 - [Remnux](https://remnux.org/)
-- [Tools by hasherezade](https://hasherezade.github.io/)
-- [IDA](https://hex-rays.com/ida-free/)
-- [FLARE Floss](https://github.com/mandiant/flare-floss)
-- [BinaryNinja](https://binary.ninja/)
-- [BinaryPig](https://github.com/endgameinc/binarypig)
-- [Ghidra🦅](https://ghidra-sre.org/)
-- [HxD](https://mh-nexus.de/en/hxd/)
-- [Redare2](https://github.com/radareorg/radare2)
+- [Tools by hasherezade](https://hasherezade.github.io/) Linux toolkit for reverse-engineering and analyzing malicious software
+- [IDA](https://hex-rays.com/ida-free/) Binary code analysis tool
+- [FLARE Floss](https://github.com/mandiant/flare-floss) Automatically deobfuscate strings from malware binaries
+- [BinaryNinja](https://binary.ninja/) Interactive disassembler, decompiler, and binary analysis platform
+- [BinaryPig](https://github.com/endgameinc/binarypig) Malware Processing and Analytics
+- [Ghidra🦅](https://ghidra-sre.org/) Software reverse engineering suite of tools
+- [HxD](https://mh-nexus.de/en/hxd/) Carefully designed and fast hex editor 
+- [Redare2](https://github.com/radareorg/radare2) Set of libraries, tools and plugins to ease reverse engineering tasks
 - [TheMatrix](https://github.com/enkomio/thematrix) Project created to ease the malware analysis process
-- [OllyDbg](https://www.ollydbg.de/)
-- [oletools](https://github.com/decalage2/oletools)
-- [The Sleuth Kit/Autopsy](https://www.sleuthkit.org/)
-- [Sandboxie](https://www.sandboxie.com/)
-- [Cuckoo Sandbox](https://cuckoosandbox.org/)
+- [OllyDbg](https://www.ollydbg.de/) 32-bit assembler level analysing debugger
+- [oletools](https://github.com/decalage2/oletools) Package of python tools to analyze files
+- [The Sleuth Kit/Autopsy](https://www.sleuthkit.org/) Open Source Digital Forensics
+- [Cuckoo Sandbox](https://cuckoosandbox.org/) Leading open source automated malware analysis system
 
 #### Malware-IOC-Detection-Data-Dumps
-- [vx-underground samples](https://samples.vx-underground.org/samples/Families/)
-- [jstrosch Samples](https://github.com/jstrosch/malware-samples)
-- [DigitalSide Threat-Intel Repo](https://osint.digitalside.it/)
-- [MalwareBazar](https://bazaar.abuse.ch/browse/)
-- [DailyIOC](https://github.com/StrangerealIntel/DailyIOC)
+- [vx-underground samples](https://samples.vx-underground.org/samples/Families/) The largest collection of malware source code, samples, and papers on the internet
+- [jstrosch Samples](https://github.com/jstrosch/malware-samples) Repository intended to provide access to a wide variety of malicious files and other artifacts
+- [DigitalSide Threat-Intel Repo](https://osint.digitalside.it/) Repository that contains a set of Open Source Cyber Threat Intellegence information
+- [MalwareBazar](https://bazaar.abuse.ch/browse/) Project from abuse.ch with the goal of sharing malware samples
+- [DailyIOC](https://github.com/StrangerealIntel/DailyIOC) Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups
 - [Valhalla Yara Rules](https://valhalla.nextron-systems.com/)
 - [Yara Rules Project](https://github.com/Yara-Rules)
 - [Virustotal Yara](https://github.com/VirusTotal/yara)
 - [Florian Roth](https://github.com/Neo23x0/signature-base)
 
 ## Purple-Red-Team-Resources
-- [Unofficial OWASP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
-- [APTSimulator](https://github.com/NextronSystems/APTSimulator)
-- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team/)
-- [Metta](https://github.com/uber-common/metta)
+- [Unofficial OSCP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
-- [Network Flight Simulator](https://github.com/alphasoc/flightsim)
-- [Cladera Framework](https://github.com/mitre/caldera)
-- [Impacket](https://github.com/SecureAuthCorp/impacket)
-- [Cobalt Strike](https://www.cobaltstrike.com/)
-- [Brute Ratel C4](https://bruteratel.com/)
-- [Gobuster](https://github.com/OJ/gobuster)
-- [Exegol](https://github.com/ShutdownRepo/Exegol)
-- [EmpireProject](https://github.com/EmpireProject)
-- [Reubeus](https://github.com/GhostPack/Rubeus)
-- [Responder](https://github.com/lgandx/Responder)
-- [Inveigh](https://github.com/Kevin-Robertson/Inveigh)
-- [ExploitDB](https://github.com/offensive-security/exploitdb)
-- [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)
+- [APTSimulator](https://github.com/NextronSystems/APTSimulator) A Windows Batch script that creates files to make a system look as if it was compromised
+- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team/) Library of tests mapped to the MITRE ATT&CK® framework
+- [Metta](https://github.com/uber-common/metta) Adversary simulatiopn tool
+- [Network Flight Simulator](https://github.com/alphasoc/flightsim) Lightweight utility used to generate malicious network traffic
+- [Cladera Framework](https://github.com/mitre/caldera) Platform designed to easily automate adversary emulation, assist manual red-teams, and automate incident response
+- [Impacket](https://github.com/SecureAuthCorp/impacket) Impacket is a collection of Python classes for working with network protocols
+- [Cobalt Strike](https://www.cobaltstrike.com/) Post-exploitation agent and covert channels to emulate a quiet long-term embedded actor in your customer’s network
+- [Brute Ratel C4](https://bruteratel.com/) Customized Command and Control Center for Red Team and Adversary Simulation
+- [Silver](https://github.com/BishopFox/sliver) Open source cross-platform adversary emulation/red team framework
+- [Gobuster](https://github.com/OJ/gobuster) Gobuster is a tool used to brute-force subdomains, website URI's, open S3 buckets and more
+- [Exegol](https://github.com/ShutdownRepo/Exegol) Exegol is a community-driven hacking environment, powerful and yet simple enough to be used by anyone in day to day engagements
+- [EmpireProject](https://github.com/EmpireProject) Empire is a post-exploitation framework, which is sadly not maintained anymore
+- [Reubeus](https://github.com/GhostPack/Rubeus) Rubeus is a C# toolset for raw Kerberos interaction and abuses
+- [Responder](https://github.com/lgandx/Responder) Responder is an LLMNR, NBT-NS and MDNS poisoner
+- [Inveigh](https://github.com/Kevin-Robertson/Inveigh) Inveigh is a cross-platform .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers
+- [ExploitDB](https://github.com/offensive-security/exploitdb) Archive of public exploits and corresponding vulnerable software
+- [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) Tool used for building repeatable, time-delayed, and distributed security events
 
 ### Recon
 - [Photon Crawler](https://hakin9.org/photon-incredibly-fast-crawler-designed-for-osint/") 
