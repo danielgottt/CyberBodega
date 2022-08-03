@@ -150,7 +150,7 @@
 - [Alienvault OTX Groups](https://otx.alienvault.com/browse/global/adversaries?include_inactive=0&sort=-modified&page=1) 
 
 ## Training-Resources
-- [Blue Team CTF's](https://cyberdefenders.org/blueteam-ctf-challenges/)
+- [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) BlueYard - BlueTeam Challenges
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/) Infected PCAP's for review
 - [EVTX/PCAP Attack Samples](https://github.com/sbousseaden/) Infected PCAP's and EVTX logs for review
 - [Open Security Training](https://opensecuritytraining.info/Training.html) 
