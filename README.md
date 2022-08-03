@@ -145,7 +145,7 @@
 - [Microsoft Threat Intel](https://www.microsoft.com/security/blog/microsoft-security-intelligence/) 
 - [Record Future APT](https://www.recordedfuture.com/blog/) 
 - [APT Map](https://andreacristaldi.github.io/APTmap/#50) 
-- [Mitre APT Groups](https://attack.mitre.org/groups/) 
+- [MITRE APT Groups](https://attack.mitre.org/groups/) 
 - [APT Netlify](https://aptmap.netlify.app/) 
 - [Alienvault OTX Groups](https://otx.alienvault.com/browse/global/adversaries?include_inactive=0&sort=-modified&page=1) 
 
