@@ -202,6 +202,7 @@
 - [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
 - [Wireshark](https://www.wireshark.org/) Tride and true network protocol analyzer
 - [Zeek](https://zeek.org/)
+- [PcapXray](https://github.com/Srinivas11789/PcapXray) A tool to visualize Packet Capture offline as a Network Diagram
 - [RITA](https://www.activecountermeasures.com/free-tools/rita/)
 - [Whats that C2/Exfil?](https://github.com/silence-is-best/c2db)
 - [Incubating](https://github.com/apache/incubator-spot)
