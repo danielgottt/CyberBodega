@@ -295,6 +295,12 @@
 - [Angry IP Scanner](https://angryip.org/)
 - [Google Dorking](https://www.exploit-db.com/google-hacking-database)
 
+### Password Tools
+- [Cain & Abel](https://web.archive.org/web/20160214132154/http://www.oxid.it/cain.html) Password recovery tool for Microsoft Operating Systems
+- [Hashcat](https://hashcat.net/hashcat/) Advanced password recovery tool for most operating systems
+- [John](https://www.openwall.com/john/) Open Source password security auditing and password recovery tool
+- [Mimikatz](https://github.com/ParrotSec/mimikatz) Extract plaintexts passwords, hashs, PIN codes and kerberos tickets from memory
+
 ### bin
 - [NYAN-x-CAT Repo](https://github.com/NYAN-x-CAT)
 - [Sulealothman Repo](https://github.com/sulealothman/MysteryLegacyPenetrationTools)
