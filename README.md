@@ -44,6 +44,7 @@
     - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
 - [Purple-Red-Team-Resources](#purple-red-team-resources)
   - [Recon](#recon)
+  - [Password-Tools](#password-tools)
   - [bin](#bin)
 - [Cloud-Things](#cloud-things)
   - [tools](#tools)
@@ -295,7 +296,7 @@
 - [Angry IP Scanner](https://angryip.org/)
 - [Google Dorking](https://www.exploit-db.com/google-hacking-database)
 
-### Password Tools
+### Password-Tools
 - [Cain & Abel](https://web.archive.org/web/20160214132154/http://www.oxid.it/cain.html) Password recovery tool for Microsoft Operating Systems
 - [Hashcat](https://hashcat.net/hashcat/) Advanced password recovery tool for most operating systems
 - [John](https://www.openwall.com/john/) Open Source password security auditing and password recovery tool
