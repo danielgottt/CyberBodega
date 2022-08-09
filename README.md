@@ -277,6 +277,7 @@
 - [Cladera Framework](https://github.com/mitre/caldera) Platform designed to easily automate adversary emulation, assist manual red-teams, and automate incident response
 - [Impacket](https://github.com/SecureAuthCorp/impacket) Impacket is a collection of Python classes for working with network protocols
 - [Cobalt Strike](https://www.cobaltstrike.com/) Post-exploitation agent and covert channels to emulate a quiet long-term embedded actor in your customer’s network
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) Open source tool that automates the process of detecting and exploiting SQL injection flaws
 - [Brute Ratel C4](https://bruteratel.com/) Customized Command and Control Center for Red Team and Adversary Simulation
 - [Silver](https://github.com/BishopFox/sliver) Open source cross-platform adversary emulation/red team framework
 - [Gobuster](https://github.com/OJ/gobuster) Gobuster is a tool used to brute-force subdomains, website URI's, open S3 buckets and more
