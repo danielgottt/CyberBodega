@@ -217,6 +217,7 @@
 ### Host-Analysis
 - [Volatility](https://github.com/volatilityfoundation/volatility) Python tool used for the extraction of digital artifacts from volatile memory (RAM) samples
 - [Velociraptor](https://github.com/Velocidex/velociraptor) Tool for collecting host based state information using The Velociraptor Query Language (VQL) queries
+- [Hayabusa](https://github.com/Yamato-Security/hayabusa) Windows event log fast forensics timeline generator and threat hunting tool (Sigma compatible)
 - [Osquery](https://osquery.io/) Tool that provides performant endpoint visibility
 - [Sysinternalsuite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) Suite of tools providing a multitude of capabiltiies for defenders or attackers
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely
