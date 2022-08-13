@@ -130,11 +130,10 @@
 - [Spyse](https://spyse.com/) 
 
 ### Cyber-Threat-Intelligence-Dump
-- [Unit 42 Atom](https://unit42.paloaltonetworks.com/atoms/)
-- [CrowdStrike Adversary](https://adversary.crowdstrike.com/en-US/) 
-- [SOC Radar](https://labs.socradar.com/apt-feeds/) 
-- [APT Campaigns](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) 
-- [APT Map](https://aptmap.netlify.app/) 
+- [Unit 42 Atom](https://unit42.paloaltonetworks.com/atoms/) Threat group information
+- [CrowdStrike Adversary](https://adversary.crowdstrike.com/en-US/) APT/Adversary group list
+- [SOC Radar](https://labs.socradar.com/apt-feeds/) APT IoC feeds from several public and private sources and sensors
+- [APT Campaigns](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) Collection of APT and cybercriminals campaign
 - [Yet Another Google Doc.1](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml) APT Groups and Operations
 - [Yet Another Google Doc.2](https://docs.google.com/document/u/1/d/e/2PACX-1vR2TWm68bLidO3e2X0wTCqs0609vo5RXB85f6VL_Zm79wtTK59xADKh6MG0G7hSBZi8cPOiQVWAIie0/pub) Raw intel dump into a word doc
 - [Cyber Campaigns](http://www.cybercampaigns.net/) List of multiple cyber-espionage and cyber-attack campaigns
@@ -146,6 +145,7 @@
 - [MITRE APT Groups](https://attack.mitre.org/groups/) MITRE attack groups
 - [APT Netlify](https://aptmap.netlify.app/) Yet another threat actor map
 - [Alienvault OTX Groups](https://otx.alienvault.com/browse/global/adversaries?include_inactive=0&sort=-modified&page=1) AlienVault open threat exchange
+- [Unit 42 Playbooks](https://pan-unit42.github.io/playbook_viewer/) Playbooks for certain threat groups
 
 ## Training-Resources
 - [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) BlueYard - BlueTeam Challenges
