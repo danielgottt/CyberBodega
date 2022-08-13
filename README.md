@@ -78,23 +78,22 @@
 ## Interesting-Articles
 - [vx-underground](https://www.vx-underground.org/) Really anything from here is pretty sweet
 - [Cyb3rWard0g's Lab⭐](https://cyberwardog.blogspot.com/2017/02/setting-up-pentesting-i-mean-threat.html) Step by step guide on creating a lab enviorment in ESXi
-- [SANS Reading Room](https://www.sans.org/white-papers/)
-- [Black Hat Archives](https://www.blackhat.com/html/archives.html) 
+- [SANS Reading Room](https://www.sans.org/white-papers/) See what white papers are top of mind for the SANS community
+- [Black Hat Archives](https://www.blackhat.com/html/archives.html) Archive of computer security presentations is provided free of charge as a service to the international computer security community
 - [If you've ever wanted to mess around with a SIEM](https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/)  
 - [Spin Up An AD Enviorment Quickly](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae) 
-- [H.O.T Security](https://www.sans.org/white-papers/35377/)
 - [Lenny Zeltser - Learn Malware Analysis](https://zeltser.com/start-learning-malware-analysis/)
 - [PST, Want a Shell?](https://www.mandiant.com/resources/pst-want-shell-proxyshell-exploiting-microsoft-exchange-servers) Mandiant's write-up for ProxyShell
-- [De-Fanging Strings with FLOSS](https://medium.com/malware-buddy/reverse-engineering-tips-strings-deobfuscation-with-floss-9424417e285d)
-- [Setting up Tripwire](https://www.howtoforge.com/tutorial/monitoring-and-detecting-modified-files-using-tripwire-on-centos-7/) 
-- [Canary Tokens](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html) 
-- [Kerboroasting](https://adsecurity.org/?p=3458)
-- [Honey Files](https://docs.rapid7.com/insightidr/honey-files/)
-- [CTI Self Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
+- [De-Fanging Strings with FLOSS](https://medium.com/malware-buddy/reverse-engineering-tips-strings-deobfuscation-with-floss-9424417e285d) Uncovering obfuscated strings with FLOSS
+- [Setting up Tripwire](https://www.howtoforge.com/tutorial/monitoring-and-detecting-modified-files-using-tripwire-on-centos-7/) Detecting adversary activity via file changes (Honey Files)
+- [Canary Tokens](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html) Painless way to help defenders discover they've been breached
+- [Kerboroasting](https://adsecurity.org/?p=3458) Conversation about extracting service account credentials from Active Directory via kerb
+- [Honey Files](https://docs.rapid7.com/insightidr/honey-files/) Honey files are designed to detect attackers who are accessing and removing files
+- [CTI Self Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) Katie Nickels discusses ways you can learn more about CTI
 - [Start Learning Malware Analysis](https://zeltser.com/start-learning-malware-analysis/) 
 - [DFRWS Papers & Presentations](https://dfrws.org/presentation/)
-- [Detecting Meterpreter HTTP module Network Traffic](https://blog.didierstevens.com/2015/05/11/detecting-network-traffic-from-metasploits-meterpreter-reverse-http-module/)
-- [Hunting Linux Persistence Part 1](https://www.activecountermeasures.com/hunting-for-persistence-in-linux-part-1-auditd-sysmon-osquery-and-webshells/)
+- [Detecting Meterpreter HTTP module Network Traffic](https://blog.didierstevens.com/2015/05/11/detecting-network-traffic-from-metasploits-meterpreter-reverse-http-module/) Didier Stevens discusses meterpreter network traffic
+- [Hunting Linux Persistence Part 1](https://www.activecountermeasures.com/hunting-for-persistence-in-linux-part-1-auditd-sysmon-osquery-and-webshells/) Auditd, Sysmon, Osquery and Webshells
 - [Adventures in Dynamic Evasion](https://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa)
 - [SSDs/The Challanges Presented to DFIR](https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1051&context=msia_etds) 
 - [Anti-Forensics](https://resources.infosecinstitute.com/topic/anti-forensics-part-1/#gref) 
@@ -107,6 +106,7 @@
 - [Journey Into Incident Response](https://www.malwarearchaeology.com/analysis)
 - [Deploying T-Pot Framework in the Cloud](https://www.stratosphereips.org/blog/2020/10/10/installing-t-pot-honeypot-framework-in-the-cloud)
 - [Getting Started with RE/Malware Analysis](https://hshrzd.wordpress.com/how-to-start/)
+- [OpBlueRaven](https://threatintel.blog/OPBlueRaven-Part2/) Details about PRODAFT & INVICTUS Threat Intelligence (PTI) team’s latest operation on different threat actors
 
 ## Research-Resources
 ### Write-ups
