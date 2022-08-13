@@ -113,7 +113,7 @@
 - [Unit 42](https://unit42.paloaltonetworks.com/)
 - [Google Security Blog](https://security.googleblog.com/)
 - [Trellix Blog](https://www.trellix.com/en-us/about/newsroom/stories.html)
-- [The DFIR Report](https://thedfirreport.com/) Solid DFIR writeups
+- [The DFIR Report](https://thedfirreport.com/)
 - [Sophos X-Ops](https://news.sophos.com/en-us/tag/sophos-x-ops/)
 - [Intel471](https://intel471.com/blog/)
 
