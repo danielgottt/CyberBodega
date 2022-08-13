@@ -135,35 +135,31 @@
 - [SOC Radar](https://labs.socradar.com/apt-feeds/) 
 - [APT Campaigns](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) 
 - [APT Map](https://aptmap.netlify.app/) 
-- [Yet Another Google Doc.1](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml) 
-- [Yet Another Google Doc.2](https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc/edit) 
-- [Yet Another Google Doc.3](https://docs.google.com/document/u/1/d/e/2PACX-1vR2TWm68bLidO3e2X0wTCqs0609vo5RXB85f6VL_Zm79wtTK59xADKh6MG0G7hSBZi8cPOiQVWAIie0/pub) 
-- [Yet Another Google Doc.4](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit#gid=361554658) 
-- [Cyber Campaigns](http://www.cybercampaigns.net/) 
-- [APT Secure List](https://apt.securelist.com/) 
-- [Dragos Threat Activity](https://www.dragos.com/threat-activity-groups/) 
-- [Google Threat Analysis](https://blog.google/threat-analysis-group/) 
-- [TheRecord Nation State](https://therecord.media/news/nation-state/) 
-- [Microsoft Threat Intel](https://www.microsoft.com/security/blog/microsoft-security-intelligence/) 
-- [Record Future APT](https://www.recordedfuture.com/blog/) 
-- [APT Map](https://andreacristaldi.github.io/APTmap/#50) 
-- [MITRE APT Groups](https://attack.mitre.org/groups/) 
-- [APT Netlify](https://aptmap.netlify.app/) 
-- [Alienvault OTX Groups](https://otx.alienvault.com/browse/global/adversaries?include_inactive=0&sort=-modified&page=1) 
+- [Yet Another Google Doc.1](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml) APT Groups and Operations
+- [Yet Another Google Doc.2](https://docs.google.com/document/u/1/d/e/2PACX-1vR2TWm68bLidO3e2X0wTCqs0609vo5RXB85f6VL_Zm79wtTK59xADKh6MG0G7hSBZi8cPOiQVWAIie0/pub) Raw intel dump into a word doc
+- [Cyber Campaigns](http://www.cybercampaigns.net/) List of multiple cyber-espionage and cyber-attack campaigns
+- [APT Secure List](https://apt.securelist.com/) Targeted cyberattack logbook
+- [Dragos Threat Activity](https://www.dragos.com/threat-activity-groups/) Dragos threat activity groups
+- [Google Threat Analysis](https://blog.google/threat-analysis-group/) Googles TAG (Threat analysis group) 
+- [Microsoft Threat Intel](https://www.microsoft.com/security/blog/microsoft-security-intelligence/) Microsoft threat intel team
+- [APT Map](https://github.com/andreacristaldi/APTmap) Graphical map of known Advanced Persistent Threats
+- [MITRE APT Groups](https://attack.mitre.org/groups/) MITRE attack groups
+- [APT Netlify](https://aptmap.netlify.app/) Yet another threat actor map
+- [Alienvault OTX Groups](https://otx.alienvault.com/browse/global/adversaries?include_inactive=0&sort=-modified&page=1) AlienVault open threat exchange
 
 ## Training-Resources
 - [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) BlueYard - BlueTeam Challenges
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/) Infected PCAP's for review
 - [EVTX/PCAP Attack Samples](https://github.com/sbousseaden/) Infected PCAP's and EVTX logs for review
-- [Open Security Training](https://opensecuritytraining.info/Training.html) 
-- [TryHackMe](https://tryhackme.com/)
-- [HackSplaining](https://www.hacksplaining.com/lessons)
+- [Open Security Training](https://opensecuritytraining.info/Training.html) Free training for a variety of computer security classes
+- [TryHackMe](https://tryhackme.com/) Hands-on cyber security training
+- [HackSplaining](https://www.hacksplaining.com/lessons) Number of free training lessons for free
 - [Codewars](https://www.codewars.com/) Programming challanges
-- [MalwareUnicorn](https://malwareunicorn.org/#/workshops)
+- [MalwareUnicorn](https://malwareunicorn.org/#/workshops) Free reverse engineering workshops
 - [Free Ivy Leauge Courses](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/) List of Ivy league courses you can take online for free (CS50)
 - [LetsDefend](https://letsdefend.io/) Free-ish training simulating the SOC life. Great for people interested in journying into a IR/SOC enviorment  
-- [DC540 Reversing Course](https://github.com/sharpicx/reversing-course)
-- [Low Level Programming](https://github.com/sharpicx/lowlevel-programming)
+- [DC540 Reversing Course](https://github.com/sharpicx/reversing-course) Free reverse engineering course
+- [Low Level Programming](https://github.com/sharpicx/lowlevel-programming) Low level programming course
 - [FreeCodeCamp](https://www.freecodecamp.org/) Free and online, self paced courses to prepare you for a role in programming
 
 ## Blue-Team-Resources
