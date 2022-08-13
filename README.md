@@ -165,50 +165,51 @@
 ## Blue-Team-Resources
 - [EricZimmerman](https://github.com/EricZimmerman)
 ### Utility
-- [Cyber Chef](https://gchq.github.io/CyberChef/)
-- [LOLBAS](https://lolbas-project.github.io/)
-- [MITRE ATT&CK](https://attack.mitre.org/)
-- [MITRE D3FEND](https://d3fend.mitre.org/)
-- [Google Stenographer](https://github.com/google/stenographer)
-- [Wazuh](https://wazuh.com/)
-- [MozDef](https://github.com/mozilla/MozDef)
-- [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer)
-- [Stronghold](https://github.com/alichtman/stronghold)
-- [ChopShop](https://github.com/MITRECND/chopshop)
-- [RockNSM](https://rocknsm.io/)
-- [HELK](https://github.com/Cyb3rWard0g/HELK)
-- [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects)
-- [Prelude](https://www.prelude-siem.org/)
-- [TheHive](https://thehive-project.org/)
-- [OpenEDR](https://github.com/ComodoSecurity/openedr)
-- [OpenSOC](https://github.com/OpenSOC/opensoc)
-- [Munin - Auto Hash Checker](https://github.com/Neo23x0/munin)
-- [Threat Hunt Mind Maps](https://github.com/christophetd/mindmaps)
-- [Hybrid-Analysis](https://www.hybrid-analysis.com/)
-- [Manalyzer](https://www.manalyzer.org/)
-- [URLScan](https://urlscan.io/)
-- [Intezer Analyze](https://analyze.intezer.com/)
-- [AnyRun](https://app.any.run/)
-- [JoeSandbox](https://www.joesandbox.com/#windows)
-- [IRIS-H](https://iris-h.services/pages/dashboard#/pages/dashboard)
-- [Yoroi](https://yomi.yoroi.company/upload)
+- [Cyber Chef](https://gchq.github.io/CyberChef/) Web app for analysing and decoding data
+- [LOLBAS](https://lolbas-project.github.io/) Windows LOLBins and how they are abused
+- [GTFOBins](https://gtfobins.github.io/) Unix LOLBins and how they are abused
+- [MITRE ATT&CK](https://attack.mitre.org/) Globally-accessible knowledge base of adversary tactics and techniques
+- [MITRE D3FEND](https://d3fend.mitre.org/) Knowledge graph of countermeasures to ATT&CK TTP's
+- [Wazuh](https://wazuh.com/) Open source unified XDR and SIEM protection for endpoints and cloud workloads
+- [MozDef](https://github.com/mozilla/MozDef) Enterprise defense platform
+- [Stronghold](https://github.com/alichtman/stronghold) A way to securely configure your Mac
+- [ChopShop](https://github.com/MITRECND/chopshop) Framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft
+- [RockNSM](https://rocknsm.io/) An open source Network Security Monitoring platform
+- [HELK](https://github.com/Cyb3rWard0g/HELK) Open source hunt platforms with advanced analytics
+- [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) Feature-rich open source SIEM w/ collection, normalization and correlation
+- [Prelude](https://www.prelude-siem.org/) Universal SIEM
+- [TheHive](https://thehive-project.org/) Open source and free Security Incident Response Platform
+- [OpenEDR](https://github.com/ComodoSecurity/openedr) Free and open source EDR
+- [OpenSOC](https://github.com/OpenSOC/opensoc) Open source big data technologies in order to offer a centralized tool for security monitoring and analysis
+- [Munin](https://github.com/Neo23x0/munin) Online Hash Checker for Virustotal and Other Services
+- [Threat Hunt Mind Maps](https://github.com/christophetd/mindmaps) Mindmaps for cloud security, threat hunting and incident response
+- [Hybrid-Analysis](https://www.hybrid-analysis.com/) Free malware analysis service
+- [Manalyzer](https://www.manalyzer.org/) Free service which performs static analysis on PE executables to detect undesirable behavior
+- [URLScan](https://urlscan.io/) Free URL/website scanner
+- [Intezer Analyze](https://analyze.intezer.com/) Free IOC/malware scanner
+- [AnyRun](https://app.any.run/) Interactive malware analysis
+- [JoeSandbox](https://www.joesandbox.com/#windows) Malware anaylsis
+- [IRIS-H](https://iris-h.services/pages/dashboard#/pages/dashboard) Online automated static analysis of files stored in a directory-based or strictly structured formats
+- [Yoroi](https://yomi.yoroi.company/upload) Free file analyzer
 - [Har-Sai](https://har-sia.info/index-en.html) Lookup things related to a specific CVE
 - [Rastrea2r](https://github.com/rastrea2r/rastrea2r) Multi-platform open source tool that allows incident responders and SOC analysts to triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes
 
 ### Network-Analysis
 - [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
 - [Wireshark](https://www.wireshark.org/) Tride and true network protocol analyzer
-- [Zeek](https://zeek.org/)
+- [Zeek](https://zeek.org/) An Open Source Network Security Monitoring Tool
+- [Google Stenographer](https://github.com/google/stenographer) Stenographer is a full-packet-capture utility for buffering packets to disk. Allows you to rip out 
 - [PcapXray](https://github.com/Srinivas11789/PcapXray) A tool to visualize Packet Capture offline as a Network Diagram
-- [RITA](https://www.activecountermeasures.com/free-tools/rita/)
-- [Whats that C2/Exfil?](https://github.com/silence-is-best/c2db)
-- [Incubating](https://github.com/apache/incubator-spot)
-- [Network Miner](https://www.netresec.com/?page=networkminer)
-- [VAST](https://github.com/tenzir/vast)
-- [NetSniff](http://netsniff-ng.org/)
+- [RITA](https://www.activecountermeasures.com/free-tools/rita/) Open-source framework for detecting command and control communication through network traffic analysis
+- [Whats that C2/Exfil?](https://github.com/silence-is-best/c2db) Github repo full of known c2 and exfil traffic keywords 
+- [Incubating](https://github.com/apache/incubator-spot) Open source software for leveraging insights from flow and packet analysis
+- [Network Miner](https://www.netresec.com/?page=networkminer) Open source Network Forensic Analysis Tool
+- [VAST](https://github.com/tenzir/vast) Network telemetry engine for data-driven security investigations
+- [NetSniff](http://netsniff-ng.org/) Free Linux networking toolkit
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) A tool to catch spoofed NBNS responses
-- [Grass Marlin🦅](https://github.com/nsacyber/GRASSMARLIN)
-- [SELKS](https://github.com/StamusNetworks/SELKS)
+- [Grass Marlin🦅](https://github.com/nsacyber/GRASSMARLIN) Network situational awareness of ICS and SCADA networks
+- [SELKS](https://github.com/StamusNetworks/SELKS) Open source Debian-based IDS/IPS/Network Security Monitoring platform
+- [SiLK](https://tools.netsa.cert.org/silk/) Collection of traffic analysis tools
 
 ### Host-Analysis
 - [Volatility](https://github.com/volatilityfoundation/volatility) Python tool used for the extraction of digital artifacts from volatile memory (RAM) samples
@@ -216,6 +217,7 @@
 - [Hayabusa](https://github.com/Yamato-Security/hayabusa) Windows event log fast forensics timeline generator and threat hunting tool (Sigma compatible)
 - [Osquery](https://osquery.io/) Tool that provides performant endpoint visibility
 - [Sysinternalsuite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) Suite of tools providing a multitude of capabiltiies for defenders or attackers
+- [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) Scans for accessibility tools backdoors via RDP
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely
 - [Seatbelt](https://github.com/GhostPack/Seatbelt) Security oriented host-survey tool performing "safety checks" relevant from both offensive and defensive security perspectives
 - [Live-Forensicator](https://github.com/Johnng007/Live-Forensicator) Assist's responders in carrying out live forensic investigations
