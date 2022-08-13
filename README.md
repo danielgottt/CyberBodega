@@ -254,6 +254,7 @@
 - [oletools](https://github.com/decalage2/oletools) Package of python tools to analyze files
 - [The Sleuth Kit/Autopsy](https://www.sleuthkit.org/) Open Source Digital Forensics
 - [Cuckoo Sandbox](https://cuckoosandbox.org/) Leading open source automated malware analysis system
+- [Malcat](https://malcat.fr/) Feature-rich hexadecimal editor / disassembler for Windows and Linux
 
 #### Malware-IOC-Detection-Data-Dumps
 - [vx-underground samples](https://samples.vx-underground.org/samples/Families/) The largest collection of malware source code, samples, and papers on the internet
@@ -289,12 +290,13 @@
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) Tool used for building repeatable, time-delayed, and distributed security events
 
 ### Recon
-- [Photon Crawler](https://hakin9.org/photon-incredibly-fast-crawler-designed-for-osint/") 
-- [Subcrawl](https://github.com/hpthreatresearch/subcrawl")
-- [MASSCAN](https://github.com/robertdavidgraham/masscan)
-- [Nmap](https://nmap.org/)
-- [Angry IP Scanner](https://angryip.org/)
-- [Google Dorking](https://www.exploit-db.com/google-hacking-database)
+- [Photon Crawler](https://hakin9.org/photon-incredibly-fast-crawler-designed-for-osint/) Incredibly fast crawler designed for OSINT
+- [Subcrawl](https://github.com/hpthreatresearch/subcrawl) Developed to find, scan and analyze open directories
+- [MASSCAN](https://github.com/robertdavidgraham/masscan) An Internet-scale port scanner
+- [Nmap](https://nmap.org/) Open source utility for network discovery and security auditing
+- [Angry IP Scanner](https://angryip.org/) Fast and friendly network scanner
+- [Google Dorking](https://www.exploit-db.com/google-hacking-database) Technique that uses Google Search and other Google applications to find security holes 
+- [Shoder](https://github.com/idanbuller/IP-Tools/blob/master/shoder.py) PoC leveraging shodan's pythons library
 
 ### Password-Tools
 - [Cain & Abel](https://web.archive.org/web/20160214132154/http://www.oxid.it/cain.html) Password recovery tool for Microsoft Operating Systems
