@@ -290,7 +290,7 @@
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) Tool used for building repeatable, time-delayed, and distributed security events
 
 ### Recon
-- [Photon Crawler](https://hakin9.org/photon-incredibly-fast-crawler-designed-for-osint/) Incredibly fast crawler designed for OSINT
+- [Photon Crawler](https://github.com/s0md3v/Photon) Incredibly fast crawler designed for OSINT
 - [Subcrawl](https://github.com/hpthreatresearch/subcrawl) Developed to find, scan and analyze open directories
 - [MASSCAN](https://github.com/robertdavidgraham/masscan) An Internet-scale port scanner
 - [Nmap](https://nmap.org/) Open source utility for network discovery and security auditing
