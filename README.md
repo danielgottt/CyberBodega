@@ -275,6 +275,7 @@
 - [Metta](https://github.com/uber-common/metta) Adversary simulatiopn tool
 - [Network Flight Simulator](https://github.com/alphasoc/flightsim) Lightweight utility used to generate malicious network traffic
 - [Cladera Framework](https://github.com/mitre/caldera) Platform designed to easily automate adversary emulation, assist manual red-teams, and automate incident response
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) Collection of Microsoft PowerShell module's to aid in multiple phases of an assessment
 - [Impacket](https://github.com/SecureAuthCorp/impacket) Impacket is a collection of Python classes for working with network protocols
 - [Cobalt Strike](https://www.cobaltstrike.com/) Post-exploitation agent and covert channels to emulate a quiet long-term embedded actor in your customer’s network
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) Open source tool that automates the process of detecting and exploiting SQL injection flaws
