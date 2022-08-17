@@ -43,6 +43,7 @@
   - [Malware-Analysis](#malware-analysis)
     - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
 - [Purple-Red-Team-Resources](#purple-red-team-resources)
+  - [Command-and-Control](#command-and-control)
   - [Recon](#recon)
   - [Password-Tools](#password-tools)
   - [bin](#bin)
@@ -86,6 +87,7 @@
 - [PST, Want a Shell?](https://www.mandiant.com/resources/pst-want-shell-proxyshell-exploiting-microsoft-exchange-servers) Mandiant's write-up for ProxyShell
 - [De-Fanging Strings with FLOSS](https://medium.com/malware-buddy/reverse-engineering-tips-strings-deobfuscation-with-floss-9424417e285d) Uncovering obfuscated strings with FLOSS
 - [Setting up Tripwire](https://www.howtoforge.com/tutorial/monitoring-and-detecting-modified-files-using-tripwire-on-centos-7/) Detecting adversary activity via file changes (Honey Files)
+- [PowerShell Process Hunting](https://www.sans.org/blog/process-threat-hunting-part-1/) Great review of ways to leverage PowerShell to do neat things
 - [Canary Tokens](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html) Painless way to help defenders discover they've been breached
 - [Kerboroasting](https://adsecurity.org/?p=3458) Conversation about extracting service account credentials from Active Directory via kerb
 - [Honey Files](https://docs.rapid7.com/insightidr/honey-files/) Honey files are designed to detect attackers who are accessing and removing files
@@ -107,6 +109,10 @@
 - [Deploying T-Pot Framework in the Cloud](https://www.stratosphereips.org/blog/2020/10/10/installing-t-pot-honeypot-framework-in-the-cloud)
 - [Getting Started with RE/Malware Analysis](https://hshrzd.wordpress.com/how-to-start/)
 - [OpBlueRaven](https://threatintel.blog/OPBlueRaven-Part2/) Details about PRODAFT & INVICTUS Threat Intelligence (PTI) team’s latest operation on different threat actors
+- [TrendMicro; Analyzing Common Pentesting Tools](https://www.trendmicro.com/en_us/research/22/g/analyzing-penetration-testing-tools-that-threat-actors-use-to-br.html) Gives a great insight into common abused tools
+- [Hunt & Hackett; Concealed code TTP's/Detection](https://www.huntandhackett.com/blog/concealed-code-execution-techniques-and-detection) Covers common defense evasion techniques and how to detect them
+- [NCC Group; Detecting DNS Implants](https://research.nccgroup.com/2022/08/11/detecting-dns-implants-old-kitten-new-tricks-a-saitama-case-study/) Interesting TTP's leveraging DNS as a pure means of C2
+- [Linux to ATT&CK](https://gist.github.com/timb-machine/05043edd6e3f71569f0e6d2fe99f5e8c) Mapped markdown file listing common Linux malware TTP's mapped to ATT&CK
 
 ## Research-Resources
 ### Write-ups
@@ -161,6 +167,7 @@
 - [DC540 Reversing Course](https://github.com/sharpicx/reversing-course) Free reverse engineering course
 - [Low Level Programming](https://github.com/sharpicx/lowlevel-programming) Low level programming course
 - [FreeCodeCamp](https://www.freecodecamp.org/) Free and online, self paced courses to prepare you for a role in programming
+- [SocVel](https://www.socvel.com/challenges/) Free live DFIR challenges
 
 ## Blue-Team-Resources
 - [EricZimmerman](https://github.com/EricZimmerman)
@@ -193,6 +200,8 @@
 - [Yoroi](https://yomi.yoroi.company/upload) Free file analyzer
 - [Har-Sai](https://har-sia.info/index-en.html) Lookup things related to a specific CVE
 - [Rastrea2r](https://github.com/rastrea2r/rastrea2r) Multi-platform open source tool that allows incident responders and SOC analysts to triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes
+- [HijackLibs](https://github.com/wietze/hijacklibs) Aims to keep a record of publicly disclosed DLL Hijacking opportunities
+- [Diaphore](https://github.com/joxeankoret/diaphora) Program diffing tool working as an IDA plugin
 
 ### Network-Analysis
 - [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
@@ -229,6 +238,8 @@
 - [Redline](https://fireeye.market/apps/211364) Free EDR, thats pretty cool
 - [Power Forensics](https://github.com/Invoke-IR/PowerForensics) Inclusive framework for hard drive forensic analysis
 - [Block Parse](https://github.com/matthewdunwoody/block-parser) PowerShell script block parser
+- [Sysmon4Linux](https://github.com/Sysinternals/SysmonForLinux) The sysmon you love for a flavor of nix
+
 
 ### Detection
 - [Sigma](https://github.com/SigmaHQ/sigma/blob/master/README.md) Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward manner
@@ -290,13 +301,17 @@
 - [ExploitDB](https://github.com/offensive-security/exploitdb) Archive of public exploits and corresponding vulnerable software
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) Tool used for building repeatable, time-delayed, and distributed security events
 
+### Command-and-Control
+- [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
+
 ### Recon
 - [Photon Crawler](https://github.com/s0md3v/Photon) Incredibly fast crawler designed for OSINT
 - [Subcrawl](https://github.com/hpthreatresearch/subcrawl) Developed to find, scan and analyze open directories
 - [MASSCAN](https://github.com/robertdavidgraham/masscan) An Internet-scale port scanner
 - [Nmap](https://nmap.org/) Open source utility for network discovery and security auditing
 - [Angry IP Scanner](https://angryip.org/) Fast and friendly network scanner
-- [Google Dorking](https://www.exploit-db.com/google-hacking-database) Technique that uses Google Search and other Google applications to find security holes 
+- [Google Dorking](https://www.exploit-db.com/google-hacking-database) Technique that uses Google Search and other Google applications to find security holes
+- [Github Dorking](https://github.com/techgaun/github-dorks) Technique that uses Github to find interesting things
 - [Shoder](https://github.com/idanbuller/IP-Tools/blob/master/shoder.py) PoC leveraging shodan's pythons library
 
 ### Password-Tools
@@ -315,6 +330,7 @@
 
 ### Tools
 - [Basic Blob Finder](https://github.com/joswr1ght/basicblobfinder) POC tool to hunt for public Azure storage containers and enumerate the blobs
+- [TeamFiltration](https://github.com/Flangvik/TeamFiltration) Framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts
 
 
 ## Awesome-Lists
@@ -343,6 +359,7 @@
 - [Awesome Security Talks and Videos](https://github.com/PaulSec/awesome-sec-talks)
 
 ## Dump
+- [Pexpect](https://github.com/pexpect/pexpect) Python module for spawning child applications; controlling them; and responding to expected patterns in their output
 
 
 
