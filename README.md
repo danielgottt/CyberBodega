@@ -41,6 +41,7 @@
   - [Host-Analysis](#host-analysis)
   - [Detection](#detection)
   - [Malware-Analysis](#malware-analysis)
+  - [Audit-Vulnerability(#audit-vulnerability)
     - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
 - [Purple-Red-Team-Resources](#purple-red-team-resources)
   - [Command-and-Control](#command-and-control)
@@ -242,7 +243,6 @@
 - [Block Parse](https://github.com/matthewdunwoody/block-parser) PowerShell script block parser
 - [Sysmon4Linux](https://github.com/Sysinternals/SysmonForLinux) The sysmon you love for a flavor of nix
 
-
 ### Detection
 - [Sigma](https://github.com/SigmaHQ/sigma/blob/master/README.md) Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward manner
 - [Yara](https://yara.readthedocs.io) Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples
@@ -268,6 +268,12 @@
 - [The Sleuth Kit/Autopsy](https://www.sleuthkit.org/) Open Source Digital Forensics
 - [Cuckoo Sandbox](https://cuckoosandbox.org/) Leading open source automated malware analysis system
 - [Malcat](https://malcat.fr/) Feature-rich hexadecimal editor / disassembler for Windows and Linux
+
+### Audit-Vulnerability
+- [nuclei](https://github.com/projectdiscovery/nuclei) Fast and customisable vulnerability scanner based on simple YAML based DSL
+- [Clair](https://github.com/quay/clair) Open source project for the static analysis of vulnerabilities in application containers
+- [Chef InSpec](https://www.inspec.io/?azure-portal=true) Audit and automated testing framework
+- [Lynis](https://cisofy.com/lynis/) Security auditing tool for *nix and macOS
 
 #### Malware-IOC-Detection-Data-Dumps
 - [vx-underground samples](https://samples.vx-underground.org/samples/Families/) The largest collection of malware source code, samples, and papers on the internet
@@ -310,12 +316,15 @@
 ### Recon
 - [Photon Crawler](https://github.com/s0md3v/Photon) Incredibly fast crawler designed for OSINT
 - [Subcrawl](https://github.com/hpthreatresearch/subcrawl) Developed to find, scan and analyze open directories
+- [subfinder](https://github.com/projectdiscovery/subfinder) Fast passive subdomain enumeration tool
 - [MASSCAN](https://github.com/robertdavidgraham/masscan) An Internet-scale port scanner
 - [Nmap](https://nmap.org/) Open source utility for network discovery and security auditing
 - [Angry IP Scanner](https://angryip.org/) Fast and friendly network scanner
 - [Google Dorking](https://www.exploit-db.com/google-hacking-database) Technique that uses Google Search and other Google applications to find security holes
 - [Github Dorking](https://github.com/techgaun/github-dorks) Technique that uses Github to find interesting things
 - [Shoder](https://github.com/idanbuller/IP-Tools/blob/master/shoder.py) PoC leveraging shodan's pythons library
+- [naabu](https://github.com/projectdiscovery/naabu) Port scanning tool written in Go that allows you to enumerate valid ports for hosts in a fast and reliable manner
+- [uncover](https://github.com/projectdiscovery/uncover) Quickly discover exposed hosts on the internet using multiple search engines
 
 ### Password-Tools
 - [Cain & Abel](https://web.archive.org/web/20160214132154/http://www.oxid.it/cain.html) Password recovery tool for Microsoft Operating Systems
@@ -334,6 +343,7 @@
 ### Tools
 - [Basic Blob Finder](https://github.com/joswr1ght/basicblobfinder) POC tool to hunt for public Azure storage containers and enumerate the blobs
 - [TeamFiltration](https://github.com/Flangvik/TeamFiltration) Framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts
+- [cloudlist](https://github.com/projectdiscovery/cloudlist) Multi-cloud tool for getting Assets from Cloud Providers
 
 
 ## Awesome-Lists
@@ -365,10 +375,8 @@
 - [Pexpect](https://github.com/pexpect/pexpect) Python module for spawning child applications; controlling them; and responding to expected patterns in their output
 - [Unofficial OSCP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
 - [Florian Roth's BlueLedger](https://github.com/Neo23x0/BlueLedger) A list of some interesting community support projects
-- [Clair](https://github.com/quay/clair) Open source project for the static analysis of vulnerabilities in application containers
-- [Chef InSpec](https://www.inspec.io/?azure-portal=true) Audit and automated testing framework
-- [Lynis](https://cisofy.com/lynis/) Security auditing tool for *nix and macOS
 - [CIS CAT](https://github.com/CISecurity/SecureSuiteResourceGuide/blob/master/docs/CIS-CAT/CIS-CATAssessorGuide.md)
+- [ProjectDiscovery](https://github.com/projectdiscovery) Security Through Intelligent Automation
 
 
 
