@@ -364,7 +364,11 @@
 ## Dump
 - [Pexpect](https://github.com/pexpect/pexpect) Python module for spawning child applications; controlling them; and responding to expected patterns in their output
 - [Unofficial OSCP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
-
+- [Florian Roth's BlueLedger](https://github.com/Neo23x0/BlueLedger) A list of some interesting community support projects
+- [Clair](https://github.com/quay/clair) Open source project for the static analysis of vulnerabilities in application containers
+- [Chef InSpec](https://www.inspec.io/?azure-portal=true) Audit and automated testing framework
+- [Lynis](https://cisofy.com/lynis/) Security auditing tool for *nix and macOS
+- [CIS CAT](https://github.com/CISecurity/SecureSuiteResourceGuide/blob/master/docs/CIS-CAT/CIS-CATAssessorGuide.md)
 
 
 
