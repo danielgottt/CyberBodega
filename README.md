@@ -304,6 +304,7 @@
 - [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
 - [Cobalt Strike](https://www.cobaltstrike.com/) Post-exploitation agent and covert channels to emulate a quiet long-term embedded actor in your customer’s network
 - [Brute Ratel C4](https://bruteratel.com/) Customized Command and Control Center for Red Team and Adversary Simulation
+- [PoshC2](https://github.com/nettitude/PoshC2) Proxy aware C2 framework
 
 ### Recon
 - [Photon Crawler](https://github.com/s0md3v/Photon) Incredibly fast crawler designed for OSINT
