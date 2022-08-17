@@ -280,18 +280,15 @@
 - [Florian Roth](https://github.com/Neo23x0/signature-base)
 
 ## Purple-Red-Team-Resources
-- [Unofficial OSCP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
-- [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) An exploit framework
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) A Windows Batch script that creates files to make a system look as if it was compromised
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team/) Library of tests mapped to the MITRE ATT&CK® framework
-- [Metta](https://github.com/uber-common/metta) Adversary simulatiopn tool
+- [Metta](https://github.com/uber-common/metta) Adversary simulation tool
 - [Network Flight Simulator](https://github.com/alphasoc/flightsim) Lightweight utility used to generate malicious network traffic
 - [Cladera Framework](https://github.com/mitre/caldera) Platform designed to easily automate adversary emulation, assist manual red-teams, and automate incident response
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) Collection of Microsoft PowerShell module's to aid in multiple phases of an assessment
 - [Impacket](https://github.com/SecureAuthCorp/impacket) Impacket is a collection of Python classes for working with network protocols
-- [Cobalt Strike](https://www.cobaltstrike.com/) Post-exploitation agent and covert channels to emulate a quiet long-term embedded actor in your customer’s network
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) Open source tool that automates the process of detecting and exploiting SQL injection flaws
-- [Brute Ratel C4](https://bruteratel.com/) Customized Command and Control Center for Red Team and Adversary Simulation
 - [Silver](https://github.com/BishopFox/sliver) Open source cross-platform adversary emulation/red team framework
 - [Gobuster](https://github.com/OJ/gobuster) Gobuster is a tool used to brute-force subdomains, website URI's, open S3 buckets and more
 - [Exegol](https://github.com/ShutdownRepo/Exegol) Exegol is a community-driven hacking environment, powerful and yet simple enough to be used by anyone in day to day engagements
@@ -305,6 +302,8 @@
 
 ### Command-and-Control
 - [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
+- [Cobalt Strike](https://www.cobaltstrike.com/) Post-exploitation agent and covert channels to emulate a quiet long-term embedded actor in your customer’s network
+- [Brute Ratel C4](https://bruteratel.com/) Customized Command and Control Center for Red Team and Adversary Simulation
 
 ### Recon
 - [Photon Crawler](https://github.com/s0md3v/Photon) Incredibly fast crawler designed for OSINT
@@ -362,6 +361,7 @@
 
 ## Dump
 - [Pexpect](https://github.com/pexpect/pexpect) Python module for spawning child applications; controlling them; and responding to expected patterns in their output
+- [Unofficial OSCP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
 
 
 
