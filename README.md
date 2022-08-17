@@ -114,6 +114,7 @@
 - [NCC Group; Detecting DNS Implants](https://research.nccgroup.com/2022/08/11/detecting-dns-implants-old-kitten-new-tricks-a-saitama-case-study/) Interesting TTP's leveraging DNS as a pure means of C2
 - [Linux to ATT&CK](https://gist.github.com/timb-machine/05043edd6e3f71569f0e6d2fe99f5e8c) Mapped markdown file listing common Linux malware TTP's mapped to ATT&CK
 - [Datadog; AWS Threat Detection](https://securitylabs.datadoghq.com/articles/cyber-attack-simulation-with-stratus-red-team/) Intro to Stratus Red Team, the Atmoic red team for cloud enviorments
+- [Nextron Systems; Writing YARA rules](https://www.nextron-systems.com/2015/02/16/write-simple-sound-yara-rules/) Part 1 of a 4 part series on writing effective YARA rules
 
 ## Research-Resources
 ### Write-ups
