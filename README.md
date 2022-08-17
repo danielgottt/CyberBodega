@@ -113,6 +113,7 @@
 - [Hunt & Hackett; Concealed code TTP's/Detection](https://www.huntandhackett.com/blog/concealed-code-execution-techniques-and-detection) Covers common defense evasion techniques and how to detect them
 - [NCC Group; Detecting DNS Implants](https://research.nccgroup.com/2022/08/11/detecting-dns-implants-old-kitten-new-tricks-a-saitama-case-study/) Interesting TTP's leveraging DNS as a pure means of C2
 - [Linux to ATT&CK](https://gist.github.com/timb-machine/05043edd6e3f71569f0e6d2fe99f5e8c) Mapped markdown file listing common Linux malware TTP's mapped to ATT&CK
+- [Datadog; AWS Threat Detection](https://securitylabs.datadoghq.com/articles/cyber-attack-simulation-with-stratus-red-team/) Intro to Stratus Red Team, the Atmoic red team for cloud enviorments
 
 ## Research-Resources
 ### Write-ups
@@ -300,6 +301,7 @@
 - [Inveigh](https://github.com/Kevin-Robertson/Inveigh) Inveigh is a cross-platform .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers
 - [ExploitDB](https://github.com/offensive-security/exploitdb) Archive of public exploits and corresponding vulnerable software
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) Tool used for building repeatable, time-delayed, and distributed security events
+- [Stratus Red Team](https://stratus-red-team.cloud/) Essentially Atmoic red team, but focused on cloud
 
 ### Command-and-Control
 - [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
