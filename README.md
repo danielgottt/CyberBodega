@@ -41,7 +41,7 @@
   - [Host-Analysis](#host-analysis)
   - [Detection](#detection)
   - [Malware-Analysis](#malware-analysis)
-  - [Audit-Vulnerability(#audit-vulnerability)
+  - [Audit-Vulnerability](#audit-vulnerability)
     - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
 - [Purple-Red-Team-Resources](#purple-red-team-resources)
   - [Command-and-Control](#command-and-control)
