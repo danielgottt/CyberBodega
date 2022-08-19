@@ -76,6 +76,7 @@
 - [FIRST](https://www.first.org/)
 - [BleepingComputer](https://www.bleepingcomputer.com/)
 - [Schneier Security](https://www.schneier.com/)
+- [Opalsec](https://opalsec.substack.com/)
 
 ## Interesting-Articles
 - [vx-underground](https://www.vx-underground.org/) Really anything from here is pretty sweet
