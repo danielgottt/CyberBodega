@@ -309,6 +309,8 @@
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) Tool used for building repeatable, time-delayed, and distributed security events
 - [Stratus Red Team](https://stratus-red-team.cloud/) Essentially Atmoic red team, but focused on cloud
 - [RTA](https://github.com/endgameinc/RTA) Framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft
+- [Infection Monkey](https://github.com/guardicore/monkey) Open source security tool for testing resiliency on perimeter breaches and internal server infection
+- [Invoke-Powershell](https://github.com/CyberMonitor/Invoke-Adversary) PowerShell script that helps you to evaluate security products and monitoring solutions
 
 ### Command-and-Control
 - [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
@@ -381,7 +383,8 @@
 - [CIS CAT](https://github.com/CISecurity/SecureSuiteResourceGuide/blob/master/docs/CIS-CAT/CIS-CATAssessorGuide.md)
 - [ProjectDiscovery](https://github.com/projectdiscovery) Security Through Intelligent Automation
 - [HashR](https://github.com/google/hashr) HashR allows you to build your own hash sets based on your data sources
-
+- [ATT&CK Pyton Client](https://github.com/OTRF/ATTACK-Python-Client) Python module to access up-to-date ATT&CK content
+- [SilkETW](https://github.com/mandiant/SilkETW) Collects, filters and processes Windows Event Tracing (ETW) data
 
 
 
