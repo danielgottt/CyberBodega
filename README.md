@@ -118,6 +118,7 @@
 - [Datadog; AWS Threat Detection](https://securitylabs.datadoghq.com/articles/cyber-attack-simulation-with-stratus-red-team/) Intro to Stratus Red Team, the Atmoic red team for cloud enviorments
 - [Nextron Systems; Writing YARA rules](https://www.nextron-systems.com/2015/02/16/write-simple-sound-yara-rules/) Part 1 of a 4 part series on writing effective YARA rules
 
+
 ## Research-Resources
 ### Write-ups
 - [Unit 42](https://unit42.paloaltonetworks.com/)
@@ -307,6 +308,7 @@
 - [ExploitDB](https://github.com/offensive-security/exploitdb) Archive of public exploits and corresponding vulnerable software
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) Tool used for building repeatable, time-delayed, and distributed security events
 - [Stratus Red Team](https://stratus-red-team.cloud/) Essentially Atmoic red team, but focused on cloud
+- [RTA](https://github.com/endgameinc/RTA) Framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft
 
 ### Command-and-Control
 - [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
