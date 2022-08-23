@@ -207,6 +207,7 @@
 - [Rastrea2r](https://github.com/rastrea2r/rastrea2r) Multi-platform open source tool that allows incident responders and SOC analysts to triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes
 - [HijackLibs](https://github.com/wietze/hijacklibs) Aims to keep a record of publicly disclosed DLL Hijacking opportunities
 - [Diaphore](https://github.com/joxeankoret/diaphora) Program diffing tool working as an IDA plugin
+- [MalAPI](https://malapi.io/) List of Windows APIs to common techniques used by malware
 
 ### Network-Analysis
 - [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
