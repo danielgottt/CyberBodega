@@ -378,6 +378,7 @@
 - [Florian Roth's BlueLedger](https://github.com/Neo23x0/BlueLedger) A list of some interesting community support projects
 - [CIS CAT](https://github.com/CISecurity/SecureSuiteResourceGuide/blob/master/docs/CIS-CAT/CIS-CATAssessorGuide.md)
 - [ProjectDiscovery](https://github.com/projectdiscovery) Security Through Intelligent Automation
+- [HashR](https://github.com/google/hashr) HashR allows you to build your own hash sets based on your data sources
 
 
 
