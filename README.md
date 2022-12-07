@@ -39,6 +39,7 @@
   - [Utility](#utility)
   - [Network-Analysis](#network-analysis)
   - [Host-Analysis](#host-analysis)
+  - [Host-Network-Analysis](#host-network-analysis)
   - [Detection](#detection)
   - [Malware-Analysis](#malware-analysis)
   - [Audit-Vulnerability](#audit-vulnerability)
@@ -247,6 +248,9 @@
 - [Power Forensics](https://github.com/Invoke-IR/PowerForensics) Inclusive framework for hard drive forensic analysis
 - [Block Parse](https://github.com/matthewdunwoody/block-parser) PowerShell script block parser
 - [Sysmon4Linux](https://github.com/Sysinternals/SysmonForLinux) The sysmon you love for a flavor of nix
+
+### Host-Network-Analysis
+- [DARKSURGEON](https://github.com/cryps1s/DARKSURGEON) Windows packer project to empower incident response, digital forensics, malware analysis, and network defense
 
 ### Detection
 - [Sigma](https://github.com/SigmaHQ/sigma/blob/master/README.md) Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward manner
