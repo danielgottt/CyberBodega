@@ -208,6 +208,7 @@
 - [HijackLibs](https://github.com/wietze/hijacklibs) Aims to keep a record of publicly disclosed DLL Hijacking opportunities
 - [Diaphore](https://github.com/joxeankoret/diaphora) Program diffing tool working as an IDA plugin
 - [MalAPI](https://malapi.io/) List of Windows APIs to common techniques used by malware
+- [Sentinel Queries](https://github.com/reprise99/Sentinel-Queries) List of Azure Sentinel queries
 
 ### Network-Analysis
 - [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
@@ -312,6 +313,7 @@
 - [RTA](https://github.com/endgameinc/RTA) Framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft
 - [Infection Monkey](https://github.com/guardicore/monkey) Open source security tool for testing resiliency on perimeter breaches and internal server infection
 - [Invoke-Powershell](https://github.com/CyberMonitor/Invoke-Adversary) PowerShell script that helps you to evaluate security products and monitoring solutions
+- [DSInternals](https://github.com/MichaelGrafnetter/DSInternals) Active directory PowerShell Module and Framework
 
 ### Command-and-Control
 - [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
@@ -345,6 +347,7 @@
 
 ## Cloud-Things
 - [Azure AD IR Guide](https://misconfig.io/azure-ad-incident-response-life-cycle-tools/)
+- [O365 Attack Toolkit](https://github.com/david-burkett/o365-attack-toolkit)
 
 ### Tools
 - [Basic Blob Finder](https://github.com/joswr1ght/basicblobfinder) POC tool to hunt for public Azure storage containers and enumerate the blobs
