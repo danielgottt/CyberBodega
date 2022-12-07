@@ -17,14 +17,6 @@
 
 
 # <img src='https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat'/>
-<p> Please do! If you have an interesting resource to share open a pull request. All I ask is that you categorize and utilize markdown to create a link with a description. I understand that there may be some crossover for specific resources, there is no reason to argue semantics </p>
-
-<p> It should look something like this </p>
-
-```
-- [Name of Resource](Link)Description
-```
-
 
 # Contents
 - [Quick-Links](#quick-links)
