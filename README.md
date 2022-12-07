@@ -29,7 +29,7 @@
 # Contents
 - [Quick-Links](#quick-links)
 - [Infosec-News](#infosec-news)
-- [Interesting-Articles](#interesting-articles)
+- [Interesting-Articles-Videos](#interesting-articles-videos)
 - [Research-Resources](#research-resources)
   - [Write-ups](#write-ups)
   - [Research-Sites](#research-sites)
@@ -79,7 +79,7 @@
 - [Schneier Security](https://www.schneier.com/)
 - [Opalsec](https://opalsec.substack.com/)
 
-## Interesting-Articles
+## Interesting-Articles-Videos
 - [vx-underground](https://www.vx-underground.org/) Really anything from here is pretty sweet
 - [Cyb3rWard0g's Lab⭐](https://cyberwardog.blogspot.com/2017/02/setting-up-pentesting-i-mean-threat.html) Step by step guide on creating a lab enviorment in ESXi
 - [SANS Reading Room](https://www.sans.org/white-papers/) See what white papers are top of mind for the SANS community
@@ -119,6 +119,7 @@
 - [Datadog; AWS Threat Detection](https://securitylabs.datadoghq.com/articles/cyber-attack-simulation-with-stratus-red-team/) Intro to Stratus Red Team, the Atmoic red team for cloud enviorments
 - [Nextron Systems; Writing YARA rules](https://www.nextron-systems.com/2015/02/16/write-simple-sound-yara-rules/) Part 1 of a 4 part series on writing effective YARA rules
 - [Tweaking macOS to detect App Bundles](https://redcanary.com/blog/mac-application-bundles/) Adversaries commonly manipulate application bundles to subvert security controls
+- [IR/Detection when Cloud is your Data Center](https://www.youtube.com/watch?v=odDpHxnB6Kw) SANS Summit talk about Cloud data center IR/Detection capabilities 
 
 
 ## Research-Resources
