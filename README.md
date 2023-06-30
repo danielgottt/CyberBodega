@@ -111,7 +111,8 @@
 - [Datadog; AWS Threat Detection](https://securitylabs.datadoghq.com/articles/cyber-attack-simulation-with-stratus-red-team/) Intro to Stratus Red Team, the Atmoic red team for cloud enviorments
 - [Nextron Systems; Writing YARA rules](https://www.nextron-systems.com/2015/02/16/write-simple-sound-yara-rules/) Part 1 of a 4 part series on writing effective YARA rules
 - [Tweaking macOS to detect App Bundles](https://redcanary.com/blog/mac-application-bundles/) Adversaries commonly manipulate application bundles to subvert security controls
-- [IR/Detection when Cloud is your Data Center](https://www.youtube.com/watch?v=odDpHxnB6Kw) SANS Summit talk about Cloud data center IR/Detection capabilities 
+- [IR/Detection when Cloud is your Data Center](https://www.youtube.com/watch?v=odDpHxnB6Kw) SANS Summit talk about Cloud data center IR/Detection capabilities
+- 
 
 
 ## Research-Resources
@@ -168,6 +169,7 @@
 - [Low Level Programming](https://github.com/sharpicx/lowlevel-programming) Low level programming course
 - [FreeCodeCamp](https://www.freecodecamp.org/) Free and online, self paced courses to prepare you for a role in programming
 - [SocVel](https://www.socvel.com/challenges/) Free live DFIR challenges
+- [DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum) Community-driven archive of DFIR-related artifacts
 
 ## Blue-Team-Resources
 - [EricZimmerman](https://github.com/EricZimmerman)
@@ -204,6 +206,7 @@
 - [Diaphore](https://github.com/joxeankoret/diaphora) Program diffing tool working as an IDA plugin
 - [MalAPI](https://malapi.io/) List of Windows APIs to common techniques used by malware
 - [Sentinel Queries](https://github.com/reprise99/Sentinel-Queries) List of Azure Sentinel queries
+- [EchoTrail](https://www.echotrail.io/) Windows Process Insights
 
 ### Network-Analysis
 - [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
@@ -331,6 +334,8 @@
 - [Shoder](https://github.com/idanbuller/IP-Tools/blob/master/shoder.py) PoC leveraging shodan's pythons library
 - [naabu](https://github.com/projectdiscovery/naabu) Port scanning tool written in Go that allows you to enumerate valid ports for hosts in a fast and reliable manner
 - [uncover](https://github.com/projectdiscovery/uncover) Quickly discover exposed hosts on the internet using multiple search engines
+- [wtfis](https://github.com/pirxthepilot/wtfis) Passive hostname, domain and IP lookup tool for non-robots
+
 
 ### Password-Tools
 - [Cain & Abel](https://web.archive.org/web/20160214132154/http://www.oxid.it/cain.html) Password recovery tool for Microsoft Operating Systems
@@ -387,6 +392,7 @@
 - [HashR](https://github.com/google/hashr) HashR allows you to build your own hash sets based on your data sources
 - [ATT&CK Pyton Client](https://github.com/OTRF/ATTACK-Python-Client) Python module to access up-to-date ATT&CK content
 - [SilkETW](https://github.com/mandiant/SilkETW) Collects, filters and processes Windows Event Tracing (ETW) data
+- [Ransomwatch](https://ransomwatch.telemetry.ltd/#/) Latest news on ransomware related posts
 
 
 
