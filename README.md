@@ -379,14 +379,12 @@ Cuckoo Sandbox from Zeek
 - [LaZange](https://github.com/AlessandroZ/LaZagne) Credentials recovery project
 
 ### red bin
-- [NYAN-x-CAT Repo](https://github.com/NYAN-x-CAT)
-- [Sulealothman Repo](https://github.com/sulealothman/MysteryLegacyPenetrationTools)
-- [Matterpreter Repo](https://github.com/matterpreter?tab=repositories)
+- [NYAN-x-CAT Repo](https://github.com/NYAN-x-CAT) All of your RAT needs
+- [Sulealothman Repo](https://github.com/sulealothman/MysteryLegacyPenetrationTools) Legacy penetration tools
+- [Matterpreter Repo](https://github.com/matterpreter?tab=repositories) Payload gen
 - [Evil WinRM](https://github.com/Hackplayers/evil-winrm) Ultimate WinRM shell for hacking/pentesting
 - [COMProxy](https://github.com/leoloobeek/COMProxy) A COM client and server for testing COM hijack proxying
 - [ysoserial](https://github.com/frohoff/ysoserial) PoC tool for generating payloads that exploit unsafe Java object deserialization
-- [SillyRAT](https://github.com/hash3liZer/SillyRAT) A Python based RAT 🐀 (Remote Access Trojan) for getting reverse shell 🖥️
-- [AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) Open-Source Remote Administration Tool For Windows C# (RAT)
 
 ## Cloud-Things
 - [Azure AD IR Guide](https://misconfig.io/azure-ad-incident-response-life-cycle-tools/)
