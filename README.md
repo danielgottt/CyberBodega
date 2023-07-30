@@ -36,13 +36,15 @@
   - [Malware-Analysis](#malware-analysis)
   - [Audit-Vulnerability](#audit-vulnerability)
     - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
+  - [blue-bin](#blue-bin)
 - [Purple-Red-Team-Resources](#purple-red-team-resources)
   - [Command-and-Control](#command-and-control)
   - [Recon](#recon)
   - [Password-Tools](#password-tools)
-  - [bin](#bin)
+  - [red-bin](#red-bin)
 - [Cloud-Things](#cloud-things)
   - [tools](#tools)
+- [AI-Stuff](#ai-stuff)
 - [Awesome-Lists](#awesome-lists)
 - [Dump](#dump)
 
@@ -135,6 +137,7 @@
 - [BellingCat](https://www.bellingcat.com/) 
 - [Zoomeye](https://www.zoomeye.org/) 
 - [Spyse](https://spyse.com/) 
+- [Web Check](https://github.com/lissy93/web-check) Insight into the inner-workings of a given website
 
 ### Cyber-Threat-Intelligence-Dump
 - [Unit 42 Atom](https://unit42.paloaltonetworks.com/atoms/) Threat group information
@@ -279,6 +282,8 @@
 - [Clair](https://github.com/quay/clair) Open source project for the static analysis of vulnerabilities in application containers
 - [Chef InSpec](https://www.inspec.io/?azure-portal=true) Audit and automated testing framework
 - [Lynis](https://cisofy.com/lynis/) Security auditing tool for *nix and macOS
+- [VulnWhisperer](https://github.com/HASecuritySolutions/VulnWhisperer) Vulnerability management tool and report aggregator
+- [OpenVAS](https://www.openvas.org/) Full-featured vulnerability scanner
 
 #### Malware-IOC-Detection-Data-Dumps
 - [vx-underground samples](https://samples.vx-underground.org/samples/Families/) The largest collection of malware source code, samples, and papers on the internet
@@ -290,6 +295,10 @@
 - [Yara Rules Project](https://github.com/Yara-Rules)
 - [Virustotal Yara](https://github.com/VirusTotal/yara)
 - [Florian Roth](https://github.com/Neo23x0/signature-base)
+
+### blue bin
+- [Zeek to Cuckoo](https://github.com/HASecuritySolutions/zeek_to_cuckoo/blob/master/zeek_to_cuckoo.py) Automating file extraction submission and analysis to
+Cuckoo Sandbox from Zeek
 
 ## Purple-Red-Team-Resources
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework) An exploit framework
@@ -343,7 +352,7 @@
 - [John](https://www.openwall.com/john/) Open Source password security auditing and password recovery tool
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) Extract plaintexts passwords, hashs, PIN codes and kerberos tickets from memory
 
-### bin
+### red bin
 - [NYAN-x-CAT Repo](https://github.com/NYAN-x-CAT)
 - [Sulealothman Repo](https://github.com/sulealothman/MysteryLegacyPenetrationTools)
 - [Matterpreter Repo](https://github.com/matterpreter?tab=repositories)
@@ -357,6 +366,10 @@
 - [TeamFiltration](https://github.com/Flangvik/TeamFiltration) Framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts
 - [cloudlist](https://github.com/projectdiscovery/cloudlist) Multi-cloud tool for getting Assets from Cloud Providers
 
+### AI Stuff
+- [ChatGPT](https://chat.openai.com/) 
+- [SlidesAI](https://www.slidesai.io/) Create Presentation Slides with AI in seconds
+- 
 
 ## Awesome-Lists
 - [Master List of all Awesome Distros](https://github.com/sindresorhus/awesome)
