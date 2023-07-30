@@ -114,7 +114,11 @@
 - [Nextron Systems; Writing YARA rules](https://www.nextron-systems.com/2015/02/16/write-simple-sound-yara-rules/) Part 1 of a 4 part series on writing effective YARA rules
 - [Tweaking macOS to detect App Bundles](https://redcanary.com/blog/mac-application-bundles/) Adversaries commonly manipulate application bundles to subvert security controls
 - [IR/Detection when Cloud is your Data Center](https://www.youtube.com/watch?v=odDpHxnB6Kw) SANS Summit talk about Cloud data center IR/Detection capabilities
-- 
+- [Event logs and Elastic Security for IR](https://www.wriotsecurity.com/posts/exploring-windows-event-logs-for-incident-response/) Discussion about Elastic security and its use cases
+- [Bug bounty guide to IDOR](https://medium.com/techiepedia/an-bug-bounty-hunters-guide-to-idor-vulnerabilities-27012bbccd7) Discusses IDOR and the feasibility surrounding Bug Bounties
+- [MalwareJake Presentation](https://github.com/malwarejake-public/conference-presentations/tree/main) Covers a number of topics
+- [Degrading MS Defender](https://www.blackhat.com/docs/eu-17/materials/eu-17-Thompson-Red-Team-Techniques-For-Evading-Bypassing-And-Disabling-MS-Advanced-Threat-Protection-And-Advanced-Threat-Analytics.pdf) Presentation about circumventing Microsoft Defender
+- [Actual MFA bypass techniques](https://medium.com/proferosec-osm/multi-factor-authentication-in-the-wild-bypass-methods-689f53f0b62b) Discusses In-The-Wild MFA bypass methods
 
 
 ## Research-Resources
@@ -173,11 +177,16 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/) Free and online, self paced courses to prepare you for a role in programming
 - [SocVel](https://www.socvel.com/challenges/) Free live DFIR challenges
 - [DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum) Community-driven archive of DFIR-related artifacts
+- [AwesomeDFIR Website](https://awesomedfir.com/) DFIR resources
+- [ForensicMethods](https://www.forensicmethods.com/home) Archive of computer forensic information
+- [IMFSecurity](https://www.imfsecurity.com/) Good resources to dig through
+- [Azure Training](https://github.com/johnthebrit/CertificationMaterials) A collection of materials related to "JohntheBrit" certification videos
 
 ## Blue-Team-Resources
 - [EricZimmerman](https://github.com/EricZimmerman)
 ### Utility
 - [Cyber Chef](https://gchq.github.io/CyberChef/) Web app for analysing and decoding data
+- [Cyber Chef Recipes](https://github.com/mattnotmax/cyberchef-recipes) A list of cyber-chef recipes and curated links
 - [LOLBAS](https://lolbas-project.github.io/) Windows LOLBins and how they are abused
 - [GTFOBins](https://gtfobins.github.io/) Unix LOLBins and how they are abused
 - [MITRE ATT&CK](https://attack.mitre.org/) Globally-accessible knowledge base of adversary tactics and techniques
@@ -210,6 +219,15 @@
 - [MalAPI](https://malapi.io/) List of Windows APIs to common techniques used by malware
 - [Sentinel Queries](https://github.com/reprise99/Sentinel-Queries) List of Azure Sentinel queries
 - [EchoTrail](https://www.echotrail.io/) Windows Process Insights
+- [PulledPork](https://github.com/shirkdog/pulledpork) PulledPork for Snort and Suricata rule management
+- [Microsoft Threat Modeling](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-getting-started) Microsoft tool related to threat modeling
+- [DocIntel](https://docintel.org/) DocIntel is an open-source context-centric threat intelligence platform
+- [Multi Router Traffic Grapher (MRTG)](https://oss.oetiker.ch/mrtg/) Monitor SNMP network devices and draw pretty pictures showing how much traffic has passed through each interface
+- [GHOSTS](https://github.com/cmu-sei/GHOSTS) Realistic user simulation framework for cyber simulation, training, and exercise
+- [DiscØvery](https://github.com/CyberLens/Discovery) Security analysis tool for IoT and 5G systems
+- [LogonTracer](https://github.com/JPCERTCC/LogonTracer) Investigate malicious Windows logon by visualizing and analyzing Windows event log
+- [Exmaple Pentest Reports](https://www.offsec.com/reports/sample-penetration-testing-report.pdf) Sample penetration testing reports
+- [EC2 IR](https://www.cadosecurity.com/aws-ec2-incident-response/) General walkthrough of IR capes in AWS
 
 ### Network-Analysis
 - [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
@@ -229,7 +247,6 @@
 - [SiLK](https://tools.netsa.cert.org/silk/) Collection of traffic analysis tools
 
 ### Host-Analysis
-- [Volatility](https://github.com/volatilityfoundation/volatility) Python tool used for the extraction of digital artifacts from volatile memory (RAM) samples
 - [Velociraptor](https://github.com/Velocidex/velociraptor) Tool for collecting host based state information using The Velociraptor Query Language (VQL) queries
 - [Hayabusa](https://github.com/Yamato-Security/hayabusa) Windows event log fast forensics timeline generator and threat hunting tool (Sigma compatible)
 - [Osquery](https://osquery.io/) Tool that provides performant endpoint visibility
@@ -247,6 +264,7 @@
 - [Power Forensics](https://github.com/Invoke-IR/PowerForensics) Inclusive framework for hard drive forensic analysis
 - [Block Parse](https://github.com/matthewdunwoody/block-parser) PowerShell script block parser
 - [Sysmon4Linux](https://github.com/Sysinternals/SysmonForLinux) The sysmon you love for a flavor of nix
+- [Dissect](https://github.com/fox-it/dissect) Digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats
 
 ### Host-Network-Analysis
 - [DARKSURGEON](https://github.com/cryps1s/DARKSURGEON) Windows packer project to empower incident response, digital forensics, malware analysis, and network defense
@@ -276,7 +294,12 @@
 - [The Sleuth Kit/Autopsy](https://www.sleuthkit.org/) Open Source Digital Forensics
 - [Cuckoo Sandbox](https://cuckoosandbox.org/) Leading open source automated malware analysis system
 - [Malcat](https://malcat.fr/) Feature-rich hexadecimal editor / disassembler for Windows and Linux
+- [malwoverview](https://github.com/alexandreborges/malwoverview) First response tool used for threat hunting and offers intel information from OSINT sites
 
+### Forensics
+- [CyLR](https://github.com/orlikoski/CyLR) Cold disk file collector
+- [Dissect](https://github.com/fox-it/dissect) Digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats
+- [Volatility](https://github.com/volatilityfoundation/volatility) Python tool used for the extraction of digital artifacts from volatile memory (RAM) samples
 ### Audit-Vulnerability
 - [nuclei](https://github.com/projectdiscovery/nuclei) Fast and customisable vulnerability scanner based on simple YAML based DSL
 - [Clair](https://github.com/quay/clair) Open source project for the static analysis of vulnerabilities in application containers
@@ -299,6 +322,7 @@
 ### blue bin
 - [Zeek to Cuckoo](https://github.com/HASecuritySolutions/zeek_to_cuckoo/blob/master/zeek_to_cuckoo.py) Automating file extraction submission and analysis to
 Cuckoo Sandbox from Zeek
+- [Ox4Shell](https://github.com/ox-eye/Ox4Shell) De-obfuscate Log4Shell payloads
 
 ## Purple-Red-Team-Resources
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework) An exploit framework
@@ -344,18 +368,25 @@ Cuckoo Sandbox from Zeek
 - [naabu](https://github.com/projectdiscovery/naabu) Port scanning tool written in Go that allows you to enumerate valid ports for hosts in a fast and reliable manner
 - [uncover](https://github.com/projectdiscovery/uncover) Quickly discover exposed hosts on the internet using multiple search engines
 - [wtfis](https://github.com/pirxthepilot/wtfis) Passive hostname, domain and IP lookup tool for non-robots
-
+- [OsintUI](https://github.com/wssheldon/osintui) OSINT from your favorite services in a friendly terminal user interface
+- [ExchangeFinder](https://github.com/mhaskar/ExchangeFinder) Find Microsoft Exchange instance for a given domain and identify the exact version
 
 ### Password-Tools
 - [Cain & Abel](https://web.archive.org/web/20160214132154/http://www.oxid.it/cain.html) Password recovery tool for Microsoft Operating Systems
 - [Hashcat](https://hashcat.net/hashcat/) Advanced password recovery tool for most operating systems
 - [John](https://www.openwall.com/john/) Open Source password security auditing and password recovery tool
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) Extract plaintexts passwords, hashs, PIN codes and kerberos tickets from memory
+- [LaZange](https://github.com/AlessandroZ/LaZagne) Credentials recovery project
 
 ### red bin
 - [NYAN-x-CAT Repo](https://github.com/NYAN-x-CAT)
 - [Sulealothman Repo](https://github.com/sulealothman/MysteryLegacyPenetrationTools)
 - [Matterpreter Repo](https://github.com/matterpreter?tab=repositories)
+- [Evil WinRM](https://github.com/Hackplayers/evil-winrm) Ultimate WinRM shell for hacking/pentesting
+- [COMProxy](https://github.com/leoloobeek/COMProxy) A COM client and server for testing COM hijack proxying
+- [ysoserial](https://github.com/frohoff/ysoserial) PoC tool for generating payloads that exploit unsafe Java object deserialization
+- [SillyRAT](https://github.com/hash3liZer/SillyRAT) A Python based RAT 🐀 (Remote Access Trojan) for getting reverse shell 🖥️
+- [AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) Open-Source Remote Administration Tool For Windows C# (RAT)
 
 ## Cloud-Things
 - [Azure AD IR Guide](https://misconfig.io/azure-ad-incident-response-life-cycle-tools/)
@@ -369,7 +400,7 @@ Cuckoo Sandbox from Zeek
 ### AI Stuff
 - [ChatGPT](https://chat.openai.com/) 
 - [SlidesAI](https://www.slidesai.io/) Create Presentation Slides with AI in seconds
-- 
+- [Replit](https://replit.com/) Build software collaboratively with the power of AI
 
 ## Awesome-Lists
 - [Master List of all Awesome Distros](https://github.com/sindresorhus/awesome)
