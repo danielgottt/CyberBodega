@@ -15,7 +15,6 @@
 ```
 
 
-
 # <img src='https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat'/>
 
 # Contents
@@ -59,20 +58,21 @@
 - [Threatpost](https://threatpost.com/) Supposedly the first stop for security news
 - [Week in 4N6](https://thisweekin4n6.com/) Your weekly roundup of Digital Forensics and Incident Response news
 - [r/blueteamsec](https://www.reddit.com/r/blueteamsec/) Subreddit focused on technical intelligence, research and engineering
-- [Krebson Security](https://krebsonsecurity.com/)
-- [SANS Webcast](https://www.sans.org/webcasts/)
-- [SANS Newsletter](https://www.sans.org/newsletters/)
-- [Cyber Scoop](https://www.cyberscoop.com/)
-- [SecurityFocus](https://www.securityfocus.com/)
-- [Gibson Research Corporation](https://www.grc.com/intro.htm)
-- [Security News Wire](https://securitynewswire.com/index.php/Home)
-- [PortSwigger](https://portswigger.net/daily-swig)
-- [Pentestmonkey](http://pentestmonkey.net/)
-- [USCERT (CISA)](https://us-cert.cisa.gov/)
-- [FIRST](https://www.first.org/)
-- [BleepingComputer](https://www.bleepingcomputer.com/)
-- [Schneier Security](https://www.schneier.com/)
-- [Opalsec](https://opalsec.substack.com/)
+- [Krebson Security](https://krebsonsecurity.com/) In-depth security news and investigation
+- [SANS Webcast](https://www.sans.org/webcasts/) Free security training webcasts and presentations
+- [SANS Newsletter](https://www.sans.org/newsletters/) Weekly security newsletters covering the latest threats and vulnerabilities
+- [Cyber Scoop](https://www.cyberscoop.com/) Cybersecurity news and analysis
+- [SecurityFocus](https://www.securityfocus.com/) Security news, vulnerabilities, and discussion forums
+- [Gibson Research Corporation](https://www.grc.com/intro.htm) Security research and freeware utilities by Steve Gibson
+- [Security News Wire](https://securitynewswire.com/index.php/Home) Security industry news aggregator
+- [PortSwigger](https://portswigger.net/daily-swig) Web security news and research from the makers of Burp Suite
+- [Pentestmonkey](http://pentestmonkey.net/) Penetration testing tools and cheat sheets
+- [USCERT (CISA)](https://us-cert.cisa.gov/) Official US government cybersecurity alerts and advisories
+- [FIRST](https://www.first.org/) Forum of Incident Response and Security Teams - global incident response collaboration
+- [BleepingComputer](https://www.bleepingcomputer.com/) Technology news and computer help with focus on security
+- [Schneier Security](https://www.schneier.com/) Bruce Schneier's blog covering security and privacy topics
+- [Opalsec](https://opalsec.substack.com/) Security newsletter and research insights
+- [CISA Cybersecurity Advisories](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a) Latest cybersecurity advisories and alerts from CISA
 
 ## Interesting-Articles-Videos
 - [vx-underground](https://www.vx-underground.org/) Really anything from here is pretty sweet
@@ -81,7 +81,7 @@
 - [Black Hat Archives](https://www.blackhat.com/html/archives.html) Archive of computer security presentations is provided free of charge as a service to the international computer security community
 - [If you've ever wanted to mess around with a SIEM](https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/)  
 - [Spin Up An AD Enviorment Quickly](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae) 
-- [Lenny Zeltser - Learn Malware Analysis](https://zeltser.com/start-learning-malware-analysis/)
+- [Lenny Zeltser - Learn Malware Analysis](https://zeltser.com/start-learning-malware-analysis/) Comprehensive guide for beginners in malware analysis
 - [PST, Want a Shell?](https://www.mandiant.com/resources/pst-want-shell-proxyshell-exploiting-microsoft-exchange-servers) Mandiant's write-up for ProxyShell
 - [De-Fanging Strings with FLOSS](https://medium.com/malware-buddy/reverse-engineering-tips-strings-deobfuscation-with-floss-9424417e285d) Uncovering obfuscated strings with FLOSS
 - [Setting up Tripwire](https://www.howtoforge.com/tutorial/monitoring-and-detecting-modified-files-using-tripwire-on-centos-7/) Detecting adversary activity via file changes (Honey Files)
@@ -90,22 +90,22 @@
 - [Kerboroasting](https://adsecurity.org/?p=3458) Conversation about extracting service account credentials from Active Directory via kerb
 - [Honey Files](https://docs.rapid7.com/insightidr/honey-files/) Honey files are designed to detect attackers who are accessing and removing files
 - [CTI Self Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) Katie Nickels discusses ways you can learn more about CTI
-- [Start Learning Malware Analysis](https://zeltser.com/start-learning-malware-analysis/) 
-- [DFRWS Papers & Presentations](https://dfrws.org/presentation/)
+- [Start Learning Malware Analysis](https://zeltser.com/start-learning-malware-analysis/) Comprehensive guide for beginners in malware analysis 
+- [DFRWS Papers & Presentations](https://dfrws.org/presentation/) Digital forensics research workshop papers and presentations
 - [Detecting Meterpreter HTTP module Network Traffic](https://blog.didierstevens.com/2015/05/11/detecting-network-traffic-from-metasploits-meterpreter-reverse-http-module/) Didier Stevens discusses meterpreter network traffic
 - [Hunting Linux Persistence Part 1](https://www.activecountermeasures.com/hunting-for-persistence-in-linux-part-1-auditd-sysmon-osquery-and-webshells/) Auditd, Sysmon, Osquery and Webshells
-- [Adventures in Dynamic Evasion](https://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa)
-- [SSDs/The Challanges Presented to DFIR](https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1051&context=msia_etds) 
-- [Anti-Forensics](https://resources.infosecinstitute.com/topic/anti-forensics-part-1/#gref) 
-- [Windows Artifacts DFIR](https://resources.infosecinstitute.com/topic/windows-systems-and-artifacts-in-digital-forensics-part-i-registry/) 
-- [Windows Forensics](https://www.forensicfocus.com/articles/windows-forensics-and-security/) 
-- [Linux Forensics](http://www.deer-run.com/~hal/LinuxForensicsForNon-LinuxFolks.pdf) 
-- [Black Hat Stego Brief](https://www.blackhat.com/presentations/bh-usa-04/bh-us-04-raggo/bh-us-04-raggo-up.pdf) 
-- [Unpacking Malware](https://marcoramilli.com/2020/10/09/how-to-unpack-malware-personal-notes/) 
-- [Malware Reports](https://www.malwarearchaeology.com/analysis) 
-- [Journey Into Incident Response](https://www.malwarearchaeology.com/analysis)
-- [Deploying T-Pot Framework in the Cloud](https://www.stratosphereips.org/blog/2020/10/10/installing-t-pot-honeypot-framework-in-the-cloud)
-- [Getting Started with RE/Malware Analysis](https://hshrzd.wordpress.com/how-to-start/)
+- [Adventures in Dynamic Evasion](https://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa) SpecterOps research on advanced evasion techniques
+- [SSDs/The Challanges Presented to DFIR](https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1051&context=msia_etds) Academic paper on SSD forensics challenges 
+- [Anti-Forensics](https://resources.infosecinstitute.com/topic/anti-forensics-part-1/#gref) Overview of anti-forensics techniques and countermeasures 
+- [Windows Artifacts DFIR](https://resources.infosecinstitute.com/topic/windows-systems-and-artifacts-in-digital-forensics-part-i-registry/) Guide to Windows registry artifacts for digital forensics 
+- [Windows Forensics](https://www.forensicfocus.com/articles/windows-forensics-and-security/) Windows forensics techniques and security analysis 
+- [Linux Forensics](http://www.deer-run.com/~hal/LinuxForensicsForNon-LinuxFolks.pdf) Linux forensics guide for non-Linux users 
+- [Black Hat Stego Brief](https://www.blackhat.com/presentations/bh-usa-04/bh-us-04-raggo/bh-us-04-raggo-up.pdf) Black Hat presentation on steganography techniques 
+- [Unpacking Malware](https://marcoramilli.com/2020/10/09/how-to-unpack-malware-personal-notes/) Personal notes and techniques on unpacking malware 
+- [Malware Reports](https://www.malwarearchaeology.com/analysis) Collection of malware analysis reports and resources 
+- [Journey Into Incident Response](https://www.malwarearchaeology.com/analysis) Incident response guides and analysis techniques
+- [Deploying T-Pot Framework in the Cloud](https://www.stratosphereips.org/blog/2020/10/10/installing-t-pot-honeypot-framework-in-the-cloud) Guide to deploying T-Pot honeypot in cloud environments
+- [Getting Started with RE/Malware Analysis](https://hshrzd.wordpress.com/how-to-start/) Beginner's guide to reverse engineering and malware analysis
 - [OpBlueRaven](https://threatintel.blog/OPBlueRaven-Part2/) Details about PRODAFT & INVICTUS Threat Intelligence (PTI) team's latest operation on different threat actors
 - [TrendMicro; Analyzing Common Pentesting Tools](https://www.trendmicro.com/en_us/research/22/g/analyzing-penetration-testing-tools-that-threat-actors-use-to-br.html) Gives a great insight into common abused tools
 - [Hunt & Hackett; Concealed code TTP's/Detection](https://www.huntandhackett.com/blog/concealed-code-execution-techniques-and-detection) Covers common defense evasion techniques and how to detect them
@@ -125,31 +125,49 @@
 - [The Rise of Malware Mainstream Acceptance](https://malwaresourcecode.com/home/my-projects/write-ups/the-rise-of-malware-mainstream-acceptance-and-popularity-is-thanks-to-the-government) Discussion on malware's evolution and government involvement
 - [Methodology for GenAI Workload IR](https://aws.amazon.com/blogs/security/methodology-for-incident-response-on-generative-ai-workloads/) AWS methodology for incident response on generative AI workloads
 - [Adversarial Machine Learning Paper](https://arxiv.org/pdf/2212.10496) Academic paper on adversarial machine learning and security implications
+- [Defenders Think in Lists, Attackers Think in Graphs](https://github.com/JohnLaTwC/Shared/blob/master/Defenders%20think%20in%20lists.%20Attackers%20think%20in%20graphs.%20As%20long%20as%20this%20is%20true%2C%20attackers%20win.md) Essential reading on the mindset gap between defenders and attackers
+- [Linux Forensics - Hal Pomeranz](https://archive.org/details/HalLinuxForensics/page/14/mode/2up) Comprehensive Linux forensics guide available on Internet Archive
+- [Windows Search Index Forensics](https://www.aon.com/en/insights/cyber-labs/windows-search-index-the-forensic-artifact-youve-been-searching-for) Research on Windows Search Index as a valuable forensic artifact
+- [Elastic Security - Linux Persistence Finale](https://www.elastic.co/security-labs/the-grand-finale-on-linux-persistence) Comprehensive guide on Linux persistence mechanisms
+- [More Fun with WMI - SpecterOps](https://specterops.io/blog/2025/09/18/more-fun-with-wmi/) Advanced WMI techniques and abuse
+- [SCCM Hierarchy Takeover via NTLM Relay](https://specterops.io/blog/2026/01/14/wait-why-is-my-webclient-started-sccm-hierarchy-takeover-via-ntlm-relay-to-ldap/) SCCM security vulnerability exploitation
+- [Cloudflare BGP Route Leak Analysis](https://blog.cloudflare.com/bgp-route-leak-venezuela/) Analysis of BGP routing incidents
+- [Before Vegas: Cyberdefense Report](https://ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/before-vegas-cyberdefense-report.pdf) ETH Zurich report on cyber defense strategies
+- [From Vegas to Chengdu: Hacking Contests and China's Offensive Cyber Ecosystem](https://css.ethz.ch/en/center/CSS-news/2024/06/from-vegas-to-chengdu-hacking-contests-bug-bounties-and-chinas-offensive-cyber-ecosystem.html) Analysis of China's cyber capabilities development
+- [FireEye Big Four: Spotlight on China](https://web.archive.org/web/20210619070836/https://www.fireeye.com/blog/executive-perspective/2021/03/the-big-four-spotlight-on-china.html) FireEye analysis of Chinese threat groups
+- [13Cubed - DFIR YouTube](https://www.youtube.com/watch?v=IHd85h6T57E&ab_channel=13Cubed) Digital forensics and incident response educational content
+- [ClickFix Social Engineering Wiki](https://clickfix-wiki.github.io/) Documentation on ClickFix social engineering attacks
+- [ACM Digital Library - Cyber Research](https://dl.acm.org/doi/pdf/10.1145/3610772) Academic research on cybersecurity topics
 
 
 ## Research-Resources
 ### Write-ups
-- [Unit 42](https://unit42.paloaltonetworks.com/)
-- [Google Security Blog](https://security.googleblog.com/)
-- [Trellix Blog](https://www.trellix.com/en-us/about/newsroom/stories.html)
-- [The DFIR Report](https://thedfirreport.com/)
-- [Sophos X-Ops](https://news.sophos.com/en-us/tag/sophos-x-ops/)
-- [Intel471](https://intel471.com/blog/)
+- [Unit 42](https://unit42.paloaltonetworks.com/) Palo Alto Networks threat intelligence and research
+- [Google Security Blog](https://security.googleblog.com/) Latest news and insights from Google security team
+- [Trellix Blog](https://www.trellix.com/en-us/about/newsroom/stories.html) Cybersecurity threat research and news from Trellix
+- [The DFIR Report](https://thedfirreport.com/) Real-world intrusion analysis and incident response reports
+- [Sophos X-Ops](https://news.sophos.com/en-us/tag/sophos-x-ops/) Threat intelligence and research from Sophos security teams
+- [Intel471](https://intel471.com/blog/) Cyber threat intelligence focused on cybercrime
 
 ### Research-Sites
-- [Exploit DB](https://www.exploit-db.com/)
-- [Shodan](https://www.shodan.io/) 
-- [National Vulnerability Database](https://nvd.nist.gov/)
-- [CVE Proof of Concepts](https://github.com/qazbnm456/awesome-cve-poc) 
-- [OWASP](https://owasp.org/projects/) 
-- [OSINT Framework](https://osintframework.com/)
-- [OpenThreatResearch](https://blog.openthreatresearch.com/)
-- [BellingCat](https://www.bellingcat.com/) 
-- [Zoomeye](https://www.zoomeye.org/) 
-- [Spyse](https://spyse.com/) 
+- [Exploit DB](https://www.exploit-db.com/) Archive of exploits and vulnerable software
+- [Shodan](https://www.shodan.io/) Search engine for Internet-connected devices 
+- [National Vulnerability Database](https://nvd.nist.gov/) US government repository of standards-based vulnerability data
+- [CVE Proof of Concepts](https://github.com/qazbnm456/awesome-cve-poc) Collection of CVE proof-of-concept exploits 
+- [OWASP](https://owasp.org/projects/) Open Web Application Security Project - web security resources and tools 
+- [OSINT Framework](https://osintframework.com/) Collection of OSINT tools and resources organized by category
+- [OpenThreatResearch](https://blog.openthreatresearch.com/) Open-source threat research and detection engineering
+- [BellingCat](https://www.bellingcat.com/) Independent investigative journalism using open source intelligence 
+- [Zoomeye](https://www.zoomeye.org/) Cyberspace search engine for devices and services 
+- [Spyse](https://spyse.com/) Internet assets search engine for cybersecurity professionals 
 - [Web Check](https://github.com/lissy93/web-check) Insight into the inner-workings of a given website
 - [Juniverse](https://juniverse.securitybreak.io/) Security knowledge base and research platform
 - [Attack Rule Map](https://attackrulemap.netlify.app/) Interactive visualization of MITRE ATT&CK techniques mapped to detection rules
+- [POC||GTFO Archive](https://github.com/angea/pocorgtfo/tree/master) Archive of Proof of Concept or Get The Fuck Out hacking journal
+- [Monocle Cam Portal](https://portal.monoclecam.com/) Security camera analysis and OSINT tool
+- [MalOps](https://malops.io/) Malware operations analysis and tracking
+- [The Evidence Locker](https://theevidencelocker.github.io/) Digital forensics evidence repository and resources
+- [Triage.zip](https://triage.zip/) Incident triage and analysis resources
 
 ### Cyber-Threat-Intelligence-Dump
 - [Unit 42 Atom](https://unit42.paloaltonetworks.com/atoms/) Threat group information
@@ -193,9 +211,11 @@
 - [CSI Linux Academy](https://csilinux.com/academy.html) Free OSINT, DFIR, and cybersecurity training courses
 - [ICS PCAP Collection](https://github.com/automayt/ICS-pcap) Collection of Industrial Control Systems (ICS) packet captures for analysis and research
 - [John Hammond YouTube](https://www.youtube.com/playlist?list=PLz61osc7c3OqQ_xBZJbzZdIkVd8HnxLmC) Comprehensive playlist of cybersecurity tutorials and walkthroughs
+- [AWS Certified Security Specialty Course](https://cybr.com/courses/aws-certified-security-specialty-scs-c02-course/) Free AWS security certification training course
+- [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) Comprehensive course on Large Language Models
 
 ## Blue-Team-Resources
-- [EricZimmerman](https://github.com/EricZimmerman)
+- [EricZimmerman](https://github.com/EricZimmerman) Collection of forensics and incident response tools
 ### Utility
 - [Cyber Chef](https://gchq.github.io/CyberChef/) Web app for analysing and decoding data
 - [Cyber Chef Recipes](https://github.com/mattnotmax/cyberchef-recipes) A list of cyber-chef recipes and curated links
@@ -240,6 +260,12 @@
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [Exmaple Pentest Reports](https://www.offsec.com/reports/sample-penetration-testing-report.pdf) Sample penetration testing reports
 - [EC2 IR](https://www.cadosecurity.com/aws-ec2-incident-response/) General walkthrough of IR capes in AWS
+- [Linux Audit Data Sources](https://github.com/izysec/linux-audit/blob/main/DS-to-audit.MD) Comprehensive list of Linux audit data sources
+- [Splunk Security Content](https://github.com/splunk/security_content) Open-source security content for Splunk
+- [Splunk Attack Range](https://github.com/splunk/attack_range) Tool to build lab environments for testing detection and response
+- [Splunk Research](https://research.splunk.com/) Splunk security research and threat hunting content
+- [Splunk CI/CD Detection Engineering](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-security-content-part-1.html) Guide to implementing CI/CD for detection engineering
+- [Package Inferno](https://github.com/MHaggis/Package-Inferno) PowerShell package analysis and security tool
 
 ### Network-Analysis
 - [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
@@ -293,7 +319,7 @@
 - [Galah](https://github.com/0x4D31/galah) LLM-powered web honeypot designed to mimic various web applications and dynamically respond to arbitrary HTTP requests
 
 ### Malware-Analysis
-- [Remnux](https://remnux.org/)
+- [Remnux](https://remnux.org/) Linux toolkit for reverse-engineering and analyzing malicious software
 - [Tools by hasherezade](https://hasherezade.github.io/) Linux toolkit for reverse-engineering and analyzing malicious software
 - [IDA](https://hex-rays.com/ida-free/) Binary code analysis tool
 - [FLARE Floss](https://github.com/mandiant/flare-floss) Automatically deobfuscate strings from malware binaries
@@ -329,10 +355,10 @@
 - [DigitalSide Threat-Intel Repo](https://osint.digitalside.it/) Repository that contains a set of Open Source Cyber Threat Intellegence information
 - [MalwareBazar](https://bazaar.abuse.ch/browse/) Project from abuse.ch with the goal of sharing malware samples
 - [DailyIOC](https://github.com/StrangerealIntel/DailyIOC) Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups
-- [Valhalla Yara Rules](https://valhalla.nextron-systems.com/)
-- [Yara Rules Project](https://github.com/Yara-Rules)
-- [Virustotal Yara](https://github.com/VirusTotal/yara)
-- [Florian Roth](https://github.com/Neo23x0/signature-base)
+- [Valhalla Yara Rules](https://valhalla.nextron-systems.com/) Professional YARA rules database for malware detection
+- [Yara Rules Project](https://github.com/Yara-Rules) Community-driven collection of YARA rules for malware detection
+- [Virustotal Yara](https://github.com/VirusTotal/yara) VirusTotal's YARA rule repository
+- [Florian Roth](https://github.com/Neo23x0/signature-base) Signature base for YARA, Sigma and IOC scanners
 
 ### blue bin
 - [Zeek to Cuckoo](https://github.com/HASecuritySolutions/zeek_to_cuckoo/blob/master/zeek_to_cuckoo.py) Automating file extraction submission and analysis to
@@ -402,8 +428,8 @@ Cuckoo Sandbox from Zeek
 - [ysoserial](https://github.com/frohoff/ysoserial) PoC tool for generating payloads that exploit unsafe Java object deserialization
 
 ## Cloud-Things
-- [Azure AD IR Guide](https://misconfig.io/azure-ad-incident-response-life-cycle-tools/)
-- [O365 Attack Toolkit](https://github.com/david-burkett/o365-attack-toolkit)
+- [Azure AD IR Guide](https://misconfig.io/azure-ad-incident-response-life-cycle-tools/) Azure Active Directory incident response lifecycle and tools
+- [O365 Attack Toolkit](https://github.com/david-burkett/o365-attack-toolkit) Office 365 security testing toolkit
 
 ### Tools
 - [Basic Blob Finder](https://github.com/joswr1ght/basicblobfinder) POC tool to hunt for public Azure storage containers and enumerate the blobs
@@ -411,40 +437,39 @@ Cuckoo Sandbox from Zeek
 - [cloudlist](https://github.com/projectdiscovery/cloudlist) Multi-cloud tool for getting Assets from Cloud Providers
 
 ## AI-Stuff
-- [ChatGPT](https://chat.openai.com/) 
+- [ChatGPT](https://chat.openai.com/) AI language model for various tasks including code generation and analysis 
 - [SlidesAI](https://www.slidesai.io/) Create Presentation Slides with AI in seconds
 - [Replit](https://replit.com/) Build software collaboratively with the power of AI
 
 ## Awesome-Lists
-- [Master List of all Awesome Distros](https://github.com/sindresorhus/awesome)
-- [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection)
-- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
-- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-- [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools)
-- [Awesome Threat Modeling](https://github.com/redshiftzero/awesome-threat-modeling)
-- [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
-- [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills)
-- [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist)
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
-- [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
-- [Awesome Pentest Tools](https://github.com/enaqx/awesome-pentest)
-- [Awesome Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
-- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
-- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
-- [Awesome Industrial Control System Security](https://github.com/mpesen/awesome-industrial-control-system-security)
-- [Awesome YARA](https://github.com/InQuest/awesome-yara)
-- [Awesome Container Security](https://github.com/kai5263499/container-security-awesome)
-- [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers)
-- [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries)
-- [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic)
-- [Awesome Security Talks and Videos](https://github.com/PaulSec/awesome-sec-talks)
+- [Master List of all Awesome Distros](https://github.com/sindresorhus/awesome) Curated list of awesome lists on GitHub
+- [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) Collection of threat detection and hunting resources
+- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) Curated list of threat intelligence resources
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) Curated list of malware analysis tools and resources
+- [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) Collection of packet capture tools and utilities
+- [Awesome Threat Modeling](https://github.com/redshiftzero/awesome-threat-modeling) Resources for threat modeling and risk assessment
+- [Awesome CTF](https://github.com/apsdehal/awesome-ctf) Curated list of Capture The Flag resources
+- [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) Resources for building cybersecurity skills
+- [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist) Comprehensive personal security and privacy checklist
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) Collection of hacking tools, resources and tutorials
+- [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) List of honeypot resources for intrusion detection
+- [Awesome Pentest Tools](https://github.com/enaqx/awesome-pentest) Collection of penetration testing resources and tools
+- [Awesome Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) Useful penetration testing cheat sheets
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) Curated list of incident response resources
+- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) List of web application security resources
+- [Awesome Industrial Control System Security](https://github.com/mpesen/awesome-industrial-control-system-security) Resources for ICS/SCADA security
+- [Awesome YARA](https://github.com/InQuest/awesome-yara) Curated list of YARA rules, tools, and resources
+- [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) Resources for container and Kubernetes security
+- [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) Curated list of cryptography papers for non-cryptographers
+- [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) Interesting Shodan search queries
+- [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic) Tools and techniques for anti-forensics
+- [Awesome Security Talks and Videos](https://github.com/PaulSec/awesome-sec-talks) Curated list of security conference talks
 
 ## Dump
 - [Pexpect](https://github.com/pexpect/pexpect) Python module for spawning child applications; controlling them; and responding to expected patterns in their output
-- [Unofficial OSCP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
+- [Unofficial OSCP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707) List of approved tools for OSCP exam preparation
 - [Florian Roth's BlueLedger](https://github.com/Neo23x0/BlueLedger) A list of some interesting community support projects
-- [CIS CAT](https://github.com/CISecurity/SecureSuiteResourceGuide/blob/master/docs/CIS-CAT/CIS-CATAssessorGuide.md)
+- [CIS CAT](https://github.com/CISecurity/SecureSuiteResourceGuide/blob/master/docs/CIS-CAT/CIS-CATAssessorGuide.md) CIS Configuration Assessment Tool guide
 - [ProjectDiscovery](https://github.com/projectdiscovery) Security Through Intelligent Automation
 - [HashR](https://github.com/google/hashr) HashR allows you to build your own hash sets based on your data sources
 - [ATT&CK Pyton Client](https://github.com/OTRF/ATTACK-Python-Client) Python module to access up-to-date ATT&CK content
