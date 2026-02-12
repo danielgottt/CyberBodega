@@ -17,6 +17,12 @@
 
 # <img src='https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat'/>
 
+## 🏷️ Resource Tags
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) - Open-source projects and tools
+- ![Free](https://img.shields.io/badge/-Free-blue) - Free resources (may require registration)
+- ![Freemium](https://img.shields.io/badge/-Freemium-yellow) - Free tier available with paid options
+- ![Paid](https://img.shields.io/badge/-Paid-red) - Paid/commercial resources
+
 # Contents
 - [🔗 Quick Links](#quick-links)
 - [📰 InfoSec News](#infosec-news)
@@ -204,31 +210,31 @@
 ## 🎓 Training Resources
 > *Free courses, labs, and hands-on learning platforms*
 
-- [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) BlueYard - BlueTeam Challenges
-- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/) Infected PCAP's for review
-- [EVTX/PCAP Attack Samples](https://github.com/sbousseaden/) Infected PCAP's and EVTX logs for review
-- [Open Security Training](https://opensecuritytraining.info/Training.html) Free training for a variety of computer security classes
-- [TryHackMe](https://tryhackme.com/) Hands-on cyber security training
-- [HackSplaining](https://www.hacksplaining.com/lessons) Number of free training lessons for free
-- [Codewars](https://www.codewars.com/) Programming challanges
-- [MalwareUnicorn](https://malwareunicorn.org/#/workshops) Free reverse engineering workshops
-- [Free Ivy Leauge Courses](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/) List of Ivy league courses you can take online for free (CS50)
-- [LetsDefend](https://letsdefend.io/) Free-ish training simulating the SOC life. Great for people interested in journying into a IR/SOC enviorment  
-- [DC540 Reversing Course](https://github.com/sharpicx/reversing-course) Free reverse engineering course
-- [Low Level Programming](https://github.com/sharpicx/lowlevel-programming) Low level programming course
-- [FreeCodeCamp](https://www.freecodecamp.org/) Free and online, self paced courses to prepare you for a role in programming
-- [SocVel](https://www.socvel.com/challenges/) Free live DFIR challenges
-- [DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum) Community-driven archive of DFIR-related artifacts
-- [AwesomeDFIR Website](https://awesomedfir.com/) DFIR resources
-- [ForensicMethods](https://www.forensicmethods.com/home) Archive of computer forensic information
-- [IMFSecurity](https://www.imfsecurity.com/) Good resources to dig through
-- [Azure Training](https://github.com/johnthebrit/CertificationMaterials) A collection of materials related to "JohntheBrit" certification videos
-- [LogHub](https://github.com/logpai/loghub) Large collection of system log datasets for AI-driven log analytics research
-- [CSI Linux Academy](https://csilinux.com/academy.html) Free OSINT, DFIR, and cybersecurity training courses
-- [ICS PCAP Collection](https://github.com/automayt/ICS-pcap) Collection of Industrial Control Systems (ICS) packet captures for analysis and research
-- [John Hammond YouTube](https://www.youtube.com/playlist?list=PLz61osc7c3OqQ_xBZJbzZdIkVd8HnxLmC) Comprehensive playlist of cybersecurity tutorials and walkthroughs
-- [AWS Certified Security Specialty Course](https://cybr.com/courses/aws-certified-security-specialty-scs-c02-course/) Free AWS security certification training course
-- [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) Comprehensive course on Large Language Models
+- ![Free](https://img.shields.io/badge/-Free-blue) [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) BlueYard - BlueTeam Challenges
+- ![Free](https://img.shields.io/badge/-Free-blue) [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/) Infected PCAP's for review
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [EVTX/PCAP Attack Samples](https://github.com/sbousseaden/) Infected PCAP's and EVTX logs for review
+- ![Free](https://img.shields.io/badge/-Free-blue) [Open Security Training](https://opensecuritytraining.info/Training.html) Free training for a variety of computer security classes
+- ![Freemium](https://img.shields.io/badge/-Freemium-yellow) [TryHackMe](https://tryhackme.com/) Hands-on cyber security training
+- ![Free](https://img.shields.io/badge/-Free-blue) [HackSplaining](https://www.hacksplaining.com/lessons) Number of free training lessons for free
+- ![Free](https://img.shields.io/badge/-Free-blue) [Codewars](https://www.codewars.com/) Programming challanges
+- ![Free](https://img.shields.io/badge/-Free-blue) [MalwareUnicorn](https://malwareunicorn.org/#/workshops) Free reverse engineering workshops
+- ![Free](https://img.shields.io/badge/-Free-blue) [Free Ivy Leauge Courses](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/) List of Ivy league courses you can take online for free (CS50)
+- ![Freemium](https://img.shields.io/badge/-Freemium-yellow) [LetsDefend](https://letsdefend.io/) Free-ish training simulating the SOC life. Great for people interested in journying into a IR/SOC enviorment  
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [DC540 Reversing Course](https://github.com/sharpicx/reversing-course) Free reverse engineering course
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Low Level Programming](https://github.com/sharpicx/lowlevel-programming) Low level programming course
+- ![Free](https://img.shields.io/badge/-Free-blue) [FreeCodeCamp](https://www.freecodecamp.org/) Free and online, self paced courses to prepare you for a role in programming
+- ![Free](https://img.shields.io/badge/-Free-blue) [SocVel](https://www.socvel.com/challenges/) Free live DFIR challenges
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum) Community-driven archive of DFIR-related artifacts
+- ![Free](https://img.shields.io/badge/-Free-blue) [AwesomeDFIR Website](https://awesomedfir.com/) DFIR resources
+- ![Free](https://img.shields.io/badge/-Free-blue) [ForensicMethods](https://www.forensicmethods.com/home) Archive of computer forensic information
+- ![Free](https://img.shields.io/badge/-Free-blue) [IMFSecurity](https://www.imfsecurity.com/) Good resources to dig through
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Azure Training](https://github.com/johnthebrit/CertificationMaterials) A collection of materials related to "JohntheBrit" certification videos
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [LogHub](https://github.com/logpai/loghub) Large collection of system log datasets for AI-driven log analytics research
+- ![Free](https://img.shields.io/badge/-Free-blue) [CSI Linux Academy](https://csilinux.com/academy.html) Free OSINT, DFIR, and cybersecurity training courses
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [ICS PCAP Collection](https://github.com/automayt/ICS-pcap) Collection of Industrial Control Systems (ICS) packet captures for analysis and research
+- ![Free](https://img.shields.io/badge/-Free-blue) [John Hammond YouTube](https://www.youtube.com/playlist?list=PLz61osc7c3OqQ_xBZJbzZdIkVd8HnxLmC) Comprehensive playlist of cybersecurity tutorials and walkthroughs
+- ![Free](https://img.shields.io/badge/-Free-blue) [AWS Certified Security Specialty Course](https://cybr.com/courses/aws-certified-security-specialty-scs-c02-course/) Free AWS security certification training course
+- ![Free](https://img.shields.io/badge/-Free-blue) [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) Comprehensive course on Large Language Models
 
 ---
 
@@ -339,22 +345,22 @@
 - [Galah](https://github.com/0x4D31/galah) LLM-powered web honeypot designed to mimic various web applications and dynamically respond to arbitrary HTTP requests
 
 ### 🦠 Malware Analysis
-- [Remnux](https://remnux.org/) Linux toolkit for reverse-engineering and analyzing malicious software
-- [Tools by hasherezade](https://hasherezade.github.io/) Linux toolkit for reverse-engineering and analyzing malicious software
-- [IDA](https://hex-rays.com/ida-free/) Binary code analysis tool
-- [FLARE Floss](https://github.com/mandiant/flare-floss) Automatically deobfuscate strings from malware binaries
-- [BinaryNinja](https://binary.ninja/) Interactive disassembler, decompiler, and binary analysis platform
-- [BinaryPig](https://github.com/endgameinc/binarypig) Malware Processing and Analytics
-- [Ghidra🦅](https://ghidra-sre.org/) Software reverse engineering suite of tools
-- [HxD](https://mh-nexus.de/en/hxd/) Carefully designed and fast hex editor 
-- [Redare2](https://github.com/radareorg/radare2) Set of libraries, tools and plugins to ease reverse engineering tasks
-- [TheMatrix](https://github.com/enkomio/thematrix) Project created to ease the malware analysis process
-- [OllyDbg](https://www.ollydbg.de/) 32-bit assembler level analysing debugger
-- [oletools](https://github.com/decalage2/oletools) Package of python tools to analyze files
-- [The Sleuth Kit/Autopsy](https://www.sleuthkit.org/) Open Source Digital Forensics
-- [Cuckoo Sandbox](https://cuckoosandbox.org/) Leading open source automated malware analysis system
-- [Malcat](https://malcat.fr/) Feature-rich hexadecimal editor / disassembler for Windows and Linux
-- [malwoverview](https://github.com/alexandreborges/malwoverview) First response tool used for threat hunting and offers intel information from OSINT sites
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Remnux](https://remnux.org/) Linux toolkit for reverse-engineering and analyzing malicious software
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Tools by hasherezade](https://hasherezade.github.io/) Linux toolkit for reverse-engineering and analyzing malicious software
+- ![Freemium](https://img.shields.io/badge/-Freemium-yellow) [IDA](https://hex-rays.com/ida-free/) Binary code analysis tool
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [FLARE Floss](https://github.com/mandiant/flare-floss) Automatically deobfuscate strings from malware binaries
+- ![Paid](https://img.shields.io/badge/-Paid-red) [BinaryNinja](https://binary.ninja/) Interactive disassembler, decompiler, and binary analysis platform
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [BinaryPig](https://github.com/endgameinc/binarypig) Malware Processing and Analytics
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Ghidra🦅](https://ghidra-sre.org/) Software reverse engineering suite of tools
+- ![Free](https://img.shields.io/badge/-Free-blue) [HxD](https://mh-nexus.de/en/hxd/) Carefully designed and fast hex editor 
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Redare2](https://github.com/radareorg/radare2) Set of libraries, tools and plugins to ease reverse engineering tasks
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [TheMatrix](https://github.com/enkomio/thematrix) Project created to ease the malware analysis process
+- ![Free](https://img.shields.io/badge/-Free-blue) [OllyDbg](https://www.ollydbg.de/) 32-bit assembler level analysing debugger
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [oletools](https://github.com/decalage2/oletools) Package of python tools to analyze files
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [The Sleuth Kit/Autopsy](https://www.sleuthkit.org/) Open Source Digital Forensics
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Cuckoo Sandbox](https://cuckoosandbox.org/) Leading open source automated malware analysis system
+- ![Freemium](https://img.shields.io/badge/-Freemium-yellow) [Malcat](https://malcat.fr/) Feature-rich hexadecimal editor / disassembler for Windows and Linux
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [malwoverview](https://github.com/alexandreborges/malwoverview) First response tool used for threat hunting and offers intel information from OSINT sites
 
 ### 🔬 Forensics
 - [CyLR](https://github.com/orlikoski/CyLR) Cold disk file collector
@@ -419,10 +425,10 @@ Cuckoo Sandbox from Zeek
 - [DSInternals](https://github.com/MichaelGrafnetter/DSInternals) Active directory PowerShell Module and Framework
 
 ### 🎮 Command & Control
-- [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
-- [Cobalt Strike](https://www.cobaltstrike.com/) Post-exploitation agent and covert channels to emulate a quiet long-term embedded actor in your customer's network
-- [Brute Ratel C4](https://bruteratel.com/) Customized Command and Control Center for Red Team and Adversary Simulation
-- [PoshC2](https://github.com/nettitude/PoshC2) Proxy aware C2 framework
+- ![Free](https://img.shields.io/badge/-Free-blue) [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
+- ![Paid](https://img.shields.io/badge/-Paid-red) [Cobalt Strike](https://www.cobaltstrike.com/) Post-exploitation agent and covert channels to emulate a quiet long-term embedded actor in your customer's network
+- ![Paid](https://img.shields.io/badge/-Paid-red) [Brute Ratel C4](https://bruteratel.com/) Customized Command and Control Center for Red Team and Adversary Simulation
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [PoshC2](https://github.com/nettitude/PoshC2) Proxy aware C2 framework
 
 ### 🔭 Reconnaissance
 - [Photon Crawler](https://github.com/s0md3v/Photon) Incredibly fast crawler designed for OSINT
