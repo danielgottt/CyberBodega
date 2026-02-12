@@ -34,6 +34,7 @@
   - [Host-Network-Analysis](#host-network-analysis)
   - [Detection](#detection)
   - [Malware-Analysis](#malware-analysis)
+  - [Forensics](#forensics)
   - [Audit-Vulnerability](#audit-vulnerability)
     - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
   - [blue-bin](#blue-bin)
@@ -105,7 +106,7 @@
 - [Journey Into Incident Response](https://www.malwarearchaeology.com/analysis)
 - [Deploying T-Pot Framework in the Cloud](https://www.stratosphereips.org/blog/2020/10/10/installing-t-pot-honeypot-framework-in-the-cloud)
 - [Getting Started with RE/Malware Analysis](https://hshrzd.wordpress.com/how-to-start/)
-- [OpBlueRaven](https://threatintel.blog/OPBlueRaven-Part2/) Details about PRODAFT & INVICTUS Threat Intelligence (PTI) team’s latest operation on different threat actors
+- [OpBlueRaven](https://threatintel.blog/OPBlueRaven-Part2/) Details about PRODAFT & INVICTUS Threat Intelligence (PTI) team's latest operation on different threat actors
 - [TrendMicro; Analyzing Common Pentesting Tools](https://www.trendmicro.com/en_us/research/22/g/analyzing-penetration-testing-tools-that-threat-actors-use-to-br.html) Gives a great insight into common abused tools
 - [Hunt & Hackett; Concealed code TTP's/Detection](https://www.huntandhackett.com/blog/concealed-code-execution-techniques-and-detection) Covers common defense evasion techniques and how to detect them
 - [NCC Group; Detecting DNS Implants](https://research.nccgroup.com/2022/08/11/detecting-dns-implants-old-kitten-new-tricks-a-saitama-case-study/) Interesting TTP's leveraging DNS as a pure means of C2
@@ -119,6 +120,11 @@
 - [MalwareJake Presentation](https://github.com/malwarejake-public/conference-presentations/tree/main) Covers a number of topics
 - [Degrading MS Defender](https://www.blackhat.com/docs/eu-17/materials/eu-17-Thompson-Red-Team-Techniques-For-Evading-Bypassing-And-Disabling-MS-Advanced-Threat-Protection-And-Advanced-Threat-Analytics.pdf) Presentation about circumventing Microsoft Defender
 - [Actual MFA bypass techniques](https://medium.com/proferosec-osm/multi-factor-authentication-in-the-wild-bypass-methods-689f53f0b62b) Discusses In-The-Wild MFA bypass methods
+- [Jupyter Notebooks from Sigma Rules to Query Elasticsearch](https://medium.com/threat-hunters-forge/jupyter-notebooks-from-sigma-rules-%EF%B8%8F-to-query-elasticsearch-31a74cc59b99) Guide on converting Sigma rules to Elasticsearch queries using Jupyter notebooks
+- [Cloud DFIR: EKS Takeover Case Study](https://medium.com/@adammesser_51095/cloud-digital-forensics-and-incident-response-elastic-kubernetes-service-takeover-leads-to-9553c5424df5) Cloud digital forensics and incident response in Elastic Kubernetes Service environment
+- [The Rise of Malware Mainstream Acceptance](https://malwaresourcecode.com/home/my-projects/write-ups/the-rise-of-malware-mainstream-acceptance-and-popularity-is-thanks-to-the-government) Discussion on malware's evolution and government involvement
+- [Methodology for GenAI Workload IR](https://aws.amazon.com/blogs/security/methodology-for-incident-response-on-generative-ai-workloads/) AWS methodology for incident response on generative AI workloads
+- [Adversarial Machine Learning Paper](https://arxiv.org/pdf/2212.10496) Academic paper on adversarial machine learning and security implications
 
 
 ## Research-Resources
@@ -142,6 +148,8 @@
 - [Zoomeye](https://www.zoomeye.org/) 
 - [Spyse](https://spyse.com/) 
 - [Web Check](https://github.com/lissy93/web-check) Insight into the inner-workings of a given website
+- [Juniverse](https://juniverse.securitybreak.io/) Security knowledge base and research platform
+- [Attack Rule Map](https://attackrulemap.netlify.app/) Interactive visualization of MITRE ATT&CK techniques mapped to detection rules
 
 ### Cyber-Threat-Intelligence-Dump
 - [Unit 42 Atom](https://unit42.paloaltonetworks.com/atoms/) Threat group information
@@ -181,6 +189,10 @@
 - [ForensicMethods](https://www.forensicmethods.com/home) Archive of computer forensic information
 - [IMFSecurity](https://www.imfsecurity.com/) Good resources to dig through
 - [Azure Training](https://github.com/johnthebrit/CertificationMaterials) A collection of materials related to "JohntheBrit" certification videos
+- [LogHub](https://github.com/logpai/loghub) Large collection of system log datasets for AI-driven log analytics research
+- [CSI Linux Academy](https://csilinux.com/academy.html) Free OSINT, DFIR, and cybersecurity training courses
+- [ICS PCAP Collection](https://github.com/automayt/ICS-pcap) Collection of Industrial Control Systems (ICS) packet captures for analysis and research
+- [John Hammond YouTube](https://www.youtube.com/playlist?list=PLz61osc7c3OqQ_xBZJbzZdIkVd8HnxLmC) Comprehensive playlist of cybersecurity tutorials and walkthroughs
 
 ## Blue-Team-Resources
 - [EricZimmerman](https://github.com/EricZimmerman)
@@ -256,7 +268,7 @@
 - [Seatbelt](https://github.com/GhostPack/Seatbelt) Security oriented host-survey tool performing "safety checks" relevant from both offensive and defensive security perspectives
 - [Live-Forensicator](https://github.com/Johnng007/Live-Forensicator) Assist's responders in carrying out live forensic investigations
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) PowerShell Module for Threat Hunting via Windows Event Logs
-- [Chainsaw](https://github.com/countercept/chainsaw) Powerful ‘first-response’ capability to quickly identify threats within Windows event logs
+- [Chainsaw](https://github.com/countercept/chainsaw) Powerful 'first-response' capability to quickly identify threats within Windows event logs
 - [Google Rapid Response](https://github.com/google/grr) Python agent that is installed on target systems, and python server infrastructure that can manage and talk to clients
 - [PSHunt](https://github.com/Infocyte/PSHunt) Powershell Threat Hunting Module designed to scan remote endpoints
 - [PSRecon](https://github.com/gfoss/PSRecon) Gathers data from a remote Windows host using PowerShell
@@ -277,6 +289,8 @@
 - [BlockBlock](https://objective-see.com/products/blockblock.html) Monitors common persistence locations and alerts whenever a persistent component is added
 - [Santa](https://github.com/google/santa) Binary authorization system for macOS
 - [MalTrail](https://github.com/stamparm/maltrail) Malicious traffic detection system
+- [DetectIQ](https://github.com/AttackIQ/DetectIQ) Open-source threat detection validation framework that enables continuous validation of detection rules
+- [Galah](https://github.com/0x4D31/galah) LLM-powered web honeypot designed to mimic various web applications and dynamically respond to arbitrary HTTP requests
 
 ### Malware-Analysis
 - [Remnux](https://remnux.org/)
@@ -300,6 +314,7 @@
 - [CyLR](https://github.com/orlikoski/CyLR) Cold disk file collector
 - [Dissect](https://github.com/fox-it/dissect) Digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats
 - [Volatility](https://github.com/volatilityfoundation/volatility) Python tool used for the extraction of digital artifacts from volatile memory (RAM) samples
+
 ### Audit-Vulnerability
 - [nuclei](https://github.com/projectdiscovery/nuclei) Fast and customisable vulnerability scanner based on simple YAML based DSL
 - [Clair](https://github.com/quay/clair) Open source project for the static analysis of vulnerabilities in application containers
@@ -351,7 +366,7 @@ Cuckoo Sandbox from Zeek
 
 ### Command-and-Control
 - [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
-- [Cobalt Strike](https://www.cobaltstrike.com/) Post-exploitation agent and covert channels to emulate a quiet long-term embedded actor in your customer’s network
+- [Cobalt Strike](https://www.cobaltstrike.com/) Post-exploitation agent and covert channels to emulate a quiet long-term embedded actor in your customer's network
 - [Brute Ratel C4](https://bruteratel.com/) Customized Command and Control Center for Red Team and Adversary Simulation
 - [PoshC2](https://github.com/nettitude/PoshC2) Proxy aware C2 framework
 
@@ -395,7 +410,7 @@ Cuckoo Sandbox from Zeek
 - [TeamFiltration](https://github.com/Flangvik/TeamFiltration) Framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts
 - [cloudlist](https://github.com/projectdiscovery/cloudlist) Multi-cloud tool for getting Assets from Cloud Providers
 
-### AI Stuff
+## AI-Stuff
 - [ChatGPT](https://chat.openai.com/) 
 - [SlidesAI](https://www.slidesai.io/) Create Presentation Slides with AI in seconds
 - [Replit](https://replit.com/) Build software collaboratively with the power of AI
@@ -435,8 +450,3 @@ Cuckoo Sandbox from Zeek
 - [ATT&CK Pyton Client](https://github.com/OTRF/ATTACK-Python-Client) Python module to access up-to-date ATT&CK content
 - [SilkETW](https://github.com/mandiant/SilkETW) Collects, filters and processes Windows Event Tracing (ETW) data
 - [Ransomwatch](https://ransomwatch.telemetry.ltd/#/) Latest news on ransomware related posts
-
-
-
-
-
