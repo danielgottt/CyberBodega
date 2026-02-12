@@ -160,11 +160,12 @@
 
 ### 📝 Write-ups
 - [Unit 42](https://unit42.paloaltonetworks.com/) Palo Alto Networks threat intelligence and research
-- [Google Security Blog](https://security.googleblog.com/) Latest news and insights from Google security team
+- [Google Intel/Mandiant](https://cloud.google.com/blog/topics/threat-intelligence) Latest news and insights from Google security team -- Really just Mandiant
 - [Trellix Blog](https://www.trellix.com/en-us/about/newsroom/stories.html) Cybersecurity threat research and news from Trellix
 - [The DFIR Report](https://thedfirreport.com/) Real-world intrusion analysis and incident response reports
 - [Sophos X-Ops](https://news.sophos.com/en-us/tag/sophos-x-ops/) Threat intelligence and research from Sophos security teams
 - [Intel471](https://intel471.com/blog/) Cyber threat intelligence focused on cybercrime
+- [WatchTowr Labs](https://labs.watchtowr.com/) Goated writeups
 
 ### 🔍 Research Sites
 - [Exploit DB](https://www.exploit-db.com/) Archive of exploits and vulnerable software
