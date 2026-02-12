@@ -18,7 +18,7 @@
 # <img src='https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat'/>
 
 ## 🏷️ Resource Tags
-- ![Open Source] - Open-source projects and tools
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) - Open-source projects and tools
 - ![Free](https://img.shields.io/badge/-Free-blue) - Free resources (may require registration)
 - ![Freemium](https://img.shields.io/badge/-Freemium-yellow) - Free tier available with paid options
 - ![Paid](https://img.shields.io/badge/-Paid-red) - Paid/commercial resources
