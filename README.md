@@ -56,7 +56,7 @@
 ---
 
 ## Quick Links
-- [RSS Feed]([https://www.netvibes.com/gottcyber1#News](https://start.me/p/wMrA5z/cyber-threat-intelligence)) Conglomeration of InfoSec RSS feeds
+- [RSS Feed](https://start.me/p/wMrA5z/cyber-threat-intelligence) Conglomeration of InfoSec RSS feeds
 
 ---
 
