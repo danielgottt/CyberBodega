@@ -18,41 +18,46 @@
 # <img src='https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat'/>
 
 # Contents
-- [Quick-Links](#quick-links)
-- [Infosec-News](#infosec-news)
-- [Interesting-Articles-Videos](#interesting-articles-videos)
-- [Research-Resources](#research-resources)
+- [🔗 Quick Links](#quick-links)
+- [📰 InfoSec News](#infosec-news)
+- [📚 Interesting Articles & Videos](#interesting-articles-videos)
+- [🔬 Research Resources](#research-resources)
   - [Write-ups](#write-ups)
-  - [Research-Sites](#research-sites)
-  - [Cyber-Threat-Intelligence-Dump](#Cyber-Threat-Intelligence-Dump)
-- [Training-Resources](#training-resources)
-- [Blue-Team-Resources](#blue-team-resources)
+  - [Research Sites](#research-sites)
+  - [Cyber Threat Intelligence](#cyber-threat-intelligence-dump)
+- [🎓 Training Resources](#training-resources)
+- [🛡️ Blue Team Resources](#blue-team-resources)
   - [Utility](#utility)
-  - [Network-Analysis](#network-analysis)
-  - [Host-Analysis](#host-analysis)
-  - [Host-Network-Analysis](#host-network-analysis)
+  - [Network Analysis](#network-analysis)
+  - [Host Analysis](#host-analysis)
   - [Detection](#detection)
-  - [Malware-Analysis](#malware-analysis)
+  - [Malware Analysis](#malware-analysis)
   - [Forensics](#forensics)
-  - [Audit-Vulnerability](#audit-vulnerability)
-    - [Malware-IOC-Detection-Data-Dumps](#malware-ioc-detection-data-dumps)
-  - [blue-bin](#blue-bin)
-- [Purple-Red-Team-Resources](#purple-red-team-resources)
-  - [Command-and-Control](#command-and-control)
-  - [Recon](#recon)
-  - [Password-Tools](#password-tools)
-  - [red-bin](#red-bin)
-- [Cloud-Things](#cloud-things)
-  - [tools](#tools)
-- [AI-Stuff](#ai-stuff)
-- [Awesome-Lists](#awesome-lists)
-- [Dump](#dump)
+  - [Audit & Vulnerability](#audit-vulnerability)
+    - [Malware IOC Detection Data Dumps](#malware-ioc-detection-data-dumps)
+  - [Blue Bin](#blue-bin)
+- [⚔️ Purple/Red Team Resources](#purple-red-team-resources)
+  - [Command & Control](#command-and-control)
+  - [Reconnaissance](#recon)
+  - [Password Tools](#password-tools)
+  - [Red Bin](#red-bin)
+- [☁️ Cloud Security](#cloud-things)
+  - [Tools](#tools)
+- [🤖 AI/ML Security](#ai-stuff)
+- [⭐ Awesome Lists](#awesome-lists)
+- [📦 Resource Dump](#dump)
 
-## Quick-Links
+---
+
+## Quick Links
 - [RSS/Twitter-Feed](https://www.netvibes.com/gottcyber1#News) Conglomeration of InfoSec RSS feeds
 - [TweetDeck](https://tweetdeck.twitter.com/) Twitter has useful information? YEP
 
-## Infosec-News
+---
+
+## 📰 InfoSec News
+> *Stay updated with the latest security news and research*
+
 - [All InfoSec News](https://allinfosecnews.com/) An InfoSec & Cyber news aggregator
 - [Security Soup](https://security-soup.net/) Infosec news, commentary, and research
 - [Threatpost](https://threatpost.com/) Supposedly the first stop for security news
@@ -74,7 +79,11 @@
 - [Opalsec](https://opalsec.substack.com/) Security newsletter and research insights
 - [CISA Cybersecurity Advisories](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a) Latest cybersecurity advisories and alerts from CISA
 
-## Interesting-Articles-Videos
+---
+
+## 📚 Interesting Articles & Videos
+> *Deep dives, research papers, and educational content*
+
 - [vx-underground](https://www.vx-underground.org/) Really anything from here is pretty sweet
 - [Cyb3rWard0g's Lab⭐](https://cyberwardog.blogspot.com/2017/02/setting-up-pentesting-i-mean-threat.html) Step by step guide on creating a lab enviorment in ESXi
 - [SANS Reading Room](https://www.sans.org/white-papers/) See what white papers are top of mind for the SANS community
@@ -140,8 +149,11 @@
 - [ACM Digital Library - Cyber Research](https://dl.acm.org/doi/pdf/10.1145/3610772) Academic research on cybersecurity topics
 
 
-## Research-Resources
-### Write-ups
+---
+
+## 🔬 Research Resources
+
+### 📝 Write-ups
 - [Unit 42](https://unit42.paloaltonetworks.com/) Palo Alto Networks threat intelligence and research
 - [Google Security Blog](https://security.googleblog.com/) Latest news and insights from Google security team
 - [Trellix Blog](https://www.trellix.com/en-us/about/newsroom/stories.html) Cybersecurity threat research and news from Trellix
@@ -149,7 +161,7 @@
 - [Sophos X-Ops](https://news.sophos.com/en-us/tag/sophos-x-ops/) Threat intelligence and research from Sophos security teams
 - [Intel471](https://intel471.com/blog/) Cyber threat intelligence focused on cybercrime
 
-### Research-Sites
+### 🔍 Research Sites
 - [Exploit DB](https://www.exploit-db.com/) Archive of exploits and vulnerable software
 - [Shodan](https://www.shodan.io/) Search engine for Internet-connected devices 
 - [National Vulnerability Database](https://nvd.nist.gov/) US government repository of standards-based vulnerability data
@@ -169,7 +181,7 @@
 - [The Evidence Locker](https://theevidencelocker.github.io/) Digital forensics evidence repository and resources
 - [Triage.zip](https://triage.zip/) Incident triage and analysis resources
 
-### Cyber-Threat-Intelligence-Dump
+### 🎯 Cyber Threat Intelligence
 - [Unit 42 Atom](https://unit42.paloaltonetworks.com/atoms/) Threat group information
 - [CrowdStrike Adversary](https://adversary.crowdstrike.com/en-US/) APT/Adversary group list
 - [SOC Radar](https://labs.socradar.com/apt-feeds/) APT IoC feeds from several public and private sources and sensors
@@ -187,7 +199,11 @@
 - [Alienvault OTX Groups](https://otx.alienvault.com/browse/global/adversaries?include_inactive=0&sort=-modified&page=1) AlienVault open threat exchange
 - [Unit 42 Playbooks](https://pan-unit42.github.io/playbook_viewer/) Playbooks for certain threat groups
 
-## Training-Resources
+---
+
+## 🎓 Training Resources
+> *Free courses, labs, and hands-on learning platforms*
+
 - [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) BlueYard - BlueTeam Challenges
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/) Infected PCAP's for review
 - [EVTX/PCAP Attack Samples](https://github.com/sbousseaden/) Infected PCAP's and EVTX logs for review
@@ -214,9 +230,16 @@
 - [AWS Certified Security Specialty Course](https://cybr.com/courses/aws-certified-security-specialty-scs-c02-course/) Free AWS security certification training course
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) Comprehensive course on Large Language Models
 
-## Blue-Team-Resources
+---
+
+## 🛡️ Blue Team Resources
+> *Defensive security tools and resources*
+
+**Quick Navigation:** [Utility](#utility) | [Network Analysis](#network-analysis) | [Host Analysis](#host-analysis) | [Detection](#detection) | [Malware Analysis](#malware-analysis) | [Forensics](#forensics)
+
 - [EricZimmerman](https://github.com/EricZimmerman) Collection of forensics and incident response tools
-### Utility
+
+### 🔧 Utility
 - [Cyber Chef](https://gchq.github.io/CyberChef/) Web app for analysing and decoding data
 - [Cyber Chef Recipes](https://github.com/mattnotmax/cyberchef-recipes) A list of cyber-chef recipes and curated links
 - [LOLBAS](https://lolbas-project.github.io/) Windows LOLBins and how they are abused
@@ -267,7 +290,7 @@
 - [Splunk CI/CD Detection Engineering](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-security-content-part-1.html) Guide to implementing CI/CD for detection engineering
 - [Package Inferno](https://github.com/MHaggis/Package-Inferno) PowerShell package analysis and security tool
 
-### Network-Analysis
+### 🌐 Network Analysis
 - [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
 - [Wireshark](https://www.wireshark.org/) Tride and true network protocol analyzer
 - [Zeek](https://zeek.org/) An Open Source Network Security Monitoring Tool
@@ -284,7 +307,7 @@
 - [SELKS](https://github.com/StamusNetworks/SELKS) Open source Debian-based IDS/IPS/Network Security Monitoring platform
 - [SiLK](https://tools.netsa.cert.org/silk/) Collection of traffic analysis tools
 
-### Host-Analysis
+### 💻 Host Analysis
 - [Velociraptor](https://github.com/Velocidex/velociraptor) Tool for collecting host based state information using The Velociraptor Query Language (VQL) queries
 - [Hayabusa](https://github.com/Yamato-Security/hayabusa) Windows event log fast forensics timeline generator and threat hunting tool (Sigma compatible)
 - [Osquery](https://osquery.io/) Tool that provides performant endpoint visibility
@@ -304,10 +327,7 @@
 - [Sysmon4Linux](https://github.com/Sysinternals/SysmonForLinux) The sysmon you love for a flavor of nix
 - [Dissect](https://github.com/fox-it/dissect) Digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats
 
-### Host-Network-Analysis
-- [DARKSURGEON](https://github.com/cryps1s/DARKSURGEON) Windows packer project to empower incident response, digital forensics, malware analysis, and network defense
-
-### Detection
+### 🔍 Detection
 - [Sigma](https://github.com/SigmaHQ/sigma/blob/master/README.md) Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward manner
 - [Yara](https://yara.readthedocs.io) Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples
 - [Snort](https://snort.org/) Open source intrusion prevention and detection system
@@ -318,7 +338,7 @@
 - [DetectIQ](https://github.com/AttackIQ/DetectIQ) Open-source threat detection validation framework that enables continuous validation of detection rules
 - [Galah](https://github.com/0x4D31/galah) LLM-powered web honeypot designed to mimic various web applications and dynamically respond to arbitrary HTTP requests
 
-### Malware-Analysis
+### 🦠 Malware Analysis
 - [Remnux](https://remnux.org/) Linux toolkit for reverse-engineering and analyzing malicious software
 - [Tools by hasherezade](https://hasherezade.github.io/) Linux toolkit for reverse-engineering and analyzing malicious software
 - [IDA](https://hex-rays.com/ida-free/) Binary code analysis tool
@@ -336,12 +356,12 @@
 - [Malcat](https://malcat.fr/) Feature-rich hexadecimal editor / disassembler for Windows and Linux
 - [malwoverview](https://github.com/alexandreborges/malwoverview) First response tool used for threat hunting and offers intel information from OSINT sites
 
-### Forensics
+### 🔬 Forensics
 - [CyLR](https://github.com/orlikoski/CyLR) Cold disk file collector
 - [Dissect](https://github.com/fox-it/dissect) Digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats
 - [Volatility](https://github.com/volatilityfoundation/volatility) Python tool used for the extraction of digital artifacts from volatile memory (RAM) samples
 
-### Audit-Vulnerability
+### 🔐 Audit & Vulnerability
 - [nuclei](https://github.com/projectdiscovery/nuclei) Fast and customisable vulnerability scanner based on simple YAML based DSL
 - [Clair](https://github.com/quay/clair) Open source project for the static analysis of vulnerabilities in application containers
 - [Chef InSpec](https://www.inspec.io/?azure-portal=true) Audit and automated testing framework
@@ -349,7 +369,7 @@
 - [VulnWhisperer](https://github.com/HASecuritySolutions/VulnWhisperer) Vulnerability management tool and report aggregator
 - [OpenVAS](https://www.openvas.org/) Full-featured vulnerability scanner
 
-#### Malware-IOC-Detection-Data-Dumps
+#### 📊 Malware IOC Detection Data Dumps
 - [vx-underground samples](https://samples.vx-underground.org/samples/Families/) The largest collection of malware source code, samples, and papers on the internet
 - [jstrosch Samples](https://github.com/jstrosch/malware-samples) Repository intended to provide access to a wide variety of malicious files and other artifacts
 - [DigitalSide Threat-Intel Repo](https://osint.digitalside.it/) Repository that contains a set of Open Source Cyber Threat Intellegence information
@@ -360,12 +380,20 @@
 - [Virustotal Yara](https://github.com/VirusTotal/yara) VirusTotal's YARA rule repository
 - [Florian Roth](https://github.com/Neo23x0/signature-base) Signature base for YARA, Sigma and IOC scanners
 
-### blue bin
+### 🧰 Blue Bin
+> *Miscellaneous blue team tools and scripts*
+
 - [Zeek to Cuckoo](https://github.com/HASecuritySolutions/zeek_to_cuckoo/blob/master/zeek_to_cuckoo.py) Automating file extraction submission and analysis to
 Cuckoo Sandbox from Zeek
 - [Ox4Shell](https://github.com/ox-eye/Ox4Shell) De-obfuscate Log4Shell payloads
 
-## Purple-Red-Team-Resources
+---
+
+## ⚔️ Purple/Red Team Resources
+> *Offensive security tools and adversary simulation*
+
+**Quick Navigation:** [Command & Control](#command-and-control) | [Reconnaissance](#recon) | [Password Tools](#password-tools)
+
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework) An exploit framework
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) A Windows Batch script that creates files to make a system look as if it was compromised
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team/) Library of tests mapped to the MITRE ATT&CK® framework
@@ -390,13 +418,13 @@ Cuckoo Sandbox from Zeek
 - [Invoke-Powershell](https://github.com/CyberMonitor/Invoke-Adversary) PowerShell script that helps you to evaluate security products and monitoring solutions
 - [DSInternals](https://github.com/MichaelGrafnetter/DSInternals) Active directory PowerShell Module and Framework
 
-### Command-and-Control
+### 🎮 Command & Control
 - [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
 - [Cobalt Strike](https://www.cobaltstrike.com/) Post-exploitation agent and covert channels to emulate a quiet long-term embedded actor in your customer's network
 - [Brute Ratel C4](https://bruteratel.com/) Customized Command and Control Center for Red Team and Adversary Simulation
 - [PoshC2](https://github.com/nettitude/PoshC2) Proxy aware C2 framework
 
-### Recon
+### 🔭 Reconnaissance
 - [Photon Crawler](https://github.com/s0md3v/Photon) Incredibly fast crawler designed for OSINT
 - [Subcrawl](https://github.com/hpthreatresearch/subcrawl) Developed to find, scan and analyze open directories
 - [subfinder](https://github.com/projectdiscovery/subfinder) Fast passive subdomain enumeration tool
@@ -412,14 +440,16 @@ Cuckoo Sandbox from Zeek
 - [OsintUI](https://github.com/wssheldon/osintui) OSINT from your favorite services in a friendly terminal user interface
 - [ExchangeFinder](https://github.com/mhaskar/ExchangeFinder) Find Microsoft Exchange instance for a given domain and identify the exact version
 
-### Password-Tools
+### 🔑 Password Tools
 - [Cain & Abel](https://web.archive.org/web/20160214132154/http://www.oxid.it/cain.html) Password recovery tool for Microsoft Operating Systems
 - [Hashcat](https://hashcat.net/hashcat/) Advanced password recovery tool for most operating systems
 - [John](https://www.openwall.com/john/) Open Source password security auditing and password recovery tool
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) Extract plaintexts passwords, hashs, PIN codes and kerberos tickets from memory
 - [LaZange](https://github.com/AlessandroZ/LaZagne) Credentials recovery project
 
-### red bin
+### 🧰 Red Bin
+> *Miscellaneous red team tools and payloads*
+
 - [NYAN-x-CAT Repo](https://github.com/NYAN-x-CAT) All of your RAT needs
 - [Sulealothman Repo](https://github.com/sulealothman/MysteryLegacyPenetrationTools) Legacy penetration tools
 - [Matterpreter Repo](https://github.com/matterpreter?tab=repositories) Payload gen
@@ -427,21 +457,33 @@ Cuckoo Sandbox from Zeek
 - [COMProxy](https://github.com/leoloobeek/COMProxy) A COM client and server for testing COM hijack proxying
 - [ysoserial](https://github.com/frohoff/ysoserial) PoC tool for generating payloads that exploit unsafe Java object deserialization
 
-## Cloud-Things
+---
+
+## ☁️ Cloud Security
+> *Cloud-specific security tools and resources*
+
 - [Azure AD IR Guide](https://misconfig.io/azure-ad-incident-response-life-cycle-tools/) Azure Active Directory incident response lifecycle and tools
 - [O365 Attack Toolkit](https://github.com/david-burkett/o365-attack-toolkit) Office 365 security testing toolkit
 
-### Tools
+### 🛠️ Tools
 - [Basic Blob Finder](https://github.com/joswr1ght/basicblobfinder) POC tool to hunt for public Azure storage containers and enumerate the blobs
 - [TeamFiltration](https://github.com/Flangvik/TeamFiltration) Framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts
 - [cloudlist](https://github.com/projectdiscovery/cloudlist) Multi-cloud tool for getting Assets from Cloud Providers
 
-## AI-Stuff
+---
+
+## 🤖 AI/ML Security
+> *AI-powered security tools and machine learning resources*
+
 - [ChatGPT](https://chat.openai.com/) AI language model for various tasks including code generation and analysis 
 - [SlidesAI](https://www.slidesai.io/) Create Presentation Slides with AI in seconds
 - [Replit](https://replit.com/) Build software collaboratively with the power of AI
 
-## Awesome-Lists
+---
+
+## ⭐ Awesome Lists
+> *Curated collections of security resources*
+
 - [Master List of all Awesome Distros](https://github.com/sindresorhus/awesome) Curated list of awesome lists on GitHub
 - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) Collection of threat detection and hunting resources
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) Curated list of threat intelligence resources
@@ -465,7 +507,11 @@ Cuckoo Sandbox from Zeek
 - [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic) Tools and techniques for anti-forensics
 - [Awesome Security Talks and Videos](https://github.com/PaulSec/awesome-sec-talks) Curated list of security conference talks
 
-## Dump
+---
+
+## 📦 Resource Dump
+> *Miscellaneous tools and resources*
+
 - [Pexpect](https://github.com/pexpect/pexpect) Python module for spawning child applications; controlling them; and responding to expected patterns in their output
 - [Unofficial OSCP Tool Distro](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707) List of approved tools for OSCP exam preparation
 - [Florian Roth's BlueLedger](https://github.com/Neo23x0/BlueLedger) A list of some interesting community support projects
