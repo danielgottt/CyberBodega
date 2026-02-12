@@ -56,8 +56,7 @@
 ---
 
 ## Quick Links
-- [RSS/Twitter-Feed](https://www.netvibes.com/gottcyber1#News) Conglomeration of InfoSec RSS feeds
-- [TweetDeck](https://tweetdeck.twitter.com/) Twitter has useful information? YEP
+- [RSS Feed]([https://www.netvibes.com/gottcyber1#News](https://start.me/p/wMrA5z/cyber-threat-intelligence)) Conglomeration of InfoSec RSS feeds
 
 ---
 
@@ -297,52 +296,53 @@
 - [Package Inferno](https://github.com/MHaggis/Package-Inferno) PowerShell package analysis and security tool
 
 ### 🌐 Network Analysis
-- [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
-- [Wireshark](https://www.wireshark.org/) Tride and true network protocol analyzer
-- [Zeek](https://zeek.org/) An Open Source Network Security Monitoring Tool
-- [Google Stenographer](https://github.com/google/stenographer) Stenographer is a full-packet-capture utility for buffering packets to disk. Allows you to rip out 
-- [PcapXray](https://github.com/Srinivas11789/PcapXray) A tool to visualize Packet Capture offline as a Network Diagram
-- [RITA](https://www.activecountermeasures.com/free-tools/rita/) Open-source framework for detecting command and control communication through network traffic analysis
-- [Whats that C2/Exfil?](https://github.com/silence-is-best/c2db) Github repo full of known c2 and exfil traffic keywords 
-- [Incubating](https://github.com/apache/incubator-spot) Open source software for leveraging insights from flow and packet analysis
-- [Network Miner](https://www.netresec.com/?page=networkminer) Open source Network Forensic Analysis Tool
-- [VAST](https://github.com/tenzir/vast) Network telemetry engine for data-driven security investigations
-- [NetSniff](http://netsniff-ng.org/) Free Linux networking toolkit
-- [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) A tool to catch spoofed NBNS responses
-- [Grass Marlin🦅](https://github.com/nsacyber/GRASSMARLIN) Network situational awareness of ICS and SCADA networks
-- [SELKS](https://github.com/StamusNetworks/SELKS) Open source Debian-based IDS/IPS/Network Security Monitoring platform
-- [SiLK](https://tools.netsa.cert.org/silk/) Collection of traffic analysis tools
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Arkime](https://github.com/arkime) Open source full packet capturing, indexing and database system. It rebuilds sessions automatically!
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Wireshark](https://www.wireshark.org/) Tride and true network protocol analyzer
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Zeek](https://zeek.org/) An Open Source Network Security Monitoring Tool
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Google Stenographer](https://github.com/google/stenographer) Stenographer is a full-packet-capture utility for buffering packets to disk. Allows you to rip out 
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [PcapXray](https://github.com/Srinivas11789/PcapXray) A tool to visualize Packet Capture offline as a Network Diagram
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [RITA](https://www.activecountermeasures.com/free-tools/rita/) Open-source framework for detecting command and control communication through network traffic analysis
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Whats that C2/Exfil?](https://github.com/silence-is-best/c2db) Github repo full of known c2 and exfil traffic keywords 
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Incubating](https://github.com/apache/incubator-spot) Open source software for leveraging insights from flow and packet analysis
+- ![Free](https://img.shields.io/badge/-Free-blue) [Network Miner](https://www.netresec.com/?page=networkminer) Open source Network Forensic Analysis Tool
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [VAST](https://github.com/tenzir/vast) Network telemetry engine for data-driven security investigations
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [NetSniff](http://netsniff-ng.org/) Free Linux networking toolkit
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) A tool to catch spoofed NBNS responses
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Grass Marlin🦅](https://github.com/nsacyber/GRASSMARLIN) Network situational awareness of ICS and SCADA networks
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [SELKS](https://github.com/StamusNetworks/SELKS) Open source Debian-based IDS/IPS/Network Security Monitoring platform
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [SiLK](https://tools.netsa.cert.org/silk/) Collection of traffic analysis tools
 
 ### 💻 Host Analysis
-- [Velociraptor](https://github.com/Velocidex/velociraptor) Tool for collecting host based state information using The Velociraptor Query Language (VQL) queries
-- [Hayabusa](https://github.com/Yamato-Security/hayabusa) Windows event log fast forensics timeline generator and threat hunting tool (Sigma compatible)
-- [Osquery](https://osquery.io/) Tool that provides performant endpoint visibility
-- [Sysinternalsuite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) Suite of tools providing a multitude of capabiltiies for defenders or attackers
-- [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) Scans for accessibility tools backdoors via RDP
-- [CimSweep](https://github.com/PowerShellMafia/CimSweep) Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely
-- [Seatbelt](https://github.com/GhostPack/Seatbelt) Security oriented host-survey tool performing "safety checks" relevant from both offensive and defensive security perspectives
-- [Live-Forensicator](https://github.com/Johnng007/Live-Forensicator) Assist's responders in carrying out live forensic investigations
-- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) PowerShell Module for Threat Hunting via Windows Event Logs
-- [Chainsaw](https://github.com/countercept/chainsaw) Powerful 'first-response' capability to quickly identify threats within Windows event logs
-- [Google Rapid Response](https://github.com/google/grr) Python agent that is installed on target systems, and python server infrastructure that can manage and talk to clients
-- [PSHunt](https://github.com/Infocyte/PSHunt) Powershell Threat Hunting Module designed to scan remote endpoints
-- [PSRecon](https://github.com/gfoss/PSRecon) Gathers data from a remote Windows host using PowerShell
-- [Redline](https://fireeye.market/apps/211364) Free EDR, thats pretty cool
-- [Power Forensics](https://github.com/Invoke-IR/PowerForensics) Inclusive framework for hard drive forensic analysis
-- [Block Parse](https://github.com/matthewdunwoody/block-parser) PowerShell script block parser
-- [Sysmon4Linux](https://github.com/Sysinternals/SysmonForLinux) The sysmon you love for a flavor of nix
-- [Dissect](https://github.com/fox-it/dissect) Digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Velociraptor](https://github.com/Velocidex/velociraptor) Tool for collecting host based state information using The Velociraptor Query Language (VQL) queries
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Hayabusa](https://github.com/Yamato-Security/hayabusa) Windows event log fast forensics timeline generator and threat hunting tool (Sigma compatible)
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Osquery](https://osquery.io/) Tool that provides performant endpoint visibility
+- ![Free](https://img.shields.io/badge/-Free-blue) [Sysinternalsuite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) Suite of tools providing a multitude of capabiltiies for defenders or attackers
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) Scans for accessibility tools backdoors via RDP
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [CimSweep](https://github.com/PowerShellMafia/CimSweep) Suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Seatbelt](https://github.com/GhostPack/Seatbelt) Security oriented host-survey tool performing "safety checks" relevant from both offensive and defensive security perspectives
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Live-Forensicator](https://github.com/Johnng007/Live-Forensicator) Assist's responders in carrying out live forensic investigations
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) PowerShell Module for Threat Hunting via Windows Event Logs
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Chainsaw](https://github.com/countercept/chainsaw) Powerful 'first-response' capability to quickly identify threats within Windows event logs
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Google Rapid Response](https://github.com/google/grr) Python agent that is installed on target systems, and python server infrastructure that can manage and talk to clients
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [PSHunt](https://github.com/Infocyte/PSHunt) Powershell Threat Hunting Module designed to scan remote endpoints
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [PSRecon](https://github.com/gfoss/PSRecon) Gathers data from a remote Windows host using PowerShell
+- ![Free](https://img.shields.io/badge/-Free-blue) [Redline](https://fireeye.market/apps/211364) Free EDR, thats pretty cool
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Power Forensics](https://github.com/Invoke-IR/PowerForensics) Inclusive framework for hard drive forensic analysis
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Block Parse](https://github.com/matthewdunwoody/block-parser) PowerShell script block parser
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Sysmon4Linux](https://github.com/Sysinternals/SysmonForLinux) The sysmon you love for a flavor of nix
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Dissect](https://github.com/fox-it/dissect) Digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats
 
 ### 🔍 Detection
-- [Sigma](https://github.com/SigmaHQ/sigma/blob/master/README.md) Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward manner
-- [Yara](https://yara.readthedocs.io) Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples
-- [Snort](https://snort.org/) Open source intrusion prevention and detection system
-- [Suricata](https://suricata.readthedocs.io) High performance Network IDS, IPS and Network Security Monitoring engine
-- [BlockBlock](https://objective-see.com/products/blockblock.html) Monitors common persistence locations and alerts whenever a persistent component is added
-- [Santa](https://github.com/google/santa) Binary authorization system for macOS
-- [MalTrail](https://github.com/stamparm/maltrail) Malicious traffic detection system
-- [DetectIQ](https://github.com/AttackIQ/DetectIQ) Open-source threat detection validation framework that enables continuous validation of detection rules
-- [Galah](https://github.com/0x4D31/galah) LLM-powered web honeypot designed to mimic various web applications and dynamically respond to arbitrary HTTP requests
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Sigma](https://github.com/SigmaHQ/sigma/blob/master/README.md) Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward manner
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Yara](https://yara.readthedocs.io) Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Snort](https://snort.org/) Open source intrusion prevention and detection system
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Suricata](https://suricata.readthedocs.io) High performance Network IDS, IPS and Network Security Monitoring engine
+- ![Free](https://img.shields.io/badge/-Free-blue) [BlockBlock](https://objective-see.com/products/blockblock.html) Monitors common persistence locations and alerts whenever a persistent component is added
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Santa](https://github.com/google/santa) Binary authorization system for macOS
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [MalTrail](https://github.com/stamparm/maltrail) Malicious traffic detection system
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [DetectIQ](https://github.com/AttackIQ/DetectIQ) Open-source threat detection validation framework that enables continuous validation of detection rules
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Galah](https://github.com/0x4D31/galah) LLM-powered web honeypot designed to mimic various web applications and dynamically respond to arbitrary HTTP requests
+- ![Free](https://img.shields.io/badge/-Free-blue) [Detections.ai](https://detections.ai/rules/0199e9af-f74f-72b5-afb2-466ee04b33bf) Community-driven detection rules and threat hunting queries
 
 ### 🦠 Malware Analysis
 - ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Remnux](https://remnux.org/) Linux toolkit for reverse-engineering and analyzing malicious software
@@ -361,11 +361,12 @@
 - ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Cuckoo Sandbox](https://cuckoosandbox.org/) Leading open source automated malware analysis system
 - ![Freemium](https://img.shields.io/badge/-Freemium-yellow) [Malcat](https://malcat.fr/) Feature-rich hexadecimal editor / disassembler for Windows and Linux
 - ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [malwoverview](https://github.com/alexandreborges/malwoverview) First response tool used for threat hunting and offers intel information from OSINT sites
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [unblob](https://github.com/onekey-sec/unblob) Extract files from any kind of container formats, filesystems, and firmware
 
 ### 🔬 Forensics
-- [CyLR](https://github.com/orlikoski/CyLR) Cold disk file collector
-- [Dissect](https://github.com/fox-it/dissect) Digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats
-- [Volatility](https://github.com/volatilityfoundation/volatility) Python tool used for the extraction of digital artifacts from volatile memory (RAM) samples
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [CyLR](https://github.com/orlikoski/CyLR) Cold disk file collector
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Dissect](https://github.com/fox-it/dissect) Digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Volatility](https://github.com/volatilityfoundation/volatility) Python tool used for the extraction of digital artifacts from volatile memory (RAM) samples
 
 ### 🔐 Audit & Vulnerability
 - [nuclei](https://github.com/projectdiscovery/nuclei) Fast and customisable vulnerability scanner based on simple YAML based DSL
@@ -400,29 +401,29 @@ Cuckoo Sandbox from Zeek
 
 **Quick Navigation:** [Command & Control](#command-and-control) | [Reconnaissance](#recon) | [Password Tools](#password-tools)
 
-- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) An exploit framework
-- [APTSimulator](https://github.com/NextronSystems/APTSimulator) A Windows Batch script that creates files to make a system look as if it was compromised
-- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team/) Library of tests mapped to the MITRE ATT&CK® framework
-- [Metta](https://github.com/uber-common/metta) Adversary simulation tool
-- [Network Flight Simulator](https://github.com/alphasoc/flightsim) Lightweight utility used to generate malicious network traffic
-- [Cladera Framework](https://github.com/mitre/caldera) Platform designed to easily automate adversary emulation, assist manual red-teams, and automate incident response
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) Collection of Microsoft PowerShell module's to aid in multiple phases of an assessment
-- [Impacket](https://github.com/SecureAuthCorp/impacket) Impacket is a collection of Python classes for working with network protocols
-- [sqlmap](https://github.com/sqlmapproject/sqlmap) Open source tool that automates the process of detecting and exploiting SQL injection flaws
-- [Silver](https://github.com/BishopFox/sliver) Open source cross-platform adversary emulation/red team framework
-- [Gobuster](https://github.com/OJ/gobuster) Gobuster is a tool used to brute-force subdomains, website URI's, open S3 buckets and more
-- [Exegol](https://github.com/ShutdownRepo/Exegol) Exegol is a community-driven hacking environment, powerful and yet simple enough to be used by anyone in day to day engagements
-- [EmpireProject](https://github.com/EmpireProject) Empire is a post-exploitation framework, which is sadly not maintained anymore
-- [Reubeus](https://github.com/GhostPack/Rubeus) Rubeus is a C# toolset for raw Kerberos interaction and abuses
-- [Responder](https://github.com/lgandx/Responder) Responder is an LLMNR, NBT-NS and MDNS poisoner
-- [Inveigh](https://github.com/Kevin-Robertson/Inveigh) Inveigh is a cross-platform .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers
-- [ExploitDB](https://github.com/offensive-security/exploitdb) Archive of public exploits and corresponding vulnerable software
-- [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) Tool used for building repeatable, time-delayed, and distributed security events
-- [Stratus Red Team](https://stratus-red-team.cloud/) Essentially Atmoic red team, but focused on cloud
-- [RTA](https://github.com/endgameinc/RTA) Framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft
-- [Infection Monkey](https://github.com/guardicore/monkey) Open source security tool for testing resiliency on perimeter breaches and internal server infection
-- [Invoke-Powershell](https://github.com/CyberMonitor/Invoke-Adversary) PowerShell script that helps you to evaluate security products and monitoring solutions
-- [DSInternals](https://github.com/MichaelGrafnetter/DSInternals) Active directory PowerShell Module and Framework
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Metasploit Framework](https://github.com/rapid7/metasploit-framework) An exploit framework
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [APTSimulator](https://github.com/NextronSystems/APTSimulator) A Windows Batch script that creates files to make a system look as if it was compromised
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team/) Library of tests mapped to the MITRE ATT&CK® framework
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Metta](https://github.com/uber-common/metta) Adversary simulation tool
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Network Flight Simulator](https://github.com/alphasoc/flightsim) Lightweight utility used to generate malicious network traffic
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Cladera Framework](https://github.com/mitre/caldera) Platform designed to easily automate adversary emulation, assist manual red-teams, and automate incident response
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) Collection of Microsoft PowerShell module's to aid in multiple phases of an assessment
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Impacket](https://github.com/SecureAuthCorp/impacket) Impacket is a collection of Python classes for working with network protocols
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [sqlmap](https://github.com/sqlmapproject/sqlmap) Open source tool that automates the process of detecting and exploiting SQL injection flaws
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Silver](https://github.com/BishopFox/sliver) Open source cross-platform adversary emulation/red team framework
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Gobuster](https://github.com/OJ/gobuster) Gobuster is a tool used to brute-force subdomains, website URI's, open S3 buckets and more
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Exegol](https://github.com/ShutdownRepo/Exegol) Exegol is a community-driven hacking environment, powerful and yet simple enough to be used by anyone in day to day engagements
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [EmpireProject](https://github.com/EmpireProject) Empire is a post-exploitation framework, which is sadly not maintained anymore
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Reubeus](https://github.com/GhostPack/Rubeus) Rubeus is a C# toolset for raw Kerberos interaction and abuses
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Responder](https://github.com/lgandx/Responder) Responder is an LLMNR, NBT-NS and MDNS poisoner
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Inveigh](https://github.com/Kevin-Robertson/Inveigh) Inveigh is a cross-platform .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [ExploitDB](https://github.com/offensive-security/exploitdb) Archive of public exploits and corresponding vulnerable software
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) Tool used for building repeatable, time-delayed, and distributed security events
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Stratus Red Team](https://stratus-red-team.cloud/) Essentially Atmoic red team, but focused on cloud
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [RTA](https://github.com/endgameinc/RTA) Framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Infection Monkey](https://github.com/guardicore/monkey) Open source security tool for testing resiliency on perimeter breaches and internal server infection
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [Invoke-Powershell](https://github.com/CyberMonitor/Invoke-Adversary) PowerShell script that helps you to evaluate security products and monitoring solutions
+- ![Open Source](https://img.shields.io/badge/-Open%20Source-green) [DSInternals](https://github.com/MichaelGrafnetter/DSInternals) Active directory PowerShell Module and Framework
 
 ### 🎮 Command & Control
 - ![Free](https://img.shields.io/badge/-Free-blue) [C2 Matrix](https://www.thec2matrix.com/matrix) Find the best C2 framework for your needs based on your target environment
